@@ -1,0 +1,111 @@
+.sidebar-container {
+  // background-color: #f5f5f2;
+  // position: absolute;
+  // top: 60px;
+  // left: 0;
+  // bottom: 0;
+  // // min-width:400px;
+  // min-width: 260px;
+  // max-width: 60%;
+  // height: max-content;
+  // background-color: #f5f5f2;
+  // overflow-y: scroll;
+  // z-index: 99999999999;
+  // min-height: 352vh;
+  background-color: #f5f5f2;
+  position: fixed;
+  top: 0px;
+  left: 0;
+  bottom: 0;
+  min-width: 260px;
+  max-width: 60%;
+  overflow-y: auto;
+
+
+  .sidebar-logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 30px 0;
+    width: 100%;
+  }
+
+  .sidebar-item {
+    color: #2c4861;
+    font-weight: 600;
+    // font-size: 30px;
+    font-size: 14px;
+    padding: 15px 0 15px 30px;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    height: 5.5%;
+  }
+
+  .sidebar-icon {
+    width: 30px;
+    height: 30px;
+    transition: opacity 0.3s;
+  }
+}
+
+.sidebar-container-sm {
+  border-radius: 8px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  bottom: 0;
+  width: 50px;
+  height: 35px;
+  // height: 200vh;
+  background-color: #ffff;
+  overflow-y: hidden;
+  // z-index: 99999999999;
+
+  // .sidebar-logo-container {
+  //   display: flex;
+  //   justify-content: center;
+  //   align-items: flex-start;
+  //   padding: 10px 0;
+  //   width: 100%;
+  // }
+
+  // .sidebar-item {
+  //   color: #2c4861;
+  //   font-size: 22px;
+  //   padding: 15px 10px 15px 10px;
+  //   cursor: pointer;
+  //   user-select: none;
+  //   display: flex;
+  //   align-items: center;
+  // }
+
+  // .sidebar-icon {
+  //   width: 22px;
+  //   height: 22px;
+  //   transition: opacity 0.3s;
+  // }
+}
+
+@media (max-width: 768px) {
+  .sidebar-container {
+    width: 100%;
+    z-index: 99999999999;
+    min-width: 100%;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .active-menu .sidebar-container {
+    position: inherit !important;
+  }
+  .page-body {
+  display: none;
+  }
+  .center-btn{
+    padding-top: 3px !important;
+  }
+
+}

@@ -1,0 +1,137 @@
+ .welcome-bg {
+ 	background-repeat: no-repeat;
+ 	background-position: center center;
+ 	background-image: url("../../assets/desktop/welcome_background.jpg");
+ 	background-size: cover;
+ 	height: 100vh;
+ 	min-height: 100%;
+
+ }
+
+ .landing-bg {
+	height: 100vh;
+	min-height: 100%;
+	overflow: hidden;
+
+}
+
+ .welcome-middle-bg {
+ 	// opacity: 0.9;
+ 	background-image: url("../../assets/desktop/welcome/welcome-middle.png");
+ 	background-size: cover;
+	backdrop-filter: blur( 10px );
+ 	width: 40%;
+ 	min-height: 100vh;
+ 	height: 100%;
+ 	margin: 0 auto;
+ 	display: grid;
+ 	grid-template-rows: 260px 1fr 150px;
+ 	justify-content: center;
+ 	justify-items: center;
+  }
+
+  @media screen and (max-width: 767px) {
+    .welcome-middle-bg {
+      display: block !important;
+    }
+    }
+
+	@media screen and (max-width: 767px) {
+		.mobile-height-welcome {
+		  margin-top: -1rem !important;
+		  margin-bottom: 26px !important;
+		}
+		}
+	@media screen and (max-width: 767px) {
+			.mobile-logo-welcome {
+			 margin-left: 110px !important;
+			}
+	}
+
+ .welcome-middle {
+ 	display: flex;
+ 	flex-direction: column;
+ 	align-items: center;
+ 	user-select: none;
+ }
+
+ .auth-container {
+ 	display: grid;
+ 	grid-template-columns: 40% 60%;
+ 	height: 150vh;
+ }
+
+ .auth-pic-left {
+ 	background-image: url("../../assets/desktop/bk_pool.png");
+ 	background-size: cover;
+ 	height: 150vh;
+ }
+
+ .auth-main {
+ 	display: grid;
+ 	grid-template-rows: 1fr 50px;
+ }
+
+ .auth-footer {
+ 	border-top: 1px solid #DFDFDF;
+ 	width: calc(100% - 100px);
+ 	display: flex;
+ 	align-items: center;
+ 	justify-content: center;
+ 	justify-self: center;
+ }
+
+ .auth-box-parent {
+ 	display: flex;
+ 	align-items: center;
+ 	justify-content: center;
+ 	background: #FDFDFD;
+ }
+
+ .auth-box-child {
+ 	box-sizing: border-box;
+ 	font-family: "Quicksand", sans-serif;
+ 	left: 0;
+ 	position: relative;
+ 	top: 0;
+ 	text-align: left;
+ 	width: 394px;
+ }
+
+ .auth-box-child-mobile {
+ 	box-sizing: border-box;
+ 	font-family: "Quicksand", sans-serif;
+ 	height: 100%;
+ 	padding: 35px;
+ 	left: 0;
+ 	position: relative;
+ 	top: 0;
+ 	text-align: left;
+ 	width: 100%;
+ }
+
+ .forgot-password {
+ 	margin-top: 18px;
+ 	text-align: center;
+ 	width: 100%;
+ }
+
+ .custom-link {
+ 	color: "#0d6efd" !important;
+ 	text-decoration: underline !important;
+ 	cursor: pointer !important;
+ }
+
+ .small-text {
+ 	font-size: 13px !important;
+ }
+
+ .image-width {
+ 	width: 25% !important;
+ }
+
+ @media screen and (max-width: 760px) {
+ 	.image-width {
+ 		width: 40% !important;
+ 	}
+ }

@@ -1,0 +1,46 @@
+.collections-container {
+  display: grid;
+  * {
+    box-sizing: border-box;
+  }
+
+.collections-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.video-collection-box {
+  border-radius: 21px !important;
+}
+
+.collections-boxes .box {
+  width: calc(25% - 20px); 
+  margin-bottom: 20px;
+}
+.card-body{
+background-color: rgba(19, 59, 113, 0.5);
+color: white;
+position: absolute;
+bottom: 0px;
+width: 100%;
+border-radius: 17px;
+cursor: pointer;
+}
+@media screen and (max-width: 767px) {
+  .collections-boxes {
+    justify-content: flex-start;
+  }
+  .collections-boxes .box {
+    width: 100%;
+  }
+}
+.search-boxes {
+  grid-row-gap: 10px;
+  width: 100%;
+  padding: 0 20px !important;
+  // padding-top: 30px;
+  // display: flex;
+  // justify-content: space-between;
+}
+}

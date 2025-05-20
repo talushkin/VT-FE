@@ -1,0 +1,3781 @@
+.reserve_pad_lr_10 {
+	padding: 0px 10px 0px 10px;
+}
+.formDataError {
+	color: red;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 5px;
+}
+.property-page-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	.property-slider {
+		display: flex;
+		flex-direction: column;
+		// align-items: center;
+		padding: 20px;
+
+		.images-container {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		button {
+			background-color: transparent;
+			font-size: 50px;
+			color: #036AE1;
+		}
+
+		img {
+			width: 1100px;
+			height: 500px;
+			object-fit: cover;
+		}
+
+		
+
+		.slider-container {
+			position: relative;
+			display: flex;
+			align-items: center;
+		}
+
+		.dot-indicators {
+			display: flex;
+			justify-content: center;
+			margin-top: 10px;
+			padding: 10px;
+			// overflow: auto;
+			// width: 90%;
+
+			.dot {
+				width: 10px;
+				height: 10px;
+				border-radius: 50%;
+				margin: 0 5px;
+				cursor: pointer;
+				background-color: #e4e4e4;
+
+				&.active {
+					background: #036AE1;
+				}
+			}
+		}
+		@media (max-width: 1100px) {
+			img {
+			  width: 600px;
+			  height: auto;
+			}
+		  }
+		@media (max-width: 560px) {
+			img {
+			  width: 500px;
+			  height: auto;
+			}
+		  }
+		
+		
+	}
+	// @media (max-width: 560px) {
+	// 	.property-slider img {
+	// 		width: 500px;
+	// 		height: auto;
+	// 	}
+	// }
+
+	.top-line-small-device {
+		display: flex;
+		align-items: center;
+		gap: 25px;
+		padding: 10px 80px;
+		width: 100%;
+
+		p {
+			font-size: large;
+		}
+
+		h1 {
+			font-size: xx-large;
+			font-weight: 600;
+		}
+	}
+
+	.property-page-container {
+		background-color: white;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+
+		.reservation-slider-details {
+
+			@media (min-width: 990px) {
+				display: flex;
+				justify-content: center;
+
+				.property-slider {
+					padding: 20px 5px;
+				}
+
+				.slider-details {
+					.title {
+						.property-page-body-top-title {
+							text-align: start;
+						}
+						.property-page-body-top-subtitle{
+							text-align: start;
+						}
+					}
+
+					.description {
+						width: 100% !important;
+					}
+				}
+			}
+		}
+
+		.price-details-heading {
+			padding: 5px;
+			font-weight: 500;
+			text-align: center;
+			width: 100%;
+			background-color: #f1f1f1;
+		}
+
+		.property-page-body-top-title {
+			font-size: 40px;
+			font-weight: 600;
+			text-align: center;
+			color: #284866;
+		}
+
+		.property-page-body-top-subtitle {
+			font-size: 25px;
+			text-align: center;
+			color: #284866;
+		}
+
+		.checkIn-checkOut {
+			display: flex;
+			flex-direction: column;
+			margin: 0 auto;
+			justify-content: center;
+			max-width: 600px;
+		}
+
+		.icons {
+			display: flex;
+			justify-content: space-between;
+			max-width: 600px;
+			margin: 0 auto;
+			min-width: 320px;
+			text-align: center;
+		}
+
+		.reservation-details {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.agency-title {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		.property-ondemand {
+			display: flex;
+			justify-content: center;
+			color: #284866;
+
+			h1 {
+				font-weight: 600;
+			}
+
+
+
+		}
+
+		.reservation-additional-fees {
+			@media (max-width: 600px) {
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				max-width: 700px;
+			}
+		}
+
+		.security 
+			 {
+				background: #717171;
+			}
+	
+
+		.house-details {
+			font-size: large;
+		}
+
+		.booking-amount {
+			h2 {
+				font-size: 40px;
+				font-weight: 600;
+			}
+
+			h1 {
+				font-size: 64px;
+				font-weight: 600;
+			}
+		}
+
+		.card-input {
+			height: 50px;
+
+			#card-element {
+				padding: 10px;
+			}
+
+			.css-1an2l2e-control {
+				height: 50px !important;
+			}
+		}
+
+		@media (max-width: 450px) {
+			width: 100%;
+		}
+
+	}
+
+	.mediaViewInfo {
+		--web-view-name: 45 // Web 1920X1080_Guest & Payment_48 Hours Hold – 1;
+			--web-view-id: n_5__Web_1920X1080_Guest__Payment_48_Hours_Hold__1;
+		--web-enable-deep-linking: true;
+	}
+
+	:root {
+		--web-view-ids: n_5__Web_1920X1080_Guest__Payment_48_Hours_Hold__1;
+	}
+
+	* {
+		// margin: 0;
+		// padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	.n_5__Web_1920X1080_Guest__Payment_48_Hours_Hold__1_Class {
+		position: absolute;
+		width: 1920px;
+		height: 3366px;
+		background-color: rgba(255, 255, 255, 1);
+		overflow: hidden;
+		--web-view-name: 45 // Web 1920X1080_Guest & Payment_48 Hours Hold – 1;
+			--web-view-id: n_5__Web_1920X1080_Guest__Payment_48_Hours_Hold__1;
+		--web-enable-deep-linking: true;
+	}
+
+	.bg_inn_Class {
+		fill: rgba(253, 253, 253, 1);
+	}
+
+	.bg_inn {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 3366px;
+		left: 0px;
+		top: 0px;
+	}
+	.Scroll_Group_2_Class {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 1686.718px;
+		height: 254.214px;
+		left: 232.281px;
+		top: 75.085px;
+		display: none;
+		overflow: hidden;
+	}
+	.screen_shot_2020_07__jk7r5_Class {
+		position: absolute;
+		width: 1686.717px;
+		height: 1097.214px;
+		left: 0px;
+		top: -284px;
+		overflow: visible;
+	}
+
+	.Bg_header_Class {
+		fill: rgba(19, 59, 113, 1);
+	}
+
+	.Bg_header {
+		display: none;
+		overflow: visible;
+		position: absolute;
+		width: 1656.666px;
+		height: 254.299px;
+		left: 259.332px;
+		top: 75px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Group_1405_Class {
+		position: absolute;
+		width: 57px;
+		height: 23px;
+		left: 31px;
+		top: 183px;
+		overflow: visible;
+	}
+	.Down_Arrow_3__Class {
+		position: absolute;
+		width: 7.673px;
+		height: 13.733px;
+		left: 0px;
+		top: 5.466px;
+		overflow: visible;
+	}
+
+	.Down_Arrow_3__q_Class {
+		fill: rgba(3, 106, 225, 1);
+	}
+
+	.Down_Arrow_3__q {
+		overflow: visible;
+		position: absolute;
+		width: 13.733px;
+		height: 7.673px;
+		transform: translate(0px, 0px) matrix(1, 0, 0, 1, -3.0302, 3.0302) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	.Back_Class {
+		left: 14px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(3, 106, 225, 1);
+		letter-spacing: 0.1px;
+	}
+
+	.Rectangle_602_Class {
+		fill: rgba(249, 249, 247, 1);
+	}
+
+	.Rectangle_602 {
+		position: absolute;
+		overflow: visible;
+		width: 1598px;
+		height: 73px;
+		left: 25px;
+		top: 284px;
+	}
+
+	.Rectangle_605_Class {
+		fill: rgba(249, 249, 247, 1);
+	}
+
+	.Rectangle_605 {
+		position: absolute;
+		overflow: visible;
+		width: 1598px;
+		height: 73px;
+		left: 27px;
+		top: 1331.412px;
+	}
+	.Reservation_Summary__Class {
+		left: 25px;
+		top: 218px;
+		position: absolute;
+		overflow: hidden;
+		width: 435px;
+		height: 45px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Price_Details_Class {
+		left: 51.5px;
+		top: 300px;
+		position: absolute;
+		overflow: visible;
+		width: 209.774px;
+		height: 45px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Book_your_Guest_Trip_ek_Class {
+		left: 54.664px;
+		top: 1344.549px;
+		position: absolute;
+		overflow: visible;
+		width: 388.631px;
+		height: 45px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Group_1344_Class {
+		position: absolute;
+		width: 537.097px;
+		height: 360.171px;
+		left: 26px;
+		top: 401.171px;
+		overflow: visible;
+	}
+	.Image_7_Class {
+		position: absolute;
+		width: 537.098px;
+		height: 360.171px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Check-In_Class {
+		left: 622.5px;
+		top: 589.743px;
+		position: absolute;
+		overflow: visible;
+		width: 112px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Check-Out_Class {
+		left: 622.5px;
+		top: 636.086px;
+		position: absolute;
+		overflow: visible;
+		width: 135px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Component_Arrive_Class {
+		position: absolute;
+		width: 111px;
+		height: 34px;
+		left: 802.869px;
+		top: 587.005px;
+		overflow: visible;
+	}
+	.n_612023_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.Component_Arrive__Class {
+		position: absolute;
+		width: 292px;
+		height: 34px;
+		left: 971.627px;
+		top: 590.69px;
+		overflow: visible;
+	}
+	.Time_1500_PM_24-hour_Class {
+		left: 1px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 291px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.Component_Depart_Class {
+		position: absolute;
+		width: 101px;
+		height: 34px;
+		left: 802.869px;
+		top: 634.347px;
+		overflow: visible;
+	}
+	.n_22023_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 102px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.Time_1000_AM_24-hour_Class {
+		left: 972.627px;
+		top: 634.347px;
+		position: absolute;
+		overflow: visible;
+		width: 295px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.Villa_Class {
+		left: 800.869px;
+		top: 481.774px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(100, 100, 100, 1);
+	}
+
+	.Type_Class {
+		left: 615px;
+		top: 481.774px;
+		position: absolute;
+		overflow: visible;
+		width: 52px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(100, 100, 100, 1);
+	}
+
+	.Minimum_Stay_Class {
+		left: 616px;
+		top: 522.155px;
+		position: absolute;
+		overflow: visible;
+		width: 147px;
+		white-space: nowrap;
+		line-height: 59px;
+		margin-top: -18.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(100, 100, 100, 1);
+	}
+
+	.Property_ID_Class {
+		left: 616px;
+		top: 445.445px;
+		position: absolute;
+		overflow: visible;
+		width: 119px;
+		white-space: nowrap;
+		line-height: 60px;
+		margin-top: -19px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(100, 100, 100, 1);
+	}
+
+	.n_235185461_Class {
+		left: 802.869px;
+		top: 445.205px;
+		position: absolute;
+		overflow: visible;
+		width: 108px;
+		white-space: nowrap;
+		line-height: 59px;
+		margin-top: -18.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(100, 100, 100, 1);
+	}
+
+	.n__nights_Class {
+		left: 802.869px;
+		top: 520.344px;
+		position: absolute;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		line-height: 59px;
+		margin-top: -18.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(100, 100, 100, 1);
+	}
+
+	.n_Renovated_19th_Century_Crown_Class {
+		left: 604.777px;
+		top: 392.294px;
+		position: absolute;
+		overflow: hidden;
+		width: 667.849px;
+		height: 38.34228515625px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 32px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Path_3423_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3423 {
+		overflow: visible;
+		position: absolute;
+		width: 1598px;
+		height: 1px;
+		left: 25px;
+		top: 357.137px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_3450_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3450 {
+		overflow: visible;
+		position: absolute;
+		width: 1598px;
+		height: 1px;
+		left: 27px;
+		top: 1404.549px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_3447_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3447 {
+		overflow: visible;
+		position: absolute;
+		width: 1038.223px;
+		height: 1px;
+		left: 608.777px;
+		top: 575.018px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_3448_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3448 {
+		overflow: visible;
+		position: absolute;
+		width: 1038.223px;
+		height: 1px;
+		left: 608.777px;
+		top: 688.777px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Group_1487_Class {
+		position: absolute;
+		width: 538.323px;
+		height: 43.076px;
+		left: 620.592px;
+		top: 718.267px;
+		overflow: visible;
+	}
+	.Guest_16_Class {
+		left: 50.896px;
+		top: 8.428px;
+		position: absolute;
+		overflow: visible;
+		width: 70px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.Bedrooms_8_Class {
+		left: 226.447px;
+		top: 8.428px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.Bedrooms_10_Class {
+		left: 431.322px;
+		top: 8.428px;
+		position: absolute;
+		overflow: visible;
+		width: 108px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.g69_Class {
+		position: absolute;
+		width: 45.219px;
+		height: 43.076px;
+		left: 171.48px;
+		top: 0px;
+		overflow: visible;
+	}
+	.g71_Class {
+		position: absolute;
+		width: 45.219px;
+		height: 43.076px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.g73_Class {
+		position: absolute;
+		width: 45.219px;
+		height: 43.076px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Layer_3_Class {
+		position: absolute;
+		width: 41.148px;
+		height: 35.932px;
+		left: 0px;
+		top: 3.746px;
+		overflow: visible;
+	}
+	.Group_282_Class {
+		position: absolute;
+		width: 41.148px;
+		height: 35.932px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.ARC_423__Class {
+		position: absolute;
+		width: 13.852px;
+		height: 3.936px;
+		left: 26.896px;
+		top: 25.353px;
+		overflow: visible;
+	}
+	.Group_264_Class {
+		position: absolute;
+		width: 13.852px;
+		height: 3.936px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2919_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2919 {
+		overflow: visible;
+		position: absolute;
+		width: 13.852px;
+		height: 3.936px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.ARC_422__Class {
+		position: absolute;
+		width: 8.234px;
+		height: 5.459px;
+		left: 20.859px;
+		top: 14.062px;
+		overflow: visible;
+	}
+	.Group_265_Class {
+		position: absolute;
+		width: 8.234px;
+		height: 5.459px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2920_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2920 {
+		overflow: visible;
+		position: absolute;
+		width: 8.234px;
+		height: 5.459px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.CIRCLE_38__Class {
+		position: absolute;
+		width: 14.229px;
+		height: 14.228px;
+		left: 23.303px;
+		top: 2.01px;
+		overflow: visible;
+	}
+	.Group_266_Class {
+		position: absolute;
+		width: 14.229px;
+		height: 14.228px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2921_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2921 {
+		overflow: visible;
+		position: absolute;
+		width: 14.23px;
+		height: 14.228px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.ARC_421__Class {
+		position: absolute;
+		width: 9.408px;
+		height: 9.408px;
+		left: 31.74px;
+		top: 14.063px;
+		overflow: visible;
+	}
+	.Group_267_Class {
+		position: absolute;
+		width: 9.408px;
+		height: 9.408px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2922_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2922 {
+		overflow: visible;
+		position: absolute;
+		width: 9.408px;
+		height: 9.408px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.LINE_818__Class {
+		position: absolute;
+		width: 6.998px;
+		height: 2.176px;
+		left: 26.92px;
+		top: 14.062px;
+		overflow: visible;
+	}
+	.Group_268_Class {
+		position: absolute;
+		width: 6.998px;
+		height: 2.176px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2923_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2923 {
+		overflow: visible;
+		position: absolute;
+		width: 6.996px;
+		height: 2.176px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.LINE_817__Class {
+		position: absolute;
+		width: 2.176px;
+		height: 5.792px;
+		left: 38.973px;
+		top: 21.294px;
+		overflow: visible;
+	}
+	.Group_269_Class {
+		position: absolute;
+		width: 2.176px;
+		height: 5.792px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2924_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2924 {
+		overflow: visible;
+		position: absolute;
+		width: 2.176px;
+		height: 5.792px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.ARC_420__Class {
+		position: absolute;
+		width: 11.818px;
+		height: 11.818px;
+		left: 0.002px;
+		top: 16.072px;
+		overflow: visible;
+	}
+	.Group_270_Class {
+		position: absolute;
+		width: 11.818px;
+		height: 11.818px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2925_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2925 {
+		overflow: visible;
+		position: absolute;
+		width: 11.818px;
+		height: 11.818px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.LINE_816__Class {
+		position: absolute;
+		width: 8.605px;
+		height: 2.176px;
+		left: 9.643px;
+		top: 16.072px;
+		overflow: visible;
+	}
+	.Group_271_Class {
+		position: absolute;
+		width: 8.605px;
+		height: 2.176px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2926_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2926 {
+		overflow: visible;
+		position: absolute;
+		width: 8.604px;
+		height: 2.176px;
+		left: 0.002px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.LINE_815__Class {
+		position: absolute;
+		width: 2.176px;
+		height: 6.998px;
+		left: 0.002px;
+		top: 25.713px;
+		overflow: visible;
+	}
+	.Group_273_Class {
+		position: absolute;
+		width: 2.176px;
+		height: 6.998px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2928_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2928 {
+		overflow: visible;
+		position: absolute;
+		width: 2.176px;
+		height: 6.998px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.CIRCLE_37__Class {
+		position: absolute;
+		width: 18.248px;
+		height: 18.248px;
+		left: 4.822px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Group_274_Class {
+		position: absolute;
+		width: 18.248px;
+		height: 18.248px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2929_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2929 {
+		overflow: visible;
+		position: absolute;
+		width: 18.248px;
+		height: 18.248px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.ARC_418__Class {
+		position: absolute;
+		width: 11.818px;
+		height: 11.818px;
+		left: 16.072px;
+		top: 16.072px;
+		overflow: visible;
+	}
+	.Group_275_Class {
+		position: absolute;
+		width: 11.818px;
+		height: 11.818px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2930_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2930 {
+		overflow: visible;
+		position: absolute;
+		width: 11.818px;
+		height: 11.818px;
+		left: -0.002px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.LINE_814__Class {
+		position: absolute;
+		width: 2.176px;
+		height: 6.998px;
+		left: 25.713px;
+		top: 25.713px;
+		overflow: visible;
+	}
+	.Group_276_Class {
+		position: absolute;
+		width: 2.176px;
+		height: 6.998px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2931_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2931 {
+		overflow: visible;
+		position: absolute;
+		width: 2.178px;
+		height: 6.998px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.ARC_417__Class {
+		position: absolute;
+		width: 27.891px;
+		height: 5.397px;
+		left: 0px;
+		top: 30.535px;
+		overflow: visible;
+	}
+	.Group_277_Class {
+		position: absolute;
+		width: 27.891px;
+		height: 5.397px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_2932_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_2932 {
+		overflow: visible;
+		position: absolute;
+		width: 27.893px;
+		height: 5.397px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Group_1483_Class {
+		position: absolute;
+		width: 38.021px;
+		height: 34.638px;
+		left: 383.553px;
+		top: 4.682px;
+		overflow: visible;
+	}
+	.g916_Class {
+		position: absolute;
+		width: 38.021px;
+		height: 34.638px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.g815_Class {
+		position: absolute;
+		width: 48.359px;
+		height: 48.359px;
+		left: 1193.41px;
+		top: 710.8px;
+		overflow: visible;
+	}
+	.g817_Class {
+		position: absolute;
+		width: 48.359px;
+		height: 48.359px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Event_Places_Class {
+		left: 1248.914px;
+		top: 724.48px;
+		position: absolute;
+		overflow: visible;
+		width: 101px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.Group_1477_Class {
+		position: absolute;
+		width: 972px;
+		height: 210px;
+		left: 54.664px;
+		top: 1450px;
+		overflow: visible;
+	}
+	.pdf_1_Class {
+		position: absolute;
+		width: 20.5px;
+		height: 24.967px;
+		left: 146.262px;
+		top: 12.991px;
+		overflow: visible;
+	}
+	.Group_602_Class {
+		position: absolute;
+		width: 20.5px;
+		height: 24.967px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Group_601_Class {
+		position: absolute;
+		width: 20.5px;
+		height: 24.967px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Path_3022_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(255, 255, 255, 1);
+		stroke-width: 0.30000001192092896px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3022 {
+		overflow: visible;
+		position: absolute;
+		width: 20.801px;
+		height: 25.267px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_3023_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(255, 255, 255, 1);
+		stroke-width: 0.30000001192092896px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3023 {
+		overflow: visible;
+		position: absolute;
+		width: 13.967px;
+		height: 13.966px;
+		left: 3.416px;
+		top: 7.534px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Title_form_in_Class {
+		position: absolute;
+		width: 153px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Guest_First_Name_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Title_form_in_c_Class {
+		position: absolute;
+		width: 152px;
+		height: 23px;
+		left: 506.02px;
+		top: 2px;
+		overflow: visible;
+	}
+	.Guest_Last_Name_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 152px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_Class {
+		position: absolute;
+		width: 465.85px;
+		height: 53px;
+		left: 506.02px;
+		top: 35.277px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 465.85px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Rockman_Class {
+		left: 20px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 74px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_dd_Class {
+		position: absolute;
+		width: 293px;
+		height: 53px;
+		left: 0px;
+		top: 157px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_de_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_de {
+		position: absolute;
+		overflow: visible;
+		width: 293px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Ttavelsmilinghousech_Class {
+		left: 20px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 193px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Title_form_in_dg_Class {
+		position: absolute;
+		width: 59px;
+		height: 23px;
+		left: 330.25px;
+		top: 124.097px;
+		overflow: visible;
+	}
+	.Phone_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 60px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_di_Class {
+		position: absolute;
+		width: 302.5px;
+		height: 53px;
+		left: 330px;
+		top: 157px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_dj_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_dj {
+		position: absolute;
+		overflow: visible;
+		width: 302.5px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.n_1-79-489-7021_Class {
+		left: 20px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 142px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Title_form_in_dl_Class {
+		position: absolute;
+		width: 74px;
+		height: 23px;
+		left: 667.369px;
+		top: 124.097px;
+		overflow: visible;
+	}
+	.Country_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 74px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_dn_Class {
+		position: absolute;
+		width: 302.5px;
+		height: 53px;
+		left: 669.5px;
+		top: 157px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_do_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_do {
+		position: absolute;
+		overflow: visible;
+		width: 302.5px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Down_Arrow_3__dp_Class {
+		position: absolute;
+		width: 13.2px;
+		height: 7.2px;
+		left: 276.5px;
+		top: 23.228px;
+		overflow: visible;
+	}
+
+	.Down_Arrow_3__dq_Class {
+		fill: rgba(112, 112, 112, 1);
+	}
+
+	.Down_Arrow_3__dq {
+		overflow: visible;
+		position: absolute;
+		width: 13.199px;
+		height: 7.2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Switzerland_Class {
+		left: 20px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 92px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Title_form_in_ds_Class {
+		position: absolute;
+		width: 58px;
+		height: 23px;
+		left: 0px;
+		top: 124.097px;
+		overflow: visible;
+	}
+	.E-Mail_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 58px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_du_Class {
+		position: absolute;
+		width: 463.85px;
+		height: 53px;
+		left: 0px;
+		top: 34.906px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_dv_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_dv {
+		position: absolute;
+		overflow: visible;
+		width: 463.85px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Moriya_Class {
+		left: 20px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 56px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Rectangle_606_Class {
+		fill: rgba(249, 249, 247, 1);
+	}
+
+	.Rectangle_606 {
+		position: absolute;
+		overflow: visible;
+		width: 1598px;
+		height: 73px;
+		left: 27px;
+		top: 2125px;
+	}
+	.Book_this_Property_Now_Class {
+		left: 51.5px;
+		top: 2138px;
+		position: absolute;
+		overflow: visible;
+		width: 392.716px;
+		height: 57px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Path_3451_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3451 {
+		overflow: visible;
+		position: absolute;
+		width: 1598px;
+		height: 1px;
+		left: 27px;
+		top: 2198px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_3458_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3458 {
+		overflow: visible;
+		position: absolute;
+		width: 1587px;
+		height: 1px;
+		left: 38px;
+		top: 2468px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Path_3453_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3453 {
+		overflow: visible;
+		position: absolute;
+		width: 1558.146px;
+		height: 1px;
+		left: 49.854px;
+		top: 3155.676px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Component_All_rights_Class {
+		position: absolute;
+		width: 482px;
+		height: 18px;
+		left: 595px;
+		top: 3312.778px;
+		overflow: visible;
+	}
+	.n_2023_VillaTracker_All_rights_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 483px;
+		height: 18px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Total_Booking_Amount__Class {
+		left: 1327px;
+		top: 3035.612px;
+		position: absolute;
+		overflow: visible;
+		width: 281px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(40, 72, 102, 1);
+		letter-spacing: 0.25px;
+	}
+
+	.For_7_Nights_Class {
+		left: 1484px;
+		top: 3091.112px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -7.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Group_1491_Class {
+		position: absolute;
+		width: 164px;
+		height: 60px;
+		left: 1308px;
+		top: 3074.112px;
+		overflow: visible;
+	}
+	.n_2076_Class {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 147px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 48px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Text_Class {
+		left: 0px;
+		top: 9px;
+		position: absolute;
+		overflow: visible;
+		width: 16px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Path_3454_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3454 {
+		overflow: visible;
+		position: absolute;
+		width: 1558.146px;
+		height: 1px;
+		left: 56.5px;
+		top: 3278.239px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Payment_Schedule_Class {
+		left: 51px;
+		top: 1825.537px;
+		position: absolute;
+		overflow: visible;
+		width: 263px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Amount_Due_Today__Total_Bookin_Class {
+		left: 50px;
+		top: 1885.057px;
+		position: absolute;
+		overflow: visible;
+		width: 676px;
+		height: 79.025390625px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Any_extra_cost_will_be_charged_Class {
+		left: 50px;
+		top: 1977px;
+		position: absolute;
+		overflow: hidden;
+		width: 1559px;
+		height: 113px;
+		line-height: 35px;
+		margin-top: -6.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Group_1492_Class {
+		position: absolute;
+		width: 89.088px;
+		height: 33px;
+		left: 262.307px;
+		top: 1883.037px;
+		overflow: visible;
+	}
+	.n_2076_ee_Class {
+		left: 10.088px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Text_ef_Class {
+		left: 0px;
+		top: 5.044px;
+		position: absolute;
+		overflow: visible;
+		width: 9px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Group_1493_Class {
+		position: absolute;
+		width: 89.088px;
+		height: 33px;
+		left: 293.307px;
+		top: 1922.569px;
+		overflow: visible;
+	}
+	.n_2076_eh_Class {
+		left: 10.088px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Text_ei_Class {
+		left: 0px;
+		top: 5.044px;
+		position: absolute;
+		overflow: visible;
+		width: 9px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 13px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Rectangle_607_Class {
+		fill: rgba(249, 249, 247, 1);
+	}
+
+	.Rectangle_607 {
+		position: absolute;
+		overflow: visible;
+		width: 1598px;
+		height: 73px;
+		left: 27px;
+		top: 1331.412px;
+	}
+	.Book_your_Guest_Trip_ek_Class {
+		left: 54.664px;
+		top: 1344.549px;
+		position: absolute;
+		overflow: visible;
+		width: 388.631px;
+		height: 45px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Path_3456_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3456 {
+		overflow: visible;
+		position: absolute;
+		width: 1598px;
+		height: 1px;
+		left: 27px;
+		top: 1404.549px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Rectangle_608_Class {
+		fill: rgba(249, 249, 247, 1);
+	}
+
+	.Rectangle_608 {
+		position: absolute;
+		overflow: visible;
+		width: 1598px;
+		height: 73px;
+		left: 27px;
+		top: 1705.45px;
+	}
+	.Payment_Information_Class {
+		left: 54.664px;
+		top: 1718.588px;
+		position: absolute;
+		overflow: visible;
+		width: 388.631px;
+		height: 45px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Path_3457_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3457 {
+		overflow: visible;
+		position: absolute;
+		width: 1598px;
+		height: 1px;
+		left: 27px;
+		top: 1778.588px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Please_select_the_payment_meth_Class {
+		left: 59px;
+		top: 2243.45px;
+		position: absolute;
+		overflow: visible;
+		width: 499px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Wire_Transfer__Class {
+		left: 105px;
+		top: 2303px;
+		position: absolute;
+		overflow: visible;
+		width: 167px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.n_8_Hours_Hold_Class {
+		left: 861px;
+		top: 2303px;
+		position: absolute;
+		overflow: visible;
+		width: 165px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.choose_button_Class {
+		position: absolute;
+		width: 28px;
+		height: 28px;
+		left: 813.387px;
+		top: 2304px;
+		overflow: visible;
+	}
+
+	.Ellipse_28_Class {
+		fill: transparent;
+		stroke: rgba(40, 72, 102, 1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_28 {
+		position: absolute;
+		overflow: visible;
+		width: 28px;
+		height: 28px;
+		left: 0px;
+		top: 0px;
+	}
+
+	.Path_3018_Class {
+		fill: rgba(40, 72, 102, 1);
+	}
+
+	.Path_3018 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 34px;
+		height: 34px;
+		left: 6px;
+		top: 6px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Rectangle_609_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(222, 222, 222, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_609 {
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		height: 120px;
+		left: 748.604px;
+		top: 2303px;
+	}
+	.choose_button_ew_Class {
+		position: absolute;
+		width: 28px;
+		height: 28px;
+		left: 59.035px;
+		top: 2304px;
+		overflow: visible;
+	}
+
+	.Ellipse_28_ex_Class {
+		fill: transparent;
+		stroke: rgba(40, 72, 102, 1);
+		stroke-width: 3px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ellipse_28_ex {
+		position: absolute;
+		overflow: visible;
+		width: 28px;
+		height: 28px;
+		left: 0px;
+		top: 0px;
+	}
+	.Your_request_will_be_sent_to_t_Class {
+		left: 104px;
+		top: 2356px;
+		position: absolute;
+		overflow: visible;
+		width: 580px;
+		height: 55px;
+		line-height: 30px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.By_holding_this_property_for_4_Class {
+		left: 859px;
+		top: 2354px;
+		position: absolute;
+		overflow: visible;
+		width: 580px;
+		height: 55px;
+		line-height: 30px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.buttons_Class {
+		position: absolute;
+		width: 324px;
+		height: 55px;
+		left: 1284px;
+		top: 3187.288px;
+		overflow: visible;
+		padding: 15px 36px 15px 36px;
+	}
+
+	.Rectangle_396_Class {
+		fill: rgba(27, 156, 93, 1);
+	}
+
+	.Rectangle_396 {
+		position: absolute;
+		overflow: visible;
+		width: 324px;
+		height: 55px;
+		left: 0px;
+		top: 0px;
+	}
+	.Hold_Property_For_48_Hours_Class {
+		left: 36px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255, 255, 255, 1);
+	}
+
+	.Component_38__5_Class {
+		position: absolute;
+		width: 71px;
+		height: 28px;
+		left: 1193px;
+		top: 3200.788px;
+		overflow: visible;
+	}
+	.Cancel_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 72px;
+		height: 28px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(209, 209, 209, 1);
+	}
+
+	.Title_form_in_e_Class {
+		position: absolute;
+		width: 201px;
+		height: 23px;
+		left: 49.854px;
+		top: 2615.64px;
+		overflow: visible;
+	}
+	.Card_Holder_First_Name_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 201px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Title_form_in_fa_Class {
+		position: absolute;
+		width: 200px;
+		height: 23px;
+		left: 510.604px;
+		top: 2615.736px;
+		overflow: visible;
+	}
+	.Card_Holder_Last_Name_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 200px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_e_Class {
+		position: absolute;
+		width: 433.5px;
+		height: 53px;
+		left: 49px;
+		top: 2653.64px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_fa_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_fa {
+		position: absolute;
+		overflow: visible;
+		width: 433.5px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.form_fb_Class {
+		position: absolute;
+		width: 433.5px;
+		height: 53px;
+		left: 510.604px;
+		top: 2652.64px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_fc_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_fc {
+		position: absolute;
+		overflow: visible;
+		width: 433.5px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.form_fd_Class {
+		position: absolute;
+		width: 282.5px;
+		height: 53px;
+		left: 49px;
+		top: 2762.694px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_fe_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_fe {
+		position: absolute;
+		overflow: visible;
+		width: 282.5px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.form_ff_Class {
+		position: absolute;
+		width: 282.5px;
+		height: 53px;
+		left: 354px;
+		top: 2759.496px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_fg_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_fg {
+		position: absolute;
+		overflow: visible;
+		width: 282.5px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Title_form_in_fh_Class {
+		position: absolute;
+		width: 33px;
+		height: 23px;
+		left: 354px;
+		top: 2729.64px;
+		overflow: visible;
+	}
+	.City_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 33px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Title_form_in_fj_Class {
+		position: absolute;
+		width: 68px;
+		height: 23px;
+		left: 670px;
+		top: 2721.07px;
+		overflow: visible;
+	}
+	.Country_fk_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_fl_Class {
+		position: absolute;
+		width: 278px;
+		height: 82.802px;
+		left: 49px;
+		top: 2850.233px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_fm_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_fm {
+		position: absolute;
+		overflow: visible;
+		width: 278px;
+		height: 53px;
+		left: 0px;
+		top: 29.802px;
+	}
+	.Title_form_in_fn_Class {
+		position: absolute;
+		width: 88px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Card_Type_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 88px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Master_Card_Class {
+		left: 19.5px;
+		top: 43.448px;
+		position: absolute;
+		overflow: visible;
+		width: 103px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(179, 179, 179, 1);
+	}
+
+	.Down_Arrow_3__fq_Class {
+		fill: rgba(112, 112, 112, 1);
+	}
+
+	.Down_Arrow_3__fq {
+		overflow: visible;
+		position: absolute;
+		width: 13.199px;
+		height: 7.2px;
+		left: 251.801px;
+		top: 52.702px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.form_fr_Class {
+		position: absolute;
+		width: 292px;
+		height: 53px;
+		left: 662.5px;
+		top: 2757.975px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_fs_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_fs {
+		position: absolute;
+		overflow: visible;
+		width: 292px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Down_Arrow_3__ft_Class {
+		position: absolute;
+		width: 13.2px;
+		height: 7.2px;
+		left: 266px;
+		top: 23.228px;
+		overflow: visible;
+	}
+
+	.Down_Arrow_3__fu_Class {
+		fill: rgba(112, 112, 112, 1);
+	}
+
+	.Down_Arrow_3__fu {
+		overflow: visible;
+		position: absolute;
+		width: 13.199px;
+		height: 7.2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Select_Country_Class {
+		left: 18.266px;
+		top: 13.054px;
+		position: absolute;
+		overflow: visible;
+		width: 122px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(179, 179, 179, 1);
+	}
+
+	.Title_form_in_fw_Class {
+		position: absolute;
+		width: 68px;
+		height: 23px;
+		left: 49.854px;
+		top: 2732.57px;
+		overflow: visible;
+	}
+	.Address_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_fy_Class {
+		position: absolute;
+		width: 285.5px;
+		height: 53px;
+		left: 980.5px;
+		top: 2759.496px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_fz_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_fz {
+		position: absolute;
+		overflow: visible;
+		width: 285.5px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Title_form_in_f_Class {
+		position: absolute;
+		width: 101px;
+		height: 23px;
+		left: 980.5px;
+		top: 2732.57px;
+		overflow: visible;
+	}
+	.Postal_Code_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 102px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Title_form_in_ga_Class {
+		position: absolute;
+		width: 80px;
+		height: 23px;
+		left: 982px;
+		top: 2849.035px;
+		overflow: visible;
+	}
+	.CVVCVC_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Title_form_in_gb_Class {
+		position: absolute;
+		width: 114px;
+		height: 23px;
+		left: 354px;
+		top: 2847.034px;
+		overflow: visible;
+	}
+	.Card_Number_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 115px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_f_Class {
+		position: absolute;
+		width: 274px;
+		height: 53px;
+		left: 354px;
+		top: 2880.035px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_f_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_f {
+		position: absolute;
+		overflow: visible;
+		width: 274px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Remember_Me_Class {
+		position: absolute;
+		width: 762.158px;
+		height: 63px;
+		left: 49px;
+		top: 2967.573px;
+		overflow: visible;
+	}
+	.I_have_read_and_agree_with_the_Class {
+		left: 26.158px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 737px;
+		height: 63px;
+		line-height: 25px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.box_Class {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 0px;
+		top: 1px;
+		overflow: visible;
+	}
+
+	.Rectangle_78_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(162, 176, 189, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_78 {
+		position: absolute;
+		overflow: visible;
+		width: 19px;
+		height: 19px;
+		left: 0px;
+		top: 0px;
+	}
+	.vi_Class {
+		position: absolute;
+		width: 12.654px;
+		height: 9.878px;
+		left: 3.172px;
+		top: 5.561px;
+		overflow: visible;
+	}
+
+	.Path_2820_Class {
+		fill: rgba(44, 72, 97, 1);
+	}
+
+	.Path_2820 {
+		overflow: visible;
+		position: absolute;
+		width: 12.654px;
+		height: 9.878px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Group_1429_Class {
+		position: absolute;
+		width: 296.2px;
+		height: 84px;
+		left: 655px;
+		top: 2849.035px;
+		overflow: visible;
+	}
+	.Expiration_Date__Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_gg_Class {
+		position: absolute;
+		width: 136px;
+		height: 53px;
+		left: 160.199px;
+		top: 31px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_gh_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_gh {
+		position: absolute;
+		overflow: visible;
+		width: 136px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.form_gi_Class {
+		position: absolute;
+		width: 138.5px;
+		height: 53px;
+		left: 0.75px;
+		top: 31px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_gj_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_gj {
+		position: absolute;
+		overflow: visible;
+		width: 138.5px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Down_Arrow_3__gk_Class {
+		position: absolute;
+		width: 13.2px;
+		height: 7.2px;
+		left: 106.068px;
+		top: 22.9px;
+		overflow: visible;
+	}
+
+	.Down_Arrow_3__gl_Class {
+		fill: rgba(112, 112, 112, 1);
+	}
+
+	.Down_Arrow_3__gl {
+		overflow: visible;
+		position: absolute;
+		width: 13.201px;
+		height: 7.2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.n__Class {
+		left: 20px;
+		top: 46px;
+		position: absolute;
+		overflow: visible;
+		width: 8px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(179, 179, 179, 1);
+	}
+
+	.n_023_Class {
+		left: 168px;
+		top: 46px;
+		position: absolute;
+		overflow: visible;
+		width: 41px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(179, 179, 179, 1);
+	}
+
+	.Down_Arrow_3__go_Class {
+		position: absolute;
+		width: 13.2px;
+		height: 7.2px;
+		left: 269.068px;
+		top: 53.9px;
+		overflow: visible;
+	}
+
+	.Down_Arrow_3__gp_Class {
+		fill: rgba(112, 112, 112, 1);
+	}
+
+	.Down_Arrow_3__gp {
+		overflow: visible;
+		position: absolute;
+		width: 13.201px;
+		height: 7.2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.form_gq_Class {
+		position: absolute;
+		width: 293px;
+		height: 53px;
+		left: 980px;
+		top: 2880.035px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_gr_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_gr {
+		position: absolute;
+		overflow: visible;
+		width: 293px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.help_Class {
+		position: absolute;
+		width: 18.001px;
+		height: 18px;
+		left: 1068px;
+		top: 2852.035px;
+		overflow: visible;
+	}
+
+	.Union_82_Class {
+		fill: rgba(3, 106, 225, 1);
+	}
+
+	.Union_82 {
+		overflow: visible;
+		position: absolute;
+		width: 18px;
+		height: 18px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Image_36_Class {
+		position: absolute;
+		width: 352.012px;
+		height: 63.478px;
+		left: 269.393px;
+		top: 2503px;
+		overflow: visible;
+	}
+	.Title_form_in_gv_Class {
+		position: absolute;
+		width: 194px;
+		height: 23px;
+		left: 51.5px;
+		top: 2521.433px;
+		overflow: visible;
+	}
+	.Credit_Cards_Accepted_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 194px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Title_form_in_gx_Class {
+		position: absolute;
+		width: 77px;
+		height: 23px;
+		left: 1304px;
+		top: 2849.535px;
+		overflow: visible;
+	}
+	.Currency_Class {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 78px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.form_gz_Class {
+		position: absolute;
+		width: 292px;
+		height: 53px;
+		left: 1306px;
+		top: 2880.035px;
+		overflow: visible;
+	}
+
+	.Rectangle_4_g_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(236, 237, 238, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_g {
+		position: absolute;
+		overflow: visible;
+		width: 292px;
+		height: 53px;
+		left: 0px;
+		top: 0px;
+	}
+	.Down_Arrow_3__g_Class {
+		position: absolute;
+		width: 13.2px;
+		height: 7.2px;
+		left: 266px;
+		top: 23.228px;
+		overflow: visible;
+	}
+
+	.Down_Arrow_3__ha_Class {
+		fill: rgba(112, 112, 112, 1);
+	}
+
+	.Down_Arrow_3__ha {
+		overflow: visible;
+		position: absolute;
+		width: 13.199px;
+		height: 7.2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.United_States_dollar_Class {
+		left: 18.266px;
+		top: 13.054px;
+		position: absolute;
+		overflow: visible;
+		width: 165px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(179, 179, 179, 1);
+	}
+
+	.Rectangle_610_Class {
+		fill: rgba(249, 249, 247, 1);
+	}
+
+	.Rectangle_610 {
+		position: absolute;
+		overflow: visible;
+		width: 1598px;
+		height: 228px;
+		left: 26px;
+		top: 850px;
+	}
+	.For_7_Nights_g_Class {
+		left: 1417.768px;
+		top: 917.518px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -7.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Including_additional_fees__Class {
+		left: 1260.234px;
+		top: 995.967px;
+		position: absolute;
+		overflow: visible;
+		width: 231px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Minus_agency_fees__Class {
+		left: 1260.234px;
+		top: 1024.609px;
+		position: absolute;
+		overflow: visible;
+		width: 177px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Rectangle_603_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(218, 218, 218, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_603 {
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		height: 154px;
+		left: 565px;
+		top: 885px;
+	}
+
+	.Path_3452_Class {
+		fill: rgba(231, 231, 231, 1);
+		stroke: rgba(213, 213, 213, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_3452 {
+		overflow: visible;
+		position: absolute;
+		width: 1598px;
+		height: 1px;
+		left: 26px;
+		top: 850px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Group_1490_Class {
+		position: absolute;
+		width: 164px;
+		height: 60px;
+		left: 1241.768px;
+		top: 920.294px;
+		overflow: visible;
+	}
+	.n_2076_hb_Class {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 147px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 48px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Text_hc_Class {
+		left: 0px;
+		top: 9px;
+		position: absolute;
+		overflow: visible;
+		width: 16px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Total_Booking_Amount__hd_Class {
+		left: 1260.234px;
+		top: 883.294px;
+		position: absolute;
+		overflow: visible;
+		width: 281px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(40, 72, 102, 1);
+		letter-spacing: 0.25px;
+	}
+
+	.Group_1499_Class {
+		position: absolute;
+		width: 472px;
+		height: 114.862px;
+		left: 632.5px;
+		top: 883.489px;
+		overflow: visible;
+	}
+	.n__9160_Class {
+		left: 383px;
+		top: 1.626px;
+		position: absolute;
+		overflow: visible;
+		width: 90px;
+		white-space: nowrap;
+		line-height: 35px;
+		margin-top: -6.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.Agency_Commission_Class {
+		left: 30.832px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 209px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.By_clicking_on_this_the_client_Class {
+		left: 0px;
+		top: 39.862px;
+		position: absolute;
+		overflow: visible;
+		width: 469px;
+		white-space: nowrap;
+		line-height: 25px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(40, 72, 102, 1);
+		letter-spacing: 0.15px;
+	}
+
+	.boxvi_Class {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 2px;
+		top: 4.862px;
+		overflow: visible;
+	}
+	.box_hj_Class {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	.Rectangle_78_hk_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(162, 176, 189, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_78_hk {
+		position: absolute;
+		overflow: visible;
+		width: 19px;
+		height: 19px;
+		left: 0px;
+		top: 0px;
+	}
+	.vi_hl_Class {
+		position: absolute;
+		width: 12.654px;
+		height: 9.878px;
+		left: 3.172px;
+		top: 4.561px;
+		overflow: visible;
+	}
+
+	.Path_2820_hm_Class {
+		fill: rgba(44, 72, 97, 1);
+	}
+
+	.Path_2820_hm {
+		overflow: visible;
+		position: absolute;
+		width: 12.654px;
+		height: 9.878px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	.Cleaning_fee_Price_for_the_sta_Class {
+		left: 55px;
+		top: 878px;
+		position: absolute;
+		overflow: visible;
+		width: 158px;
+		white-space: nowrap;
+		line-height: 30px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.n_00_0_91196_0_0_0_Class {
+		left: 451px;
+		top: 879px;
+		position: absolute;
+		overflow: visible;
+		width: 64px;
+		white-space: nowrap;
+		line-height: 30px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(85, 85, 85, 1);
+	}
+
+	.Additional_Fees_Class {
+		left: 42.049px;
+		top: 790px;
+		position: absolute;
+		overflow: visible;
+		width: 226.631px;
+		height: 45px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(40, 72, 102, 1);
+	}
+
+	.House_rules_and_a_cancellation_Class {
+		left: 50px;
+		top: 1107.786px;
+		position: absolute;
+		overflow: visible;
+		width: 655px;
+		height: 38px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(40, 71, 104, 1);
+	}
+
+	.Click_here_to_view_complete_pr_Class {
+		left: 51.049px;
+		top: 1251.5px;
+		position: absolute;
+		overflow: visible;
+		width: 532px;
+		height: 25px;
+		line-height: 35px;
+		margin-top: -7.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Enjoy_a_48-Hours_Risk_Free_Gua_Class {
+		left: 50px;
+		top: 1164.649px;
+		position: absolute;
+		overflow: visible;
+		width: 1317.967px;
+		height: 73.778564453125px;
+		line-height: 35px;
+		margin-top: -7.5px;
+		text-align: left;
+		font-family: Quicksand;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(112, 112, 112, 1);
+	}
+
+	.Rectangle_611_Class {
+		fill: rgba(255, 255, 255, 1);
+		stroke: rgba(218, 218, 218, 1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_611 {
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		height: 154px;
+		left: 1171px;
+		top: 885px;
+	}
+	.property-main-top {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+
+		.property-main-picture-container {
+			display: flex;
+			flex-direction: column;
+			grid-template-columns: 1fr 40px 700px 40px 1fr;
+			width: 100%;
+			justify-content: center;
+			align-items: center;
+			padding: 15px 25px 0 25px;
+
+			.property-main-picture {
+				width: 700px;
+				height: 470px;
+				position: relative;
+			}
+
+			.property-page-prev-next-pic {
+				padding: 8px;
+			}
+
+			.property-main-picture-bullets {
+				display: flex;
+				align-items: center;
+			}
+
+			.property-main-picture-icons {
+				display: flex;
+				align-self: flex-end;
+				justify-content: flex-end;
+
+				.property-main-picture-icon {
+					padding: 5px;
+					cursor: pointer;
+				}
+			}
+		}
+	}
+
+	.property-page-body-top {
+		padding: 0 40px;
+		display: flex;
+		flex-direction: column;
+
+		.property-page-body-top-left {
+
+			.property-page-body-top-left-info {
+
+				.property-page-body-top-left-info-amenities {
+					display: grid;
+					grid-template-columns: 1fr 1fr 1fr;
+
+					.property-page-body-top-left-info-amenity {
+						display: list-item;
+						margin: 5px 18px;
+					}
+				}
+
+				.property-page-body-top-left-info-amount {
+					display: flex;
+					color: #AAAAAA;
+					flex-direction: column;
+					width: 40px;
+					align-items: center;
+					margin-right: 60px;
+					font-size: 14px;
+					white-space: nowrap;
+				}
+			}
+
+			.property-page-body-top-left-info>* {
+				color: #284768;
+			}
+
+			.property-page-body-top-title {
+				font-size: 40px;
+				color: #284866;
+			}
+
+			.property-page-body-top-subtitle {
+				font-size: 20px;
+				color: #284866;
+			}
+		}
+
+		.property-page-body-top-right {
+
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+
+			.property-page-body-top-dates {
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				width: 100%;
+			}
+
+			.property-page-body-top-price {
+				font-size: 48px;
+				color: #284866;
+			}
+
+			.property-page-body-top-night {
+				font-size: 30px;
+				color: #284866;
+				padding: 10px;
+			}
+
+			.property-page-body-top-commission-price {
+				font-size: 28px;
+				color: #284866;
+			}
+
+			.property-page-body-top-commission-title {
+				font-size: 22px;
+				color: #284866;
+			}
+
+			.property-page-body-top-date-title {
+				font-size: 40px;
+				color: #284866;
+			}
+		}
+
+		@media (max-width: 450) {
+			padding: 5px 5px !important;
+		}
+	}
+
+	.form-label {
+		margin-bottom: 0.5rem !important;
+		font-size: 20px;
+	}
+
+
+}
+@media screen and (max-width: 767px) {
+	.mobile-id {
+	  display: none !important;
+	}
+  }
+  .dot-indicators {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 10px;
+  }
+  
+  .dot {
+	height: 10px;
+	width: 10px;
+	margin: 0 5px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+  }
+  
+  .dot.active {
+	background-color: #717171;
+  }
+
+  
+  
+  

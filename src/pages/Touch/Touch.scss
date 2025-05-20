@@ -1,0 +1,384 @@
+.welcomesss-bg {
+  background-image: linear-gradient(rgba(15, 46, 75, 0.60), rgba(0, 0, 0, 0.60)), url("../../assets/desktop/couple-dancing-by-pool-during-.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  // height: auto;
+  width: 100%;
+  ;
+  opacity: 1;
+  // after this mask it becames distorted
+  // -webkit-mask-image: url('../../assets/mask1.svg');
+  // mask-image: url('../../assets/mask1.svg');
+  // -webkit-mask-repeat: no-repeat;
+  // mask-repeat: no-repeat;
+  // -webkit-mask-position: center center;
+  // mask-position: center center;
+  // width: 150vw;
+}
+
+
+.welcome-middle-bg-new-class {
+  background-size: cover;
+  background-color: black;
+  opacity: 0.8;
+  height: 125vh;
+  margin: 0 auto;
+  display: grid;
+  grid-template-rows: 260px 1fr 150px;
+  justify-content: center;
+  justify-items: center;
+  // after this it becames distorted
+}
+
+
+.welcome-middle-bg-new-class2 {
+  height: 125vh;
+  margin: 0 auto;
+  display: grid;
+  grid-template-rows: 260px 1fr 150px;
+  justify-content: center;
+  justify-items: center;
+  // after this it becames distorted
+}
+
+.welcome-middle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  user-select: none;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1347px;
+  height: 38vh;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.details {
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  letter-spacing: 0px;
+  color: hwb(0 100% 0%);
+  opacity: 1;
+  font-size: 20px;
+}
+
+.inputFields {
+  top: 611px;
+  left: 909px;
+  width: 394px;
+  height: 53px;
+  /* UI Properties */
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  border: 1px solid var(--unnamed-color-ecedee);
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #ecedee;
+  border-radius: 6px;
+  opacity: 1;
+}
+
+.inputFields:hover {
+  border: 1px solid rgb(53, 53, 134);
+}
+
+.inputFields:focus {
+  outline: none;
+  border: 1px solid rgb(53, 134, 53);
+}
+
+.label_name {
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.textAreaFields {
+  top: 610px;
+  left: 1364px;
+  width: 394px;
+  height: 151px;
+  /* UI Properties */
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  border: 1px solid var(--unnamed-color-ecedee);
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #ecedee;
+  border-radius: 6px;
+  opacity: 1;
+  font-size: large;
+}
+
+.textAreaFields:hover {
+  border: 1px solid rgb(53, 53, 134);
+}
+
+.textAreaFields:focus {
+  outline: none;
+  border: 1px solid rgb(53, 134, 53);
+}
+
+.sendBtn {
+  background: #165093 0% 0% no-repeat padding-box;
+  color: white;
+  padding-left: 18px;
+  width: 394px;
+  height: 60px;
+  border-radius: 6px;
+  font-family: Quicksand;
+  font-size: 23px;
+  color: rgba(255, 255, 255, 1);
+  opacity: 1;
+}
+
+.formError {
+  color: rgb(226, 42, 42);
+  font-weight: bold;
+}
+
+
+
+.forgot-password {
+  margin-top: 18px;
+  text-align: center;
+  width: 100%;
+}
+
+.custom-link {
+  color: "#0d6efd" !important;
+  text-decoration: underline !important;
+  cursor: pointer !important;
+}
+
+.small-text {
+  font-size: 13px !important;
+}
+
+.image-width {
+  width: 25% !important;
+}
+
+@media screen and (max-width: 760px) {
+  .image-width {
+    width: 40% !important;
+  }
+}
+
+.hrLine {
+  // margin-top: 10px;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  fill: white;
+  opacity: none;
+}
+
+.footerTxt {
+  display: flex;
+  justify-content: center;
+}
+
+.Path_3106 {
+  width: 30px;
+  margin-right: 6px;
+  color: white;
+}
+
+.icons_details {
+  width: 55px;
+  height: 35px;
+  margin-right: 5px;
+  font-size: 16px;
+  color: #d3f2fd !important;
+
+  // color:rgba(211,242,253,1);
+}
+.react-tel-input .form-control {
+  // background: var(--bs-secondary-bg) !important;
+  // color: #707070 !important;
+}
+.react-tel-input .form-control {
+  // padding: 22.5px 14px 22.5px 60px;
+}
+.message_icon {
+  // height: 50px;
+  width: 40px;
+  color: hsl(151, 83%, 51%);
+}
+
+.msgIcon_container {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -17px;
+  margin-right: -600px;
+  // height: 5px;
+}
+
+.email_container {
+  // border: 2px solid red;
+  display: flex;
+  margin-top: 30px;
+}
+
+#Path_3269 {
+  fill: rgba(93, 205, 93, 1);
+  width: 60px !important;
+
+}
+
+.address_details {
+  text-align: left;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+  word-wrap: normal;
+  font-size: 22px;
+  width: 300px;
+  padding-left: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.address_details_heading {
+  text-align: left;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+  word-wrap: normal;
+  font-size: 22px;
+  width: 300px;
+  padding-left: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.input_name_address {
+  padding-left: 20px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.Component_267__1 {
+
+  position: absolute;
+
+
+}
+
+.top_touchPage {
+  white-space: nowrap;
+  text-align: left;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.middle_touchPage {
+  white-space: nowrap;
+  text-align: left;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.lower_touchPage {
+  white-space: nowrap;
+  text-align: left;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.footer_details {
+  text-align: left;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.footer_details_p {
+  text-align: left;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+  text-decoration: underline;
+}
+
+.get-in-touch-container {
+  background-image: linear-gradient(rgba(67, 105, 141, 0.546), rgba(0, 0, 0, 0.386)), url("../../assets/desktop/couple-dancing-by-pool-during-.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  // min-height: 100vh;
+  height: -webkit-fill-available;
+  width: 100%;
+  opacity: 1;
+}
+
+.get-in-touch-lable {
+  font-weight: 500 !important;
+  letter-spacing: 1px;
+  // font-size: 30px !important;
+}
+
+.get-in-touch-txt {
+  font-weight: 400 !important;
+  letter-spacing: 1px;
+  // font-size: 30px !important;
+}
+
+.get-in-touch-desc {
+  font-weight: 300 !important;
+  letter-spacing: 1px;
+  // font-size: 30px !important;
+}
+
+
+.get-in-touch-header {
+  margin-bottom: 7rem;
+}
+
+.get-in-touch-header .social-icons{
+  display: flex;
+}
+// .get-in-touch-section {
+//   margin: 50px;
+// }
+
+// @media screen and (min-width: 769px) {
+//   .get-in-touch-section {
+//     margin: 50px;
+//   }
+// }
+
+@media screen and (max-width: 767px) {
+	.mobile-ui-touch {
+    padding-top: 0rem !important;
+    padding-left: 0rem !important;
+    padding-bottom: 1rem !important;
+    margin-bottom: 2rem !important;
+	}
+  }
+
+  @media screen and (max-width: 767px) {
+    .mobile-row-intouch {
+      padding-left: 0rem !important;
+    }
+    }

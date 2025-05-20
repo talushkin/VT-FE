@@ -1,0 +1,32 @@
+.client-dropdown-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+  }
+  
+  .client-dropdown-list {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    max-height: 200px;
+    overflow-y: auto;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 2px;
+  }
+  
+  .client-dropdown-item {
+    padding: 8px 12px;
+    cursor: pointer;
+    &:hover {
+      background-color: #f5f5f5;
+    }
+  }
+  
+  .data-row {
+    position: relative;
+  }

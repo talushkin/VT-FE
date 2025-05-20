@@ -1,0 +1,84 @@
+.destinations-wrapper {
+	
+
+	.destinations-container {
+		height: 35px;	
+		background-color: white;
+		border-radius: 4px;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		border: 1px solid rgba(112, 112, 112, 0.1607843137);
+		font-size: 20px;
+		font-weight: 500;
+		color: #0F2E4B;
+		padding: 0px;
+		-webkit-user-select: none;
+		user-select: none;
+		cursor: pointer;
+
+		.destinations-input {
+			padding: 16px;
+			margin: 0;
+			background-color: transparent;
+			border: 0;
+			outline: none;
+			color: #324d65;
+			font-weight: 600;
+		}
+		
+	}
+
+	.destinations-floater {
+		position: absolute;
+		padding: 2px 7px;
+		z-index: 2;
+		background-color: white;
+		background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+		background: #FFFFFF 0% 0% no-repeat padding-box;
+		box-shadow: 0 3px 3px #00000029;
+		border: 1px solid rgb(236, 237, 238);
+		max-height: 250px;
+		// width: 200px;
+		border-bottom-left-radius: 4px;
+		border-bottom-right-radius: 4px;
+		font-size: 22px;
+		color: #707070;
+		overflow-y: auto;
+		overflow-x: hidden;
+		text-overflow: ellipsis;
+		user-select: none;
+		
+		 
+		.destinations-no-results {
+			padding: 10px 0;
+		}
+
+		.destinations-title-option {
+			font-weight: bold;
+			margin-top: 10px;
+			cursor: default;
+		}
+
+		.destinations-label-option {
+			//max-width: 405px;
+			font-weight: 500;
+			margin-top: 10px;
+			cursor: pointer;
+			border: 1px solid transparent;
+			padding: 2px 5px;
+			overflow-x: hidden;
+			text-overflow: ellipsis;
+			user-select: none;
+			white-space: nowrap;
+			
+		}
+
+		.destinations-label-option:hover {
+			margin-top: 10px;
+			cursor: pointer;
+			border: 1px solid #cecece5c;;
+			padding: 2px 5px;
+		}
+	}
+}

@@ -1,0 +1,147 @@
+.page-header-container {
+	// background-color: #16395Ccc;
+	// background: transparent;
+	background-color: #16395C;
+	//opacity : 0.85;
+	// overflow: hidden;
+	//background-image: url(../../assets/bk_pool.png);
+	
+	width: 100%;
+
+	.page-header-property-top {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+	}
+
+	.page-header-top-row2 {
+		padding: 7px 20px;
+		display: flex;
+		align-items: center;
+		row-gap: 12px;
+	}
+
+	.page-header-top-row2-button {
+		margin: 0 5px;
+		font-size: 28;
+		font-family: "Quicksand", sans-serif !important;
+	}
+
+	.page-header-top-advanced {
+		margin: 0 85px;
+		font-size: 28;
+		font-family: "Quicksand", sans-serif !important;
+	}
+
+	.page-header-top-row2-button-advanced {
+		cursor: pointer;
+	}
+
+	.page-header-top-row3 {
+		padding: 0 25px;
+		display: flex;
+		align-items: center;
+		color: white;
+		font-size: 20px;
+	}
+
+	.container-main-home-menu {
+		padding: 0 15px;
+		fill: #16395C;
+		position: sticky;
+		top: 0px;
+		margin-top: auto;
+		z-index: 9;
+		background-color: #16395C;
+	}
+
+	.child-class {
+		padding: 0 5px;
+	}
+}
+
+@media (max-width: 767px) {
+	.page-header-top-row3 {
+		display: block !important;
+	}
+}
+
+@media (min-width: 992px){
+.search.col-lg-1 {
+	width: 8.333333% !important; 
+ }
+}
+
+.tooltip-container {
+	position: relative;
+	display: inline-block;
+}
+
+.advanceSearch.col-lg-1{
+	width: 2%;
+}
+
+.guestsPicker.col-lg-4 {
+	width: 36%;
+}
+
+
+@media (min-width: 768px){
+	.guestsPicker.col-md-4  {
+		width: 38.333333% !important; 
+	 }
+}
+
+/* Tooltip text */
+.tooltip-text {
+	visibility: visible;
+	white-space: nowrap;
+	font-size: 14px;
+	display: flex;
+	max-width: fit-content;
+	background-color: white;
+	color: black;
+	text-align: center;
+	border-radius: 6px;
+	margin-top: 15px;
+	padding: 5px;
+	position: absolute;
+	bottom: -30px;
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 1;
+	opacity: 0;
+	transition: opacity 0.3s;
+}
+
+/* Show tooltip on hover */
+.tooltip-container:hover .tooltip-text {
+	visibility: visible;
+	opacity: 1;
+}
+
+.arrow-up {
+	position: absolute;
+	top: -8px;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 0;
+	height: 0;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	border-bottom: 8px solid white;
+	z-index: 2;
+}
+
+.search-btn {
+	min-width: 126px;
+}
+
+
+@media (min-width: 992px) and (max-width: 1500px) {
+	.advanceSearch {
+		display: block;
+		width: 100%;
+	}
+	
+}

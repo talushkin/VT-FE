@@ -1,0 +1,29 @@
+.info-window {
+    max-width: 200px;
+    padding: 8px;
+    background-color: #ffffff;
+    transition: opacity 0.2s, transform 0.2s;
+    transform: translateY(-10px);
+}
+  
+.info-image {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    margin-top: 8px;
+}
+  
+.map-loading {
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.close-btn {
+    background-color: transparent;
+    border: 0px;
+    /* position: absolute; */
+    /* right: 0px;
+    top: 0px; */
+    font-size: 25px !important;
+}

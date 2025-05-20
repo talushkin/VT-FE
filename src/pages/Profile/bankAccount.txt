@@ -1,0 +1,9 @@
+bankAccount:{
+    holdertFirstName:string
+    holderCity:string
+    holderAddress:string
+    IBAN:string
+    bankName:string
+    SWIFT:string
+    extraDetails:text
+}

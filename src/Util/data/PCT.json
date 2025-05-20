@@ -1,0 +1,81 @@
+[{
+  "categoryTypeCode": "PCT45",
+  "name": "Boutique",
+  "sortOrder": "7"
+},{
+  "categoryTypeCode": "PCT40",
+  "name": "Pension",
+  "sortOrder": "15"
+},{
+  "categoryTypeCode": "PCT110",
+  "name": "Studio",
+  "sortOrder": "12"
+},{
+  "categoryTypeCode": "PCT44",
+  "name": "Yacht",
+  "sortOrder": "6"
+},{
+  "categoryTypeCode": "PCT37",
+  "name": "Castle",
+  "sortOrder": "3"
+},{
+  "categoryTypeCode": "PCT114",
+  "name": "Cottage",
+  "sortOrder": "5"
+},{
+  "categoryTypeCode": "PCT5",
+  "name": "Cabin or bungalow",
+  "sortOrder": "8"
+},{
+  "categoryTypeCode": "PCT30",
+  "name": "Resort , Listing Type: Multi Rep Parent",
+  "sortOrder": "17"
+},{
+  "categoryTypeCode": "PCT35",
+  "name": "Villa",
+  "sortOrder": "1"
+},{
+  "categoryTypeCode": "PCT14",
+  "name": "Ferry",
+  "sortOrder": "13"
+},{
+  "categoryTypeCode": "PCT101",
+  "name": "Townhouse",
+  "sortOrder": "6"
+},{
+  "categoryTypeCode": "PCT7",
+  "name": "Chalet",
+  "sortOrder": "2"
+},{
+  "categoryTypeCode": "PCT65",
+  "name": "Cottage",
+  "sortOrder": "5"
+},{
+  "categoryTypeCode": "PCT67",
+  "name": "House",
+  "sortOrder": "0"
+},{
+  "categoryTypeCode": "PCT8",
+  "name": "Condominium",
+  "sortOrder": "11"
+},{
+  "categoryTypeCode": "PCT4",
+  "name": "Bed and breakfast",
+  "sortOrder": "16"
+},{
+  "categoryTypeCode": "PCT36",
+  "name": "Wildlife reserve",
+  "sortOrder": "9"
+},{
+  "categoryTypeCode": "PCT3",
+  "name": "Apartment",
+  "sortOrder": "4"
+},{
+  "categoryTypeCode": "PCT12",
+  "name": "Cruise",
+  "sortOrder": "14"
+},{
+  "categoryTypeCode": "PCT31",
+  "name": "Sailing ship",
+  "sortOrder": "10"
+}]

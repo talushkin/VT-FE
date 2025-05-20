@@ -1,0 +1,176 @@
+@import "../../Style/Util/MixedUtil.scss";
+
+$colorBorderGrey: #a6aaaf;
+$colorDisabledActiveDarkGrey: #909794;
+$colorDisabledInactiveGrey: #c2c6cc;
+$colorHoverInactiveWhite: #f2f2f2;
+// $colorHoverActiveGreen: #0f4c90;
+// $colorActiveGreen: #165093;
+$colorHoverActiveGreen: #165093;
+$colorActiveGreen: #0f4c90;
+$lineHeight: 20; // px, fixed for now
+$sizeBase: 16; // px
+$sizeSmRatio: 0.8;
+$sizeMdRatio: 1;
+$sizeLgRatio: 1.2;
+
+@mixin generateSize($ratio) {
+  $size: $sizeBase * $ratio;
+
+  .-alt-checkbox {
+    height: $size + px;
+    width: $size + px;
+    top: (($lineHeight - $size) / 2) + px;
+  }
+
+  .-input {
+    top: ($size * 0.5) + px;
+  }
+
+  &.-placement-left {
+    .-label {
+      padding-left: ($size + ($size * 0.6)) + px;
+    }
+  }
+
+  &.-placement-right {
+    .-label {
+      padding-right: ($size + ($size * 0.6)) + px;
+    }
+  }
+}
+
+:global {
+  .CheckBox {
+    $CheckBox: &;
+
+    > .-inner-wrapper {
+      position: relative;
+      display: inline-block;
+
+      &:hover {
+        // .-input:checked ~ .-label > .-alt-checkbox {
+        @at-root #{target(&, $CheckBox, $append: ".-checked")}
+            .-label
+            > .-alt-checkbox {
+          background-color: $colorHoverActiveGreen;
+        }
+
+        // .-input:not(:checked) ~ .-label > .-alt-checkbox {
+        @at-root #{target(&, $CheckBox, $append: ":not(.-checked)")}
+            .-label
+            > .-alt-checkbox {
+          background-color: $colorHoverInactiveWhite;
+          color: $colorHoverInactiveWhite;
+        }
+      }
+
+      &:focus,
+      &:active {
+        .-alt-checkbox {
+          @include setBoxShadow(0px 0px 0px 3.2px rgba(0, 123, 255, 0.25));
+        }
+      }
+    }
+
+    &.-disabled {
+      .-label {
+        cursor: default;
+      }
+
+      // .-input:checked ~ .-label > .-alt-checkbox {
+      @at-root #{target(&, $CheckBox, $append: ".-checked")}
+          .-label
+          > .-alt-checkbox {
+        background-color: $colorDisabledActiveDarkGrey;
+        border-color: $colorDisabledActiveDarkGrey;
+      }
+
+      // .-input:not(:checked) ~ .-label > .-alt-checkbox {
+      @at-root #{target(&, $CheckBox, $append: ":not(.-checked)")}
+          .-label
+          > .-alt-checkbox {
+        background-color: $colorDisabledInactiveGrey;
+        color: $colorDisabledInactiveGrey;
+      }
+    }
+
+    .-alt-checkbox {
+      position: absolute;
+      top: 0;
+      display: inline-block;
+      background-color: #fff;
+      border: 1px solid $colorBorderGrey;
+      color: #fff;
+      @include setBorderRadius(4px);
+
+      > .-alt-checkmark {
+        position: absolute;
+        top: -5%;
+        left: -5%;
+        height: 110%;
+        width: 110%;
+      }
+    }
+
+    &.-placement-left .-alt-checkbox {
+      left: 0;
+    }
+
+    &.-placement-right .-alt-checkbox {
+      right: 0;
+    }
+
+    .-input {
+      position: absolute;
+      top: 0;
+      width: 1px;
+      height: 1px;
+      margin: 0;
+      opacity: 0.1;
+      outline: none !important;
+
+      // &:checked ~ .-label > .-alt-checkbox {
+      @at-root #{target(&, $CheckBox, $append: ".-checked")}
+          ~ .-label
+          > .-alt-checkbox {
+        background-color: $colorActiveGreen;
+        border-color: $colorActiveGreen;
+      }
+
+      &:focus ~ .-label > .-alt-checkbox {
+        @include setBoxShadow(0px 0px 0px 3.2px rgba(0, 123, 255, 0.25));
+      }
+    }
+
+    &.-placement-left .-input {
+      left: 0;
+    }
+
+    &.-placement-right .-input {
+      right: 0;
+    }
+
+    .-label {
+      position: relative;
+      display: inline-block;
+      // width: 100%;
+      margin: 0;
+      cursor: pointer;
+      @include disableTextSelection();
+      line-height: $lineHeight + px;
+    }
+
+    &.-size-sm {
+      @include generateSize($sizeSmRatio);
+    }
+
+    &.-size-md {
+      @include generateSize($sizeMdRatio);
+    }
+
+    &.-size-lg {
+      @include generateSize($sizeLgRatio);
+    }
+  }
+}

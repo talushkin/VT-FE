@@ -1,0 +1,49 @@
+.approve-agent-container {
+	border-radius: 10px;
+
+	.approve-agent-header {
+		display: flex;
+		flex-direction: column;
+		background-color: #FDFDFD;
+		padding: 20px 40px;
+		column-gap: 30px;
+		border-radius: 10px 10px 0 0 ;
+
+		.approve-agent-title {
+			color: #707070;
+			font-size: 22px;
+		}
+
+		.approve-agent-sub-header {
+			display: flex;
+			font-size: 25px;
+			color: #284866;
+		}
+
+		.approve-agent-sub-header-separator {
+			border-right: 1px solid #707070;
+			padding-right: 12px;
+			margin-right: 12px;
+			height: 30px;
+			align-self: center;
+		}
+	}
+
+	.approve-agent-main {
+		display: flex;
+		flex-direction: column;
+		padding: 30px 40px;
+		border: 1px solid #E7E7E7;
+		border-width: 1px 0;
+	}
+
+	.approve-agent-footer {
+		background-color: #FDFDFD;
+		height: 100px;
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+		margin-right: 20px;
+	}
+	
+}

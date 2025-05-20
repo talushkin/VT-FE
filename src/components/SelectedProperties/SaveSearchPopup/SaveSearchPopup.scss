@@ -1,0 +1,35 @@
+.save-search-container {
+	border-radius: 10px;
+
+	.save-search-header {
+		display: flex;
+		justify-content: center;
+		background-color: #FDFDFD;
+		padding: 10px 0;
+		column-gap: 30px;
+		border-bottom: 1px solid #E7E7E7;
+		border-radius: 10px 10px 0 0 ;
+
+		.save-search-title {
+			font-size: 35px;
+			font-weight: 500;
+			color: #133C73;
+		}
+	}
+
+	.save-search-main {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		column-gap: 50px;
+	}
+
+	.save-search-footer {
+		background-color: #FDFDFD;
+		height: 100px;
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+		margin-top: 20px;
+		border-top: 1px solid #E7E7E7;
+	}
+}

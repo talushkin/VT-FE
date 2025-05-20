@@ -1,0 +1,37 @@
+.popup-wrapper {
+	position: absolute;
+	z-index: 0.1;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #0f2e4bf2;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+
+	.popup-container {
+		position: relative;
+		display: grid;
+		// min-height: 200px;
+		// min-height: 100vh;
+		// left: 190px;
+		left: -25px;
+		min-width: 300px;
+		 width: 25%;
+		// left: 100px;
+		box-sizing: content-box;
+		background-color: #FDFDFD;
+		border-radius: 10px;
+		box-shadow: 0 5px 10px #00000029;
+
+		.popup-close-icon {
+			position: absolute;
+			z-index: 1;
+			right: 3px;
+			top: 7px;
+			cursor: pointer;
+		}
+	}
+}

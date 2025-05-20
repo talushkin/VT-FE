@@ -1,0 +1,5710 @@
+[
+  {
+    "type": "country",
+    "name": "Aruba"
+  },
+  {
+    "type": "country",
+    "name": "Austria"
+  },
+  {
+    "type": "country",
+    "name": "Barbados"
+  },
+  {
+    "type": "country",
+    "name": "Cambodia"
+  },
+  {
+    "type": "country",
+    "name": "Canada"
+  },
+  {
+    "type": "country",
+    "name": "Costa Rica"
+  },
+  {
+    "type": "country",
+    "name": "Croatia"
+  },
+  {
+    "type": "country",
+    "name": "CuraÃ§ao"
+  },
+  {
+    "type": "country",
+    "name": "Cyprus"
+  },
+  {
+    "type": "country",
+    "name": "Denmark"
+  },
+  {
+    "type": "country",
+    "name": "Dominican Republic"
+  },
+  {
+    "type": "country",
+    "name": "Finland"
+  },
+  {
+    "type": "country",
+    "name": "France"
+  },
+  {
+    "type": "country",
+    "name": "Germany"
+  },
+  {
+    "type": "country",
+    "name": "Greece"
+  },
+  {
+    "type": "country",
+    "name": "Indonesia"
+  },
+  {
+    "type": "country",
+    "name": "Israel"
+  },
+  {
+    "type": "country",
+    "name": "Italy"
+  },
+  {
+    "type": "country",
+    "name": "Kenya"
+  },
+  {
+    "type": "country",
+    "name": "Maldives"
+  },
+  {
+    "type": "country",
+    "name": "Mexico"
+  },
+  {
+    "type": "country",
+    "name": "Monaco"
+  },
+  {
+    "type": "country",
+    "name": "Montenegro"
+  },
+  {
+    "type": "country",
+    "name": "Morocco"
+  },
+  {
+    "type": "country",
+    "name": "New Zealand"
+  },
+  {
+    "type": "country",
+    "name": "Panama"
+  },
+  {
+    "type": "country",
+    "name": "Philippines"
+  },
+  {
+    "type": "country",
+    "name": "Portugal"
+  },
+  {
+    "type": "country",
+    "name": "Puerto Rico"
+  },
+  {
+    "type": "country",
+    "name": "SAINT MARTIN"
+  },
+  {
+    "type": "country",
+    "name": "Seychelles"
+  },
+  {
+    "type": "country",
+    "name": "Slovenia"
+  },
+  {
+    "type": "country",
+    "name": "South Africa"
+  },
+  {
+    "type": "country",
+    "name": "Spain"
+  },
+  {
+    "type": "country",
+    "name": "Sri Lanka"
+  },
+  {
+    "type": "country",
+    "name": "Switzerland"
+  },
+  {
+    "type": "country",
+    "name": "Thailand"
+  },
+  {
+    "type": "country",
+    "name": "The Caribbeans"
+  },
+  {
+    "type": "country",
+    "name": "Turkey"
+  },
+  {
+    "type": "country",
+    "name": "United Arab Emirates"
+  },
+  {
+    "type": "country",
+    "name": "United Kingdom"
+  },
+  {
+    "type": "country",
+    "name": "United States"
+  },
+  {
+    "type": "country",
+    "name": "United States of America"
+  },
+  {
+    "type": "country",
+    "name": "Virgin Islands"
+  },
+  {
+    "type": "city",
+    "name": "Abbadia"
+  },
+  {
+    "type": "city",
+    "name": "Aberdeenshire"
+  },
+  {
+    "type": "city",
+    "name": "Aberfeldy"
+  },
+  {
+    "type": "city",
+    "name": "Acquapendente"
+  },
+  {
+    "type": "city",
+    "name": "Acquasparta"
+  },
+  {
+    "type": "city",
+    "name": "Aegina"
+  },
+  {
+    "type": "city",
+    "name": "Agaete"
+  },
+  {
+    "type": "city",
+    "name": "Agia Marina"
+  },
+  {
+    "type": "city",
+    "name": "Agia Pelagia"
+  },
+  {
+    "type": "city",
+    "name": "Agios Amvrosios"
+  },
+  {
+    "type": "city",
+    "name": "Agios Ioannis"
+  },
+  {
+    "type": "city",
+    "name": "Agios Ioannis Diakoftis"
+  },
+  {
+    "type": "city",
+    "name": "Agios Nikolaos"
+  },
+  {
+    "type": "city",
+    "name": "Agios Nikolaos Municipality"
+  },
+  {
+    "type": "city",
+    "name": "Agios Sostis"
+  },
+  {
+    "type": "city",
+    "name": "Agios Stefanos"
+  },
+  {
+    "type": "city",
+    "name": "Agrate"
+  },
+  {
+    "type": "city",
+    "name": "Agrigento"
+  },
+  {
+    "type": "city",
+    "name": "Ahangama"
+  },
+  {
+    "type": "city",
+    "name": "Ahuriri Valley"
+  },
+  {
+    "type": "city",
+    "name": "Aix-en-Provence"
+  },
+  {
+    "type": "city",
+    "name": "Ajaccio"
+  },
+  {
+    "type": "city",
+    "name": "Akra Alogomandra"
+  },
+  {
+    "type": "city",
+    "name": "Akrotiri"
+  },
+  {
+    "type": "city",
+    "name": "Albernoa Beja"
+  },
+  {
+    "type": "city",
+    "name": "Albufeira"
+  },
+  {
+    "type": "city",
+    "name": "Alcacer do Sal"
+  },
+  {
+    "type": "city",
+    "name": "Alcamo"
+  },
+  {
+    "type": "city",
+    "name": "Alenquer"
+  },
+  {
+    "type": "city",
+    "name": "Aleomandra"
+  },
+  {
+    "type": "city",
+    "name": "Algarve"
+  },
+  {
+    "type": "city",
+    "name": "Alghero"
+  },
+  {
+    "type": "city",
+    "name": "Alijo"
+  },
+  {
+    "type": "city",
+    "name": "Alikanas"
+  },
+  {
+    "type": "city",
+    "name": "Aliki"
+  },
+  {
+    "type": "city",
+    "name": "Almancil"
+  },
+  {
+    "type": "city",
+    "name": "Almirida"
+  },
+  {
+    "type": "city",
+    "name": "Almyros Aktis"
+  },
+  {
+    "type": "city",
+    "name": "Alonissos"
+  },
+  {
+    "type": "city",
+    "name": "Amalfi"
+  },
+  {
+    "type": "city",
+    "name": "Amapas"
+  },
+  {
+    "type": "city",
+    "name": "Amarante"
+  },
+  {
+    "type": "city",
+    "name": "Amelia"
+  },
+  {
+    "type": "city",
+    "name": "Ammoudi"
+  },
+  {
+    "type": "city",
+    "name": "Amola"
+  },
+  {
+    "type": "city",
+    "name": "Ampelas"
+  },
+  {
+    "type": "city",
+    "name": "Ampelokipoi"
+  },
+  {
+    "type": "city",
+    "name": "Amphoe Ko Samui"
+  },
+  {
+    "type": "city",
+    "name": "Amroth"
+  },
+  {
+    "type": "city",
+    "name": "Anassas Residence"
+  },
+  {
+    "type": "city",
+    "name": "Andratx"
+  },
+  {
+    "type": "city",
+    "name": "Andros"
+  },
+  {
+    "type": "city",
+    "name": "Angers"
+  },
+  {
+    "type": "city",
+    "name": "Angle"
+  },
+  {
+    "type": "city",
+    "name": "Ano Mera"
+  },
+  {
+    "type": "city",
+    "name": "Anse de Grande Saline"
+  },
+  {
+    "type": "city",
+    "name": "Anse des Cayes"
+  },
+  {
+    "type": "city",
+    "name": "Ansedonia"
+  },
+  {
+    "type": "city",
+    "name": "Antalya"
+  },
+  {
+    "type": "city",
+    "name": "Antibes"
+  },
+  {
+    "type": "city",
+    "name": "Antiparos"
+  },
+  {
+    "type": "city",
+    "name": "Aquebogue"
+  },
+  {
+    "type": "city",
+    "name": "Aradeo"
+  },
+  {
+    "type": "city",
+    "name": "Arezzo"
+  },
+  {
+    "type": "city",
+    "name": "Arona"
+  },
+  {
+    "type": "city",
+    "name": "Artemonas"
+  },
+  {
+    "type": "city",
+    "name": "Arth"
+  },
+  {
+    "type": "city",
+    "name": "Arzachena"
+  },
+  {
+    "type": "city",
+    "name": "Aspro"
+  },
+  {
+    "type": "city",
+    "name": "Assisi"
+  },
+  {
+    "type": "city",
+    "name": "Atalaya Isdabe"
+  },
+  {
+    "type": "city",
+    "name": "Athani"
+  },
+  {
+    "type": "city",
+    "name": "Athenian Riviera"
+  },
+  {
+    "type": "city",
+    "name": "Athens Center"
+  },
+  {
+    "type": "city",
+    "name": "Athina"
+  },
+  {
+    "type": "city",
+    "name": "Aubert"
+  },
+  {
+    "type": "city",
+    "name": "Austin"
+  },
+  {
+    "type": "city",
+    "name": "Avegno"
+  },
+  {
+    "type": "city",
+    "name": "Aventura"
+  },
+  {
+    "type": "city",
+    "name": "Avola"
+  },
+  {
+    "type": "city",
+    "name": "Avon"
+  },
+  {
+    "type": "city",
+    "name": "Ayia Napa"
+  },
+  {
+    "type": "city",
+    "name": "Baan Bo Phut"
+  },
+  {
+    "type": "city",
+    "name": "Bad Soden am Taunus"
+  },
+  {
+    "type": "city",
+    "name": "Bagnes"
+  },
+  {
+    "type": "city",
+    "name": "Bagno Vignoni"
+  },
+  {
+    "type": "city",
+    "name": "Bahia de Banderas"
+  },
+  {
+    "type": "city",
+    "name": "Baiting Hollow"
+  },
+  {
+    "type": "city",
+    "name": "Bakarac"
+  },
+  {
+    "type": "city",
+    "name": "Balam Canche"
+  },
+  {
+    "type": "city",
+    "name": "Bali"
+  },
+  {
+    "type": "city",
+    "name": "Banyalbufar"
+  },
+  {
+    "type": "city",
+    "name": "Barcelona"
+  },
+  {
+    "type": "city",
+    "name": "BaSka Voda"
+  },
+  {
+    "type": "city",
+    "name": "Baveno"
+  },
+  {
+    "type": "city",
+    "name": "Bay Lake"
+  },
+  {
+    "type": "city",
+    "name": "Beaulieu-sur-Loire"
+  },
+  {
+    "type": "city",
+    "name": "Beit Hanania"
+  },
+  {
+    "type": "city",
+    "name": "Beit Yanai"
+  },
+  {
+    "type": "city",
+    "name": "Belgirate"
+  },
+  {
+    "type": "city",
+    "name": "Bellagio"
+  },
+  {
+    "type": "city",
+    "name": "Ben Ami"
+  },
+  {
+    "type": "city",
+    "name": "Benagil"
+  },
+  {
+    "type": "city",
+    "name": "Benahavis"
+  },
+  {
+    "type": "city",
+    "name": "benalmadena"
+  },
+  {
+    "type": "city",
+    "name": "Bendinat"
+  },
+  {
+    "type": "city",
+    "name": "Benna"
+  },
+  {
+    "type": "city",
+    "name": "Besozzo"
+  },
+  {
+    "type": "city",
+    "name": "Betina"
+  },
+  {
+    "type": "city",
+    "name": "Bevagna"
+  },
+  {
+    "type": "city",
+    "name": "Beverly Hills"
+  },
+  {
+    "type": "city",
+    "name": "Bibbiena"
+  },
+  {
+    "type": "city",
+    "name": "Bicine"
+  },
+  {
+    "type": "city",
+    "name": "Bissone"
+  },
+  {
+    "type": "city",
+    "name": "Blato"
+  },
+  {
+    "type": "city",
+    "name": "Blue Emerald Villa"
+  },
+  {
+    "type": "city",
+    "name": "Blue Key Villa"
+  },
+  {
+    "type": "city",
+    "name": "Bobovisca"
+  },
+  {
+    "type": "city",
+    "name": "Boca de Tomatlan"
+  },
+  {
+    "type": "city",
+    "name": "Bol"
+  },
+  {
+    "type": "city",
+    "name": "Boliqueime"
+  },
+  {
+    "type": "city",
+    "name": "Boliquieme"
+  },
+  {
+    "type": "city",
+    "name": "Bonifacio"
+  },
+  {
+    "type": "city",
+    "name": "Bonn"
+  },
+  {
+    "type": "city",
+    "name": "Bonnieux"
+  },
+  {
+    "type": "city",
+    "name": "Bornato"
+  },
+  {
+    "type": "city",
+    "name": "BoSana"
+  },
+  {
+    "type": "city",
+    "name": "Bosi"
+  },
+  {
+    "type": "city",
+    "name": "Brand bei Bludenz"
+  },
+  {
+    "type": "city",
+    "name": "Bregi"
+  },
+  {
+    "type": "city",
+    "name": "Brela"
+  },
+  {
+    "type": "city",
+    "name": "Brent"
+  },
+  {
+    "type": "city",
+    "name": "Brenzone sul Garda"
+  },
+  {
+    "type": "city",
+    "name": "Broken Bow"
+  },
+  {
+    "type": "city",
+    "name": "Brsecine"
+  },
+  {
+    "type": "city",
+    "name": "Brusje"
+  },
+  {
+    "type": "city",
+    "name": "Buger"
+  },
+  {
+    "type": "city",
+    "name": "Buonconvento"
+  },
+  {
+    "type": "city",
+    "name": "Buseto Palizzolo"
+  },
+  {
+    "type": "city",
+    "name": "Bussigny"
+  },
+  {
+    "type": "city",
+    "name": "Cabo del Sol"
+  },
+  {
+    "type": "city",
+    "name": "Cabo San Lucas"
+  },
+  {
+    "type": "city",
+    "name": "Caesarea"
+  },
+  {
+    "type": "city",
+    "name": "Cala Caterina"
+  },
+  {
+    "type": "city",
+    "name": "Cala Moresca"
+  },
+  {
+    "type": "city",
+    "name": "California"
+  },
+  {
+    "type": "city",
+    "name": "Calozzo"
+  },
+  {
+    "type": "city",
+    "name": "Caltagirone"
+  },
+  {
+    "type": "city",
+    "name": "Calvia"
+  },
+  {
+    "type": "city",
+    "name": "Camaiore"
+  },
+  {
+    "type": "city",
+    "name": "Camigliano, Capannori"
+  },
+  {
+    "type": "city",
+    "name": "Campello Sul Clitunno"
+  },
+  {
+    "type": "city",
+    "name": "Camporotondo di Fiastrone"
+  },
+  {
+    "type": "city",
+    "name": "Camps Bay"
+  },
+  {
+    "type": "city",
+    "name": "Can Negre"
+  },
+  {
+    "type": "city",
+    "name": "Cancun"
+  },
+  {
+    "type": "city",
+    "name": "Canggu"
+  },
+  {
+    "type": "city",
+    "name": "Cannero Riviera"
+  },
+  {
+    "type": "city",
+    "name": "Cannes"
+  },
+  {
+    "type": "city",
+    "name": "Canova"
+  },
+  {
+    "type": "city",
+    "name": "Cap de Barbaria"
+  },
+  {
+    "type": "city",
+    "name": "Cap Martinet"
+  },
+  {
+    "type": "city",
+    "name": "Cap Samy"
+  },
+  {
+    "type": "city",
+    "name": "Cap-dAil"
+  },
+  {
+    "type": "city",
+    "name": "Capdepera"
+  },
+  {
+    "type": "city",
+    "name": "Cape Town"
+  },
+  {
+    "type": "city",
+    "name": "Capo Coda Cavallo"
+  },
+  {
+    "type": "city",
+    "name": "Capo dOrlando"
+  },
+  {
+    "type": "city",
+    "name": "Caprese Michelangelo"
+  },
+  {
+    "type": "city",
+    "name": "Capriccioli"
+  },
+  {
+    "type": "city",
+    "name": "Carini"
+  },
+  {
+    "type": "city",
+    "name": "Carolina"
+  },
+  {
+    "type": "city",
+    "name": "Carovigno"
+  },
+  {
+    "type": "city",
+    "name": "Carpignano Salentino"
+  },
+  {
+    "type": "city",
+    "name": "Carvoeiro"
+  },
+  {
+    "type": "city",
+    "name": "Casal de Loivos"
+  },
+  {
+    "type": "city",
+    "name": "Casarano"
+  },
+  {
+    "type": "city",
+    "name": "Cascade"
+  },
+  {
+    "type": "city",
+    "name": "Castedo"
+  },
+  {
+    "type": "city",
+    "name": "Castellammare del Golfo"
+  },
+  {
+    "type": "city",
+    "name": "Castellana Grotte"
+  },
+  {
+    "type": "city",
+    "name": "Castellina In Chianti"
+  },
+  {
+    "type": "city",
+    "name": "Castello"
+  },
+  {
+    "type": "city",
+    "name": "Castelnuovo Berardenga"
+  },
+  {
+    "type": "city",
+    "name": "Castelnuovo Magra"
+  },
+  {
+    "type": "city",
+    "name": "Castelraimondo"
+  },
+  {
+    "type": "city",
+    "name": "Castelvetrano"
+  },
+  {
+    "type": "city",
+    "name": "Castiglion Fiorentino"
+  },
+  {
+    "type": "city",
+    "name": "Castiglione del Lago"
+  },
+  {
+    "type": "city",
+    "name": "Catania"
+  },
+  {
+    "type": "city",
+    "name": "Cavalese"
+  },
+  {
+    "type": "city",
+    "name": "Cavanella Vara"
+  },
+  {
+    "type": "city",
+    "name": "Cefal"
+  },
+  {
+    "type": "city",
+    "name": "Cefalu"
+  },
+  {
+    "type": "city",
+    "name": "Celle"
+  },
+  {
+    "type": "city",
+    "name": "Cernobbio"
+  },
+  {
+    "type": "city",
+    "name": "Cesolo"
+  },
+  {
+    "type": "city",
+    "name": "Cessalto"
+  },
+  {
+    "type": "city",
+    "name": "Chamonix-Mont-Blanc"
+  },
+  {
+    "type": "city",
+    "name": "Chania"
+  },
+  {
+    "type": "city",
+    "name": "Chaponost"
+  },
+  {
+    "type": "city",
+    "name": "Chardonne"
+  },
+  {
+    "type": "city",
+    "name": "Chateau-dOex"
+  },
+  {
+    "type": "city",
+    "name": "Choeng Thale"
+  },
+  {
+    "type": "city",
+    "name": "Chorafakia"
+  },
+  {
+    "type": "city",
+    "name": "Cielo de Bonaire"
+  },
+  {
+    "type": "city",
+    "name": "ÄŒilipi"
+  },
+  {
+    "type": "city",
+    "name": "Citta della Pieve"
+  },
+  {
+    "type": "city",
+    "name": "Citta della Pieve PG"
+  },
+  {
+    "type": "city",
+    "name": "Ciudad de Mexico"
+  },
+  {
+    "type": "city",
+    "name": "Ciutadella de Menorca"
+  },
+  {
+    "type": "city",
+    "name": "Civitanova Marche"
+  },
+  {
+    "type": "city",
+    "name": "Clarens"
+  },
+  {
+    "type": "city",
+    "name": "Clinketts"
+  },
+  {
+    "type": "city",
+    "name": "COCO-MAT Kassiopeia Residence Chania"
+  },
+  {
+    "type": "city",
+    "name": "Cogolin"
+  },
+  {
+    "type": "city",
+    "name": "College Station"
+  },
+  {
+    "type": "city",
+    "name": "Collevalenza"
+  },
+  {
+    "type": "city",
+    "name": "Colli al Metauro PU"
+  },
+  {
+    "type": "city",
+    "name": "Colombier"
+  },
+  {
+    "type": "city",
+    "name": "Combloux"
+  },
+  {
+    "type": "city",
+    "name": "Commugny"
+  },
+  {
+    "type": "city",
+    "name": "Como"
+  },
+  {
+    "type": "city",
+    "name": "Comporta"
+  },
+  {
+    "type": "city",
+    "name": "Conchas Chinas"
+  },
+  {
+    "type": "city",
+    "name": "Contrada Tenna"
+  },
+  {
+    "type": "city",
+    "name": "Copenhagen"
+  },
+  {
+    "type": "city",
+    "name": "Coppet"
+  },
+  {
+    "type": "city",
+    "name": "Corca"
+  },
+  {
+    "type": "city",
+    "name": "Corfu"
+  },
+  {
+    "type": "city",
+    "name": "Cormezzano"
+  },
+  {
+    "type": "city",
+    "name": "Corossol"
+  },
+  {
+    "type": "city",
+    "name": "Corral del Risco"
+  },
+  {
+    "type": "city",
+    "name": "Cortina dAmpezzo"
+  },
+  {
+    "type": "city",
+    "name": "Corvarola"
+  },
+  {
+    "type": "city",
+    "name": "Courchevel"
+  },
+  {
+    "type": "city",
+    "name": "CourtabÅ“uf Cedex"
+  },
+  {
+    "type": "city",
+    "name": "Crabbia"
+  },
+  {
+    "type": "city",
+    "name": "Crans-Montana"
+  },
+  {
+    "type": "city",
+    "name": "Cres"
+  },
+  {
+    "type": "city",
+    "name": "Crespina Lorenzana"
+  },
+  {
+    "type": "city",
+    "name": "Crested Butte"
+  },
+  {
+    "type": "city",
+    "name": "Crete"
+  },
+  {
+    "type": "city",
+    "name": "Crete-agios nikolaos"
+  },
+  {
+    "type": "city",
+    "name": "Crete-heraklion"
+  },
+  {
+    "type": "city",
+    "name": "Crete-rethymnon"
+  },
+  {
+    "type": "city",
+    "name": "Crivac"
+  },
+  {
+    "type": "city",
+    "name": "Cruz de Huanacaxtle"
+  },
+  {
+    "type": "city",
+    "name": "Crymych"
+  },
+  {
+    "type": "city",
+    "name": "Cuacos de Yuste"
+  },
+  {
+    "type": "city",
+    "name": "Cupar"
+  },
+  {
+    "type": "city",
+    "name": "Cupra Marittima"
+  },
+  {
+    "type": "city",
+    "name": "Custonaci"
+  },
+  {
+    "type": "city",
+    "name": "Dale"
+  },
+  {
+    "type": "city",
+    "name": "Davenport"
+  },
+  {
+    "type": "city",
+    "name": "De Quincy"
+  },
+  {
+    "type": "city",
+    "name": "Deauville"
+  },
+  {
+    "type": "city",
+    "name": "Demi-Quartier"
+  },
+  {
+    "type": "city",
+    "name": "Depis PRIVATE villas"
+  },
+  {
+    "type": "city",
+    "name": "Deruta"
+  },
+  {
+    "type": "city",
+    "name": "Desenzano del Garda"
+  },
+  {
+    "type": "city",
+    "name": "Destin"
+  },
+  {
+    "type": "city",
+    "name": "Dikwella"
+  },
+  {
+    "type": "city",
+    "name": "Dilofo"
+  },
+  {
+    "type": "city",
+    "name": "Donja Lastva"
+  },
+  {
+    "type": "city",
+    "name": "Donnafugata"
+  },
+  {
+    "type": "city",
+    "name": "Dorado"
+  },
+  {
+    "type": "city",
+    "name": "Doroufi Kranidiou"
+  },
+  {
+    "type": "city",
+    "name": "Dosso"
+  },
+  {
+    "type": "city",
+    "name": "Dubai"
+  },
+  {
+    "type": "city",
+    "name": "Dubrava kod Å ibenika"
+  },
+  {
+    "type": "city",
+    "name": "Dubrovnik"
+  },
+  {
+    "type": "city",
+    "name": "Dundee"
+  },
+  {
+    "type": "city",
+    "name": "East Marion"
+  },
+  {
+    "type": "city",
+    "name": "East Quogue"
+  },
+  {
+    "type": "city",
+    "name": "Eguilles"
+  },
+  {
+    "type": "city",
+    "name": "Eilat"
+  },
+  {
+    "type": "city",
+    "name": "Eivissa"
+  },
+  {
+    "type": "city",
+    "name": "El Cardon"
+  },
+  {
+    "type": "city",
+    "name": "El Ranchito"
+  },
+  {
+    "type": "city",
+    "name": "Elia "
+  },
+  {
+    "type": "city",
+    "name": "Elia Beach"
+  },
+  {
+    "type": "city",
+    "name": "Elia Nikitis"
+  },
+  {
+    "type": "city",
+    "name": "Elounda"
+  },
+  {
+    "type": "city",
+    "name": "Elviria"
+  },
+  {
+    "type": "city",
+    "name": "Emsdetten"
+  },
+  {
+    "type": "city",
+    "name": "Engelberg"
+  },
+  {
+    "type": "city",
+    "name": "Erstein"
+  },
+  {
+    "type": "city",
+    "name": "Ervedosa do Douro"
+  },
+  {
+    "type": "city",
+    "name": "Es Cubells"
+  },
+  {
+    "type": "city",
+    "name": "Esentepe"
+  },
+  {
+    "type": "city",
+    "name": "Estepona"
+  },
+  {
+    "type": "city",
+    "name": "Estoi"
+  },
+  {
+    "type": "city",
+    "name": "Eularia"
+  },
+  {
+    "type": "city",
+    "name": "Eustis"
+  },
+  {
+    "type": "city",
+    "name": "Evaggelistria"
+  },
+  {
+    "type": "city",
+    "name": "Evgiros"
+  },
+  {
+    "type": "city",
+    "name": "Evia"
+  },
+  {
+    "type": "city",
+    "name": "Evolene"
+  },
+  {
+    "type": "city",
+    "name": "Exo Gonia"
+  },
+  {
+    "type": "city",
+    "name": "Eygalieres"
+  },
+  {
+    "type": "city",
+    "name": "Eze"
+  },
+  {
+    "type": "city",
+    "name": "Falasarna"
+  },
+  {
+    "type": "city",
+    "name": "Falerone"
+  },
+  {
+    "type": "city",
+    "name": "Fanari"
+  },
+  {
+    "type": "city",
+    "name": "Faro"
+  },
+  {
+    "type": "city",
+    "name": "Faros Armenistis"
+  },
+  {
+    "type": "city",
+    "name": "Favignana TP"
+  },
+  {
+    "type": "city",
+    "name": "Fazana"
+  },
+  {
+    "type": "city",
+    "name": "Felanitx"
+  },
+  {
+    "type": "city",
+    "name": "Ferma"
+  },
+  {
+    "type": "city",
+    "name": "Fermignano"
+  },
+  {
+    "type": "city",
+    "name": "Ferragudo"
+  },
+  {
+    "type": "city",
+    "name": "Fethiye Mugla"
+  },
+  {
+    "type": "city",
+    "name": "FethiyeMula"
+  },
+  {
+    "type": "city",
+    "name": "Firenze"
+  },
+  {
+    "type": "city",
+    "name": "Flamands"
+  },
+  {
+    "type": "city",
+    "name": "Flamingos"
+  },
+  {
+    "type": "city",
+    "name": "Florida"
+  },
+  {
+    "type": "city",
+    "name": "Foiano della Chiana AR"
+  },
+  {
+    "type": "city",
+    "name": "Foligno"
+  },
+  {
+    "type": "city",
+    "name": "Font de Sa Cala"
+  },
+  {
+    "type": "city",
+    "name": "Forest Hills"
+  },
+  {
+    "type": "city",
+    "name": "Forio"
+  },
+  {
+    "type": "city",
+    "name": "Formentera"
+  },
+  {
+    "type": "city",
+    "name": "Forte dei Marmi"
+  },
+  {
+    "type": "city",
+    "name": "Fournados"
+  },
+  {
+    "type": "city",
+    "name": "Franschhoek"
+  },
+  {
+    "type": "city",
+    "name": "Fratte rosa PU"
+  },
+  {
+    "type": "city",
+    "name": "Fratticciola"
+  },
+  {
+    "type": "city",
+    "name": "Frigiliana"
+  },
+  {
+    "type": "city",
+    "name": "Ftelia"
+  },
+  {
+    "type": "city",
+    "name": "Fuveau"
+  },
+  {
+    "type": "city",
+    "name": "Gaiole In Chianti"
+  },
+  {
+    "type": "city",
+    "name": "Gajana, Croatia"
+  },
+  {
+    "type": "city",
+    "name": "Galatas"
+  },
+  {
+    "type": "city",
+    "name": "Gallatin"
+  },
+  {
+    "type": "city",
+    "name": "Galle"
+  },
+  {
+    "type": "city",
+    "name": "Gan Sorek"
+  },
+  {
+    "type": "city",
+    "name": "Gassin"
+  },
+  {
+    "type": "city",
+    "name": "Gatlinburg"
+  },
+  {
+    "type": "city",
+    "name": "Gavorrano"
+  },
+  {
+    "type": "city",
+    "name": "Gazi Municipal Unit"
+  },
+  {
+    "type": "city",
+    "name": "General Luna"
+  },
+  {
+    "type": "city",
+    "name": "Geneve"
+  },
+  {
+    "type": "city",
+    "name": "Gerani"
+  },
+  {
+    "type": "city",
+    "name": "Gibbes"
+  },
+  {
+    "type": "city",
+    "name": "Gibbs"
+  },
+  {
+    "type": "city",
+    "name": "Gilbert"
+  },
+  {
+    "type": "city",
+    "name": "Girona"
+  },
+  {
+    "type": "city",
+    "name": "Glifa"
+  },
+  {
+    "type": "city",
+    "name": "Glinado"
+  },
+  {
+    "type": "city",
+    "name": "Glisidia"
+  },
+  {
+    "type": "city",
+    "name": "Gocek"
+  },
+  {
+    "type": "city",
+    "name": "Gonzales"
+  },
+  {
+    "type": "city",
+    "name": "Gouverneur"
+  },
+  {
+    "type": "city",
+    "name": "Gouverneur, Saint Barthelemy"
+  },
+  {
+    "type": "city",
+    "name": "Gouvia"
+  },
+  {
+    "type": "city",
+    "name": "Gozd Martuljek"
+  },
+  {
+    "type": "city",
+    "name": "Grabouw"
+  },
+  {
+    "type": "city",
+    "name": "Grabovci"
+  },
+  {
+    "type": "city",
+    "name": "Grachen"
+  },
+  {
+    "type": "city",
+    "name": "Granada"
+  },
+  {
+    "type": "city",
+    "name": "Grand Anse"
+  },
+  {
+    "type": "city",
+    "name": "Grand Cul-de-Sac"
+  },
+  {
+    "type": "city",
+    "name": "Grasse"
+  },
+  {
+    "type": "city",
+    "name": "Gratteri"
+  },
+  {
+    "type": "city",
+    "name": "Greater London"
+  },
+  {
+    "type": "city",
+    "name": "Grimaud"
+  },
+  {
+    "type": "city",
+    "name": "Grizane"
+  },
+  {
+    "type": "city",
+    "name": "Grosseto"
+  },
+  {
+    "type": "city",
+    "name": "Grottelle"
+  },
+  {
+    "type": "city",
+    "name": "Gruda"
+  },
+  {
+    "type": "city",
+    "name": "Gryon"
+  },
+  {
+    "type": "city",
+    "name": "Gstaad"
+  },
+  {
+    "type": "city",
+    "name": "Gsteig"
+  },
+  {
+    "type": "city",
+    "name": "Gsteig bei Gstaad"
+  },
+  {
+    "type": "city",
+    "name": "Gualdo"
+  },
+  {
+    "type": "city",
+    "name": "Gubbio"
+  },
+  {
+    "type": "city",
+    "name": "Gubbio PG"
+  },
+  {
+    "type": "city",
+    "name": "Gustavia"
+  },
+  {
+    "type": "city",
+    "name": "Habaraduwa"
+  },
+  {
+    "type": "city",
+    "name": "Had Nes"
+  },
+  {
+    "type": "city",
+    "name": "Hadera"
+  },
+  {
+    "type": "city",
+    "name": "Haifa"
+  },
+  {
+    "type": "city",
+    "name": "Halkidiki"
+  },
+  {
+    "type": "city",
+    "name": "Hallandale Beach"
+  },
+  {
+    "type": "city",
+    "name": "Hamburg"
+  },
+  {
+    "type": "city",
+    "name": "Hampton Bays"
+  },
+  {
+    "type": "city",
+    "name": "Hersonissos"
+  },
+  {
+    "type": "city",
+    "name": "Herzliya"
+  },
+  {
+    "type": "city",
+    "name": "Higuera Blanca"
+  },
+  {
+    "type": "city",
+    "name": "Hod HaSharon"
+  },
+  {
+    "type": "city",
+    "name": "Holbox"
+  },
+  {
+    "type": "city",
+    "name": "Holders Hill"
+  },
+  {
+    "type": "city",
+    "name": "Holetown"
+  },
+  {
+    "type": "city",
+    "name": "Hollywood"
+  },
+  {
+    "type": "city",
+    "name": "Horseland Mykonos"
+  },
+  {
+    "type": "city",
+    "name": "Hvar"
+  },
+  {
+    "type": "city",
+    "name": "Hydra"
+  },
+  {
+    "type": "city",
+    "name": "Ia Municipal Unit"
+  },
+  {
+    "type": "city",
+    "name": "Ialisos"
+  },
+  {
+    "type": "city",
+    "name": "Ibiza"
+  },
+  {
+    "type": "city",
+    "name": "Icogne"
+  },
+  {
+    "type": "city",
+    "name": "Idra"
+  },
+  {
+    "type": "city",
+    "name": "Ilaniya"
+  },
+  {
+    "type": "city",
+    "name": "Ilios Villa by Thea Concept"
+  },
+  {
+    "type": "city",
+    "name": "Imerovigli"
+  },
+  {
+    "type": "city",
+    "name": "Inca"
+  },
+  {
+    "type": "city",
+    "name": "Ispra"
+  },
+  {
+    "type": "city",
+    "name": "Isterni"
+  },
+  {
+    "type": "city",
+    "name": "Jacksonville Beach"
+  },
+  {
+    "type": "city",
+    "name": "Jasenice, Zadar County"
+  },
+  {
+    "type": "city",
+    "name": "Jelsa"
+  },
+  {
+    "type": "city",
+    "name": "Jerusalem"
+  },
+  {
+    "type": "city",
+    "name": "Jesi"
+  },
+  {
+    "type": "city",
+    "name": "Jimbaran"
+  },
+  {
+    "type": "city",
+    "name": "JurSiÄ‡i"
+  },
+  {
+    "type": "city",
+    "name": "Kalafati"
+  },
+  {
+    "type": "city",
+    "name": "Kalamaki"
+  },
+  {
+    "type": "city",
+    "name": "Kalamata"
+  },
+  {
+    "type": "city",
+    "name": "Kalametiya"
+  },
+  {
+    "type": "city",
+    "name": "Kalamitsi"
+  },
+  {
+    "type": "city",
+    "name": "Kalathas"
+  },
+  {
+    "type": "city",
+    "name": "Kalathos"
+  },
+  {
+    "type": "city",
+    "name": "Kalivia"
+  },
+  {
+    "type": "city",
+    "name": "Kallithea"
+  },
+  {
+    "type": "city",
+    "name": "Kalogeros"
+  },
+  {
+    "type": "city",
+    "name": "Kalyves"
+  },
+  {
+    "type": "city",
+    "name": "Kamala"
+  },
+  {
+    "type": "city",
+    "name": "Kanalia"
+  },
+  {
+    "type": "city",
+    "name": "Kappa Resort"
+  },
+  {
+    "type": "city",
+    "name": "Karionas"
+  },
+  {
+    "type": "city",
+    "name": "Karpathos"
+  },
+  {
+    "type": "city",
+    "name": "KaStel LukSiÄ‡"
+  },
+  {
+    "type": "city",
+    "name": "KaStel Novi"
+  },
+  {
+    "type": "city",
+    "name": "KaStel Stari"
+  },
+  {
+    "type": "city",
+    "name": "Kastelli Villas"
+  },
+  {
+    "type": "city",
+    "name": "Kastellorizo"
+  },
+  {
+    "type": "city",
+    "name": "Kastellos"
+  },
+  {
+    "type": "city",
+    "name": "Kastro"
+  },
+  {
+    "type": "city",
+    "name": "Kato Gouves"
+  },
+  {
+    "type": "city",
+    "name": "Kato Pedina"
+  },
+  {
+    "type": "city",
+    "name": "Katochori"
+  },
+  {
+    "type": "city",
+    "name": "Katouna"
+  },
+  {
+    "type": "city",
+    "name": "Kefalonia"
+  },
+  {
+    "type": "city",
+    "name": "Keisarya"
+  },
+  {
+    "type": "city",
+    "name": "Kentroma"
+  },
+  {
+    "type": "city",
+    "name": "Kerem Maharal"
+  },
+  {
+    "type": "city",
+    "name": "Kerkira"
+  },
+  {
+    "type": "city",
+    "name": "Key Biscayne"
+  },
+  {
+    "type": "city",
+    "name": "Kfar Shmaryahu"
+  },
+  {
+    "type": "city",
+    "name": "Kfar Yona"
+  },
+  {
+    "type": "city",
+    "name": "Kilchberg"
+  },
+  {
+    "type": "city",
+    "name": "Killin"
+  },
+  {
+    "type": "city",
+    "name": "Kinneret"
+  },
+  {
+    "type": "city",
+    "name": "Kissamos"
+  },
+  {
+    "type": "city",
+    "name": "Klouvas"
+  },
+  {
+    "type": "city",
+    "name": "Ko Pha-ngan Sub-district"
+  },
+  {
+    "type": "city",
+    "name": "Koh Samui"
+  },
+  {
+    "type": "city",
+    "name": "Kokkino Chorio"
+  },
+  {
+    "type": "city",
+    "name": "Kolitsani"
+  },
+  {
+    "type": "city",
+    "name": "Kolocep"
+  },
+  {
+    "type": "city",
+    "name": "Kolymvari"
+  },
+  {
+    "type": "city",
+    "name": "Komiza"
+  },
+  {
+    "type": "city",
+    "name": "Kondomari"
+  },
+  {
+    "type": "city",
+    "name": "Korcula"
+  },
+  {
+    "type": "city",
+    "name": "Korfalonas"
+  },
+  {
+    "type": "city",
+    "name": "Koridallos"
+  },
+  {
+    "type": "city",
+    "name": "Kos"
+  },
+  {
+    "type": "city",
+    "name": "Koskinou"
+  },
+  {
+    "type": "city",
+    "name": "Koufonissi"
+  },
+  {
+    "type": "city",
+    "name": "Kounoupi"
+  },
+  {
+    "type": "city",
+    "name": "Kounoupidiana"
+  },
+  {
+    "type": "city",
+    "name": "Kounoupitsa"
+  },
+  {
+    "type": "city",
+    "name": "Koutsouras"
+  },
+  {
+    "type": "city",
+    "name": "Krefeld"
+  },
+  {
+    "type": "city",
+    "name": "Kuta Sel"
+  },
+  {
+    "type": "city",
+    "name": "Kuta Utara"
+  },
+  {
+    "type": "city",
+    "name": "La Cala de Mijas"
+  },
+  {
+    "type": "city",
+    "name": "La Colle-sur-Loup"
+  },
+  {
+    "type": "city",
+    "name": "La Croix-Valmer"
+  },
+  {
+    "type": "city",
+    "name": "La Cruz de Huanacaxtle"
+  },
+  {
+    "type": "city",
+    "name": "La Digue"
+  },
+  {
+    "type": "city",
+    "name": "La Mole"
+  },
+  {
+    "type": "city",
+    "name": "La Paz"
+  },
+  {
+    "type": "city",
+    "name": "La Romana"
+  },
+  {
+    "type": "city",
+    "name": "La Sacca"
+  },
+  {
+    "type": "city",
+    "name": "La Spezia"
+  },
+  {
+    "type": "city",
+    "name": "La Spezia SP"
+  },
+  {
+    "type": "city",
+    "name": "Laganas"
+  },
+  {
+    "type": "city",
+    "name": "Laglio"
+  },
+  {
+    "type": "city",
+    "name": "Lago Vista"
+  },
+  {
+    "type": "city",
+    "name": "Lagoa"
+  },
+  {
+    "type": "city",
+    "name": "Lajatico"
+  },
+  {
+    "type": "city",
+    "name": "Lake Havasu City"
+  },
+  {
+    "type": "city",
+    "name": "Lakeway"
+  },
+  {
+    "type": "city",
+    "name": "Lampeter Velfrey"
+  },
+  {
+    "type": "city",
+    "name": "Lancaster"
+  },
+  {
+    "type": "city",
+    "name": "Largoward"
+  },
+  {
+    "type": "city",
+    "name": "Larnaca"
+  },
+  {
+    "type": "city",
+    "name": "Las Lagunas de Mijas"
+  },
+  {
+    "type": "city",
+    "name": "Lauenen"
+  },
+  {
+    "type": "city",
+    "name": "Laurel"
+  },
+  {
+    "type": "city",
+    "name": "Le Beluga"
+  },
+  {
+    "type": "city",
+    "name": "Le Cannet "
+  },
+  {
+    "type": "city",
+    "name": "Le Contesse"
+  },
+  {
+    "type": "city",
+    "name": "Le Luc"
+  },
+  {
+    "type": "city",
+    "name": "Le Marche"
+  },
+  {
+    "type": "city",
+    "name": "Le Tholonet"
+  },
+  {
+    "type": "city",
+    "name": "Lecci"
+  },
+  {
+    "type": "city",
+    "name": "Lech"
+  },
+  {
+    "type": "city",
+    "name": "Lefkada"
+  },
+  {
+    "type": "city",
+    "name": "Lefkas"
+  },
+  {
+    "type": "city",
+    "name": "Leggiuno"
+  },
+  {
+    "type": "city",
+    "name": "Leleg Yolu"
+  },
+  {
+    "type": "city",
+    "name": "Lenno"
+  },
+  {
+    "type": "city",
+    "name": "Lens"
+  },
+  {
+    "type": "city",
+    "name": "Les Allues"
+  },
+  {
+    "type": "city",
+    "name": "Les Houches"
+  },
+  {
+    "type": "city",
+    "name": "Lesa"
+  },
+  {
+    "type": "city",
+    "name": "Levanto"
+  },
+  {
+    "type": "city",
+    "name": "Leverano"
+  },
+  {
+    "type": "city",
+    "name": "Licata"
+  },
+  {
+    "type": "city",
+    "name": "Lido del Sole"
+  },
+  {
+    "type": "city",
+    "name": "Lido di Noto"
+  },
+  {
+    "type": "city",
+    "name": "Ligaria"
+  },
+  {
+    "type": "city",
+    "name": "Liman"
+  },
+  {
+    "type": "city",
+    "name": "Limasol"
+  },
+  {
+    "type": "city",
+    "name": "Lisbon"
+  },
+  {
+    "type": "city",
+    "name": "Liscia di Vacca"
+  },
+  {
+    "type": "city",
+    "name": "Lithakia"
+  },
+  {
+    "type": "city",
+    "name": "Little Battaleys"
+  },
+  {
+    "type": "city",
+    "name": "Livadi"
+  },
+  {
+    "type": "city",
+    "name": "Ljuta"
+  },
+  {
+    "type": "city",
+    "name": "Llafranc"
+  },
+  {
+    "type": "city",
+    "name": "Llangennith"
+  },
+  {
+    "type": "city",
+    "name": "Llanmadoc"
+  },
+  {
+    "type": "city",
+    "name": "Llubi"
+  },
+  {
+    "type": "city",
+    "name": "Lombardy"
+  },
+  {
+    "type": "city",
+    "name": "Lorient"
+  },
+  {
+    "type": "city",
+    "name": "Lorient, Saint Barthelemy"
+  },
+  {
+    "type": "city",
+    "name": "Loro Ciuffenna"
+  },
+  {
+    "type": "city",
+    "name": "Los Angeles"
+  },
+  {
+    "type": "city",
+    "name": "Los Ayala"
+  },
+  {
+    "type": "city",
+    "name": "Los Cabos"
+  },
+  {
+    "type": "city",
+    "name": "Los Cabos Corridor"
+  },
+  {
+    "type": "city",
+    "name": "Loule"
+  },
+  {
+    "type": "city",
+    "name": "Lourdata"
+  },
+  {
+    "type": "city",
+    "name": "Lourmarin"
+  },
+  {
+    "type": "city",
+    "name": "Lozica"
+  },
+  {
+    "type": "city",
+    "name": "Lu Impostu"
+  },
+  {
+    "type": "city",
+    "name": "Lucca"
+  },
+  {
+    "type": "city",
+    "name": "Lucignano"
+  },
+  {
+    "type": "city",
+    "name": "Lumio"
+  },
+  {
+    "type": "city",
+    "name": "Luz de Tavira"
+  },
+  {
+    "type": "city",
+    "name": "Luzern"
+  },
+  {
+    "type": "city",
+    "name": "Macerata"
+  },
+  {
+    "type": "city",
+    "name": "Maiori"
+  },
+  {
+    "type": "city",
+    "name": "Makria Miti"
+  },
+  {
+    "type": "city",
+    "name": "Malaga"
+  },
+  {
+    "type": "city",
+    "name": "Maleme"
+  },
+  {
+    "type": "city",
+    "name": "Malevizi"
+  },
+  {
+    "type": "city",
+    "name": "Malia"
+  },
+  {
+    "type": "city",
+    "name": "Malibu"
+  },
+  {
+    "type": "city",
+    "name": "Manorbier"
+  },
+  {
+    "type": "city",
+    "name": "Maracalagonis"
+  },
+  {
+    "type": "city",
+    "name": "Marathias"
+  },
+  {
+    "type": "city",
+    "name": "Marausa Lido"
+  },
+  {
+    "type": "city",
+    "name": "Marbella"
+  },
+  {
+    "type": "city",
+    "name": "Marina del Rey"
+  },
+  {
+    "type": "city",
+    "name": "Marina di Pietrasanta"
+  },
+  {
+    "type": "city",
+    "name": "Maroulas"
+  },
+  {
+    "type": "city",
+    "name": "Marrakech"
+  },
+  {
+    "type": "city",
+    "name": "Marrakesh"
+  },
+  {
+    "type": "city",
+    "name": "Marratxi"
+  },
+  {
+    "type": "city",
+    "name": "Marsala"
+  },
+  {
+    "type": "city",
+    "name": "Martina Franca"
+  },
+  {
+    "type": "city",
+    "name": "Massa"
+  },
+  {
+    "type": "city",
+    "name": "Massa Martana"
+  },
+  {
+    "type": "city",
+    "name": "Massarosa"
+  },
+  {
+    "type": "city",
+    "name": "Matten bei Interlaken"
+  },
+  {
+    "type": "city",
+    "name": "Mattituck"
+  },
+  {
+    "type": "city",
+    "name": "Maussane-les-Alpilles"
+  },
+  {
+    "type": "city",
+    "name": "Mavros Kolimpos"
+  },
+  {
+    "type": "city",
+    "name": "Medulin"
+  },
+  {
+    "type": "city",
+    "name": "Megalochori"
+  },
+  {
+    "type": "city",
+    "name": "Megeve"
+  },
+  {
+    "type": "city",
+    "name": "Meggen"
+  },
+  {
+    "type": "city",
+    "name": "Meilen"
+  },
+  {
+    "type": "city",
+    "name": "Meina"
+  },
+  {
+    "type": "city",
+    "name": "Meknes"
+  },
+  {
+    "type": "city",
+    "name": "Melides"
+  },
+  {
+    "type": "city",
+    "name": "Menaggio"
+  },
+  {
+    "type": "city",
+    "name": "Meneou"
+  },
+  {
+    "type": "city",
+    "name": "Mengwi"
+  },
+  {
+    "type": "city",
+    "name": "Mercatello"
+  },
+  {
+    "type": "city",
+    "name": "Mesagne"
+  },
+  {
+    "type": "city",
+    "name": "Mesao Frio"
+  },
+  {
+    "type": "city",
+    "name": "Mesaria"
+  },
+  {
+    "type": "city",
+    "name": "Messina"
+  },
+  {
+    "type": "city",
+    "name": "Miami"
+  },
+  {
+    "type": "city",
+    "name": "Miami Beach"
+  },
+  {
+    "type": "city",
+    "name": "Miami Shores"
+  },
+  {
+    "type": "city",
+    "name": "Mies"
+  },
+  {
+    "type": "city",
+    "name": "Migdal"
+  },
+  {
+    "type": "city",
+    "name": "Mikonos"
+  },
+  {
+    "type": "city",
+    "name": "Mikri Vigla"
+  },
+  {
+    "type": "city",
+    "name": "Milford Haven"
+  },
+  {
+    "type": "city",
+    "name": "Milna"
+  },
+  {
+    "type": "city",
+    "name": "Milos"
+  },
+  {
+    "type": "city",
+    "name": "Miravalles"
+  },
+  {
+    "type": "city",
+    "name": "Mirca"
+  },
+  {
+    "type": "city",
+    "name": "Mirissa"
+  },
+  {
+    "type": "city",
+    "name": "Mismaloya"
+  },
+  {
+    "type": "city",
+    "name": "Mississauga"
+  },
+  {
+    "type": "city",
+    "name": "Mlini"
+  },
+  {
+    "type": "city",
+    "name": "Moab"
+  },
+  {
+    "type": "city",
+    "name": "Mokosica"
+  },
+  {
+    "type": "city",
+    "name": "Molino dei Lunghi"
+  },
+  {
+    "type": "city",
+    "name": "Molunat"
+  },
+  {
+    "type": "city",
+    "name": "Monaco"
+  },
+  {
+    "type": "city",
+    "name": "Mondavio"
+  },
+  {
+    "type": "city",
+    "name": "Moni Profitou Iliou"
+  },
+  {
+    "type": "city",
+    "name": "Mont-ras"
+  },
+  {
+    "type": "city",
+    "name": "Montalcino"
+  },
+  {
+    "type": "city",
+    "name": "Montaren-et-Saint-Mediers"
+  },
+  {
+    "type": "city",
+    "name": "Monte Castello di Vibio"
+  },
+  {
+    "type": "city",
+    "name": "Monte Santa Maria Tiberina PG"
+  },
+  {
+    "type": "city",
+    "name": "Montecchio"
+  },
+  {
+    "type": "city",
+    "name": "Montecosaro"
+  },
+  {
+    "type": "city",
+    "name": "Montegonzi"
+  },
+  {
+    "type": "city",
+    "name": "Montellano"
+  },
+  {
+    "type": "city",
+    "name": "Montemaggiore al Metauro"
+  },
+  {
+    "type": "city",
+    "name": "Monterosso al Mare"
+  },
+  {
+    "type": "city",
+    "name": "Montespertoli"
+  },
+  {
+    "type": "city",
+    "name": "Montespertoli FI"
+  },
+  {
+    "type": "city",
+    "name": "Monticchiello"
+  },
+  {
+    "type": "city",
+    "name": "Montone"
+  },
+  {
+    "type": "city",
+    "name": "Montreal"
+  },
+  {
+    "type": "city",
+    "name": "Montreux"
+  },
+  {
+    "type": "city",
+    "name": "Morzine"
+  },
+  {
+    "type": "city",
+    "name": "Mougins"
+  },
+  {
+    "type": "city",
+    "name": "Mparmpati"
+  },
+  {
+    "type": "city",
+    "name": "Mullins"
+  },
+  {
+    "type": "city",
+    "name": "Municipality of Naxos and the Lesser Cyclades"
+  },
+  {
+    "type": "city",
+    "name": "Municipality of Rhodes"
+  },
+  {
+    "type": "city",
+    "name": "Muro Leccese"
+  },
+  {
+    "type": "city",
+    "name": "Murter"
+  },
+  {
+    "type": "city",
+    "name": "Murvica"
+  },
+  {
+    "type": "city",
+    "name": "Mykonos Invest SA"
+  },
+  {
+    "type": "city",
+    "name": "Mykonos Rocks Luxury Villas"
+  },
+  {
+    "type": "city",
+    "name": "Mykonos-Elia"
+  },
+  {
+    "type": "city",
+    "name": "Mykonos-Kalafati"
+  },
+  {
+    "type": "city",
+    "name": "Mykonos-Ornos"
+  },
+  {
+    "type": "city",
+    "name": "Mykonos-Platis Gialos"
+  },
+  {
+    "type": "city",
+    "name": "Mykonos-Tourlos"
+  },
+  {
+    "type": "city",
+    "name": "Mykonos-Town"
+  },
+  {
+    "type": "city",
+    "name": "Naousa"
+  },
+  {
+    "type": "city",
+    "name": "Naples"
+  },
+  {
+    "type": "city",
+    "name": "Narberth"
+  },
+  {
+    "type": "city",
+    "name": "Nardo"
+  },
+  {
+    "type": "city",
+    "name": "Narni"
+  },
+  {
+    "type": "city",
+    "name": "Narni TR"
+  },
+  {
+    "type": "city",
+    "name": "Nashville"
+  },
+  {
+    "type": "city",
+    "name": "Naucalpan de Juarez"
+  },
+  {
+    "type": "city",
+    "name": "Nebbiuno"
+  },
+  {
+    "type": "city",
+    "name": "Nendaz"
+  },
+  {
+    "type": "city",
+    "name": "Nerezisca"
+  },
+  {
+    "type": "city",
+    "name": "Nerja"
+  },
+  {
+    "type": "city",
+    "name": "Netanya"
+  },
+  {
+    "type": "city",
+    "name": "New Castle"
+  },
+  {
+    "type": "city",
+    "name": "Nidri"
+  },
+  {
+    "type": "city",
+    "name": "Nisi"
+  },
+  {
+    "type": "city",
+    "name": "Nocelle"
+  },
+  {
+    "type": "city",
+    "name": "NOMIOS VILLA"
+  },
+  {
+    "type": "city",
+    "name": "Noord"
+  },
+  {
+    "type": "city",
+    "name": "North Kuta"
+  },
+  {
+    "type": "city",
+    "name": "North Naples"
+  },
+  {
+    "type": "city",
+    "name": "Notteri"
+  },
+  {
+    "type": "city",
+    "name": "Nottwil"
+  },
+  {
+    "type": "city",
+    "name": "Nuestra Senora de Jesus"
+  },
+  {
+    "type": "city",
+    "name": "Nuevo Vallarta"
+  },
+  {
+    "type": "city",
+    "name": "Obidos"
+  },
+  {
+    "type": "city",
+    "name": "Oeschseite"
+  },
+  {
+    "type": "city",
+    "name": "Okeanides Villas"
+  },
+  {
+    "type": "city",
+    "name": "Okrug Gornji"
+  },
+  {
+    "type": "city",
+    "name": "Okrug Gornji,"
+  },
+  {
+    "type": "city",
+    "name": "Olbia"
+  },
+  {
+    "type": "city",
+    "name": "Old Hickory"
+  },
+  {
+    "type": "city",
+    "name": "Olesh"
+  },
+  {
+    "type": "city",
+    "name": "Olhos de Agua"
+  },
+  {
+    "type": "city",
+    "name": "Ollon"
+  },
+  {
+    "type": "city",
+    "name": "Omis"
+  },
+  {
+    "type": "city",
+    "name": "Ompio"
+  },
+  {
+    "type": "city",
+    "name": "Oppede"
+  },
+  {
+    "type": "city",
+    "name": "Or Akiva"
+  },
+  {
+    "type": "city",
+    "name": "Orasac"
+  },
+  {
+    "type": "city",
+    "name": "OrebiÄ‡"
+  },
+  {
+    "type": "city",
+    "name": "Ormos Panagias"
+  },
+  {
+    "type": "city",
+    "name": "Orvieto"
+  },
+  {
+    "type": "city",
+    "name": "Ostuni"
+  },
+  {
+    "type": "city",
+    "name": "Ouled Cheikh Ali"
+  },
+  {
+    "type": "city",
+    "name": "Paceco"
+  },
+  {
+    "type": "city",
+    "name": "Paderne"
+  },
+  {
+    "type": "city",
+    "name": "Palafrugell"
+  },
+  {
+    "type": "city",
+    "name": "Palau"
+  },
+  {
+    "type": "city",
+    "name": "Paleokastritsa"
+  },
+  {
+    "type": "city",
+    "name": "Paleokastro"
+  },
+  {
+    "type": "city",
+    "name": "Palm Beach Gardens"
+  },
+  {
+    "type": "city",
+    "name": "Palm Springs"
+  },
+  {
+    "type": "city",
+    "name": "Palma"
+  },
+  {
+    "type": "city",
+    "name": "Palmilla"
+  },
+  {
+    "type": "city",
+    "name": "Panama City"
+  },
+  {
+    "type": "city",
+    "name": "Pangkung Tibah"
+  },
+  {
+    "type": "city",
+    "name": "Panicale"
+  },
+  {
+    "type": "city",
+    "name": "Pantanassa Villas"
+  },
+  {
+    "type": "city",
+    "name": "Pantogia"
+  },
+  {
+    "type": "city",
+    "name": "Pantokratoras"
+  },
+  {
+    "type": "city",
+    "name": "Panzano In Chianti"
+  },
+  {
+    "type": "city",
+    "name": "Paradise Valley"
+  },
+  {
+    "type": "city",
+    "name": "Paralia Dikellon"
+  },
+  {
+    "type": "city",
+    "name": "Paralia Kourna(Kavros)"
+  },
+  {
+    "type": "city",
+    "name": "Paralimni"
+  },
+  {
+    "type": "city",
+    "name": "Parasporos Paradise Villa"
+  },
+  {
+    "type": "city",
+    "name": "Paris"
+  },
+  {
+    "type": "city",
+    "name": "Parkmill"
+  },
+  {
+    "type": "city",
+    "name": "Paros Traditional Houses"
+  },
+  {
+    "type": "city",
+    "name": "Passignano sul Trasimeno"
+  },
+  {
+    "type": "city",
+    "name": "Patmos"
+  },
+  {
+    "type": "city",
+    "name": "Paxos"
+  },
+  {
+    "type": "city",
+    "name": "Paynes Bay"
+  },
+  {
+    "type": "city",
+    "name": "Peat Inn"
+  },
+  {
+    "type": "city",
+    "name": "Pecatu"
+  },
+  {
+    "type": "city",
+    "name": "Peconic"
+  },
+  {
+    "type": "city",
+    "name": "Pedaso"
+  },
+  {
+    "type": "city",
+    "name": "Peddie"
+  },
+  {
+    "type": "city",
+    "name": "Pedregal"
+  },
+  {
+    "type": "city",
+    "name": "Pelion"
+  },
+  {
+    "type": "city",
+    "name": "Peloponnese"
+  },
+  {
+    "type": "city",
+    "name": "Penally"
+  },
+  {
+    "type": "city",
+    "name": "Pendine"
+  },
+  {
+    "type": "city",
+    "name": "Penmaen"
+  },
+  {
+    "type": "city",
+    "name": "Perama"
+  },
+  {
+    "type": "city",
+    "name": "Pererenan"
+  },
+  {
+    "type": "city",
+    "name": "Perivolia"
+  },
+  {
+    "type": "city",
+    "name": "Pernera"
+  },
+  {
+    "type": "city",
+    "name": "Pernes-les-Fontaines"
+  },
+  {
+    "type": "city",
+    "name": "Pertuis"
+  },
+  {
+    "type": "city",
+    "name": "Perugia"
+  },
+  {
+    "type": "city",
+    "name": "Pescaglia"
+  },
+  {
+    "type": "city",
+    "name": "Petit Cul de Sac "
+  },
+  {
+    "type": "city",
+    "name": "Petit Cul-de-Sac"
+  },
+  {
+    "type": "city",
+    "name": "Petit-Bourg"
+  },
+  {
+    "type": "city",
+    "name": "Petite Saline"
+  },
+  {
+    "type": "city",
+    "name": "Petres"
+  },
+  {
+    "type": "city",
+    "name": "Petrognano"
+  },
+  {
+    "type": "city",
+    "name": "Peyia"
+  },
+  {
+    "type": "city",
+    "name": "Phoenix"
+  },
+  {
+    "type": "city",
+    "name": "Phuket"
+  },
+  {
+    "type": "city",
+    "name": "Pianello del Lario"
+  },
+  {
+    "type": "city",
+    "name": "Pianottoli-Caldarello"
+  },
+  {
+    "type": "city",
+    "name": "Piegaro"
+  },
+  {
+    "type": "city",
+    "name": "Pienza"
+  },
+  {
+    "type": "city",
+    "name": "Pienza SI"
+  },
+  {
+    "type": "city",
+    "name": "Pigi"
+  },
+  {
+    "type": "city",
+    "name": "Pignone"
+  },
+  {
+    "type": "city",
+    "name": "Pigra"
+  },
+  {
+    "type": "city",
+    "name": "Pilton Rhossili"
+  },
+  {
+    "type": "city",
+    "name": "Pinezici"
+  },
+  {
+    "type": "city",
+    "name": "Pirgos Kallistis"
+  },
+  {
+    "type": "city",
+    "name": "Pistoia"
+  },
+  {
+    "type": "city",
+    "name": "Pithari"
+  },
+  {
+    "type": "city",
+    "name": "Pitsidia"
+  },
+  {
+    "type": "city",
+    "name": "Plage de Grand"
+  },
+  {
+    "type": "city",
+    "name": "Plage des Flamands"
+  },
+  {
+    "type": "city",
+    "name": "Plaka"
+  },
+  {
+    "type": "city",
+    "name": "Playa del Carmen"
+  },
+  {
+    "type": "city",
+    "name": "Playa Langosta"
+  },
+  {
+    "type": "city",
+    "name": "Plymouth"
+  },
+  {
+    "type": "city",
+    "name": "Podstrana"
+  },
+  {
+    "type": "city",
+    "name": "Poggio dei Pini"
+  },
+  {
+    "type": "city",
+    "name": "Poggio di Loro"
+  },
+  {
+    "type": "city",
+    "name": "Poggio Rusco"
+  },
+  {
+    "type": "city",
+    "name": "Pogonia"
+  },
+  {
+    "type": "city",
+    "name": "Pointe Milou"
+  },
+  {
+    "type": "city",
+    "name": "Polignano a Mare"
+  },
+  {
+    "type": "city",
+    "name": "Pollenca"
+  },
+  {
+    "type": "city",
+    "name": "Pollina"
+  },
+  {
+    "type": "city",
+    "name": "Pontremoli"
+  },
+  {
+    "type": "city",
+    "name": "Poppi"
+  },
+  {
+    "type": "city",
+    "name": "Porches"
+  },
+  {
+    "type": "city",
+    "name": "Poria - Kfar Avoda"
+  },
+  {
+    "type": "city",
+    "name": "Poria Illit"
+  },
+  {
+    "type": "city",
+    "name": "Poriya Ilit"
+  },
+  {
+    "type": "city",
+    "name": "Port St. Lucie"
+  },
+  {
+    "type": "city",
+    "name": "Porters"
+  },
+  {
+    "type": "city",
+    "name": "Portimao"
+  },
+  {
+    "type": "city",
+    "name": "Porto Cervo"
+  },
+  {
+    "type": "city",
+    "name": "Porto Cheli"
+  },
+  {
+    "type": "city",
+    "name": "Porto de Mos"
+  },
+  {
+    "type": "city",
+    "name": "Porto Rotondo"
+  },
+  {
+    "type": "city",
+    "name": "Porto Sa Ruxi"
+  },
+  {
+    "type": "city",
+    "name": "Porto San Giorgio"
+  },
+  {
+    "type": "city",
+    "name": "Porto-Vecchio"
+  },
+  {
+    "type": "city",
+    "name": "Portobello"
+  },
+  {
+    "type": "city",
+    "name": "Portocolom"
+  },
+  {
+    "type": "city",
+    "name": "Portovenere"
+  },
+  {
+    "type": "city",
+    "name": "Portovenere SP"
+  },
+  {
+    "type": "city",
+    "name": "Positano"
+  },
+  {
+    "type": "city",
+    "name": "Potenza Picena"
+  },
+  {
+    "type": "city",
+    "name": "Pounta"
+  },
+  {
+    "type": "city",
+    "name": "Praia da Balbina"
+  },
+  {
+    "type": "city",
+    "name": "Prgomet"
+  },
+  {
+    "type": "city",
+    "name": "Primosten"
+  },
+  {
+    "type": "city",
+    "name": "Primosten Burnji"
+  },
+  {
+    "type": "city",
+    "name": "Princes Gate"
+  },
+  {
+    "type": "city",
+    "name": "Prinos"
+  },
+  {
+    "type": "city",
+    "name": "Protaras"
+  },
+  {
+    "type": "city",
+    "name": "Provensals"
+  },
+  {
+    "type": "city",
+    "name": "Providence"
+  },
+  {
+    "type": "city",
+    "name": "Prvic Luka"
+  },
+  {
+    "type": "city",
+    "name": "Psarrou"
+  },
+  {
+    "type": "city",
+    "name": "Pucisca"
+  },
+  {
+    "type": "city",
+    "name": "Puerto  Banus"
+  },
+  {
+    "type": "city",
+    "name": "Puerto Los Cabos"
+  },
+  {
+    "type": "city",
+    "name": "Puerto Vallarta"
+  },
+  {
+    "type": "city",
+    "name": "Puig Manya"
+  },
+  {
+    "type": "city",
+    "name": "Pula"
+  },
+  {
+    "type": "city",
+    "name": "Punta Cana"
+  },
+  {
+    "type": "city",
+    "name": "Punta de Mita"
+  },
+  {
+    "type": "city",
+    "name": "Punta de Mita,"
+  },
+  {
+    "type": "city",
+    "name": "Punta de Mita, Nayarit"
+  },
+  {
+    "type": "city",
+    "name": "Punta Mita"
+  },
+  {
+    "type": "city",
+    "name": "Punta Sardegna"
+  },
+  {
+    "type": "city",
+    "name": "Punta Villela"
+  },
+  {
+    "type": "city",
+    "name": "Puyvert"
+  },
+  {
+    "type": "city",
+    "name": "Pyrgi"
+  },
+  {
+    "type": "city",
+    "name": "Quarteira"
+  },
+  {
+    "type": "city",
+    "name": "Quatro Estradas"
+  },
+  {
+    "type": "city",
+    "name": "Quepos"
+  },
+  {
+    "type": "city",
+    "name": "Quinta do Lago"
+  },
+  {
+    "type": "city",
+    "name": "Quinta Verde"
+  },
+  {
+    "type": "city",
+    "name": "Raa Atoll"
+  },
+  {
+    "type": "city",
+    "name": "Racale"
+  },
+  {
+    "type": "city",
+    "name": "Radicofani"
+  },
+  {
+    "type": "city",
+    "name": "Radstock"
+  },
+  {
+    "type": "city",
+    "name": "Ragusa"
+  },
+  {
+    "type": "city",
+    "name": "Ragusa RG"
+  },
+  {
+    "type": "city",
+    "name": "Ramatuelle"
+  },
+  {
+    "type": "city",
+    "name": "Ranco"
+  },
+  {
+    "type": "city",
+    "name": "Ravdoucha"
+  },
+  {
+    "type": "city",
+    "name": "Razanj"
+  },
+  {
+    "type": "city",
+    "name": "Regusa"
+  },
+  {
+    "type": "city",
+    "name": "Reno"
+  },
+  {
+    "type": "city",
+    "name": "Rethimno"
+  },
+  {
+    "type": "city",
+    "name": "Riddes"
+  },
+  {
+    "type": "city",
+    "name": "Ridge"
+  },
+  {
+    "type": "city",
+    "name": "Riec-sur-Belon"
+  },
+  {
+    "type": "city",
+    "name": "Riobom"
+  },
+  {
+    "type": "city",
+    "name": "Ripoli"
+  },
+  {
+    "type": "city",
+    "name": "Riviera Maya Quintana Roo"
+  },
+  {
+    "type": "city",
+    "name": "Rodengo-saiano BS"
+  },
+  {
+    "type": "city",
+    "name": "Rodia"
+  },
+  {
+    "type": "city",
+    "name": "Rodos"
+  },
+  {
+    "type": "city",
+    "name": "Rogoznica"
+  },
+  {
+    "type": "city",
+    "name": "Ronciglione"
+  },
+  {
+    "type": "city",
+    "name": "Ronda"
+  },
+  {
+    "type": "city",
+    "name": "Rosh Pina"
+  },
+  {
+    "type": "city",
+    "name": "Rosh Pinna"
+  },
+  {
+    "type": "city",
+    "name": "Rossini"
+  },
+  {
+    "type": "city",
+    "name": "Rossiniere"
+  },
+  {
+    "type": "city",
+    "name": "Rougemont"
+  },
+  {
+    "type": "city",
+    "name": "Route de Lurin"
+  },
+  {
+    "type": "city",
+    "name": "Rovaniemi"
+  },
+  {
+    "type": "city",
+    "name": "Rovolon"
+  },
+  {
+    "type": "city",
+    "name": "Royal Westmoreland"
+  },
+  {
+    "type": "city",
+    "name": "Rozat"
+  },
+  {
+    "type": "city",
+    "name": "RoziÄ‡i"
+  },
+  {
+    "type": "city",
+    "name": "Rudine"
+  },
+  {
+    "type": "city",
+    "name": "Russell"
+  },
+  {
+    "type": "city",
+    "name": "Saanen"
+  },
+  {
+    "type": "city",
+    "name": "Saas-Fee"
+  },
+  {
+    "type": "city",
+    "name": "Sabana, Vega Alta, Puerto Rico"
+  },
+  {
+    "type": "city",
+    "name": "Sabrosa"
+  },
+  {
+    "type": "city",
+    "name": "Sachseln"
+  },
+  {
+    "type": "city",
+    "name": "Sacramento"
+  },
+  {
+    "type": "city",
+    "name": "Sadillac"
+  },
+  {
+    "type": "city",
+    "name": "Safed"
+  },
+  {
+    "type": "city",
+    "name": "Saint Florence"
+  },
+  {
+    "type": "city",
+    "name": "Saint James"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Barthelemy"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Barthelemy-le-Plain"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Bon-Tarentaise"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Francois"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Gervais-les-Bains"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Jean-Cap-Ferrat"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Jean, Saint Barthelemy"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Laurent-de-Mure"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Paul-de-Vence"
+  },
+  {
+    "type": "city",
+    "name": "Saint-R"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Remy"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Sulpice"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Tropez"
+  },
+  {
+    "type": "city",
+    "name": "Saint-Victor-des-Oules"
+  },
+  {
+    "type": "city",
+    "name": "Sainte-Maxime"
+  },
+  {
+    "type": "city",
+    "name": "Sala Comacina"
+  },
+  {
+    "type": "city",
+    "name": "Salano"
+  },
+  {
+    "type": "city",
+    "name": "Salina Bamba"
+  },
+  {
+    "type": "city",
+    "name": "Samaden"
+  },
+  {
+    "type": "city",
+    "name": "San Antonio Bay"
+  },
+  {
+    "type": "city",
+    "name": "San Casciano dei Bagni"
+  },
+  {
+    "type": "city",
+    "name": "San Casciano dei bagni SI"
+  },
+  {
+    "type": "city",
+    "name": "San Diego"
+  },
+  {
+    "type": "city",
+    "name": "San Francisco"
+  },
+  {
+    "type": "city",
+    "name": "San Gimignano"
+  },
+  {
+    "type": "city",
+    "name": "San Jose"
+  },
+  {
+    "type": "city",
+    "name": "San Jose del Cabo"
+  },
+  {
+    "type": "city",
+    "name": "San Josep de sa Talaia"
+  },
+  {
+    "type": "city",
+    "name": "San Pedro"
+  },
+  {
+    "type": "city",
+    "name": "San Roque"
+  },
+  {
+    "type": "city",
+    "name": "San Teodoro"
+  },
+  {
+    "type": "city",
+    "name": "San Venanzo"
+  },
+  {
+    "type": "city",
+    "name": "Sandy Lane"
+  },
+  {
+    "type": "city",
+    "name": "Sankt Moritz"
+  },
+  {
+    "type": "city",
+    "name": "Sankt Niklaus"
+  },
+  {
+    "type": "city",
+    "name": "Sanremo"
+  },
+  {
+    "type": "city",
+    "name": "Sant Antoni de Portmany"
+  },
+  {
+    "type": "city",
+    "name": "Sant Joan de Labritja"
+  },
+  {
+    "type": "city",
+    "name": "Sant Josep de sa Talaia"
+  },
+  {
+    "type": "city",
+    "name": "Sant Llorenc de Balafia"
+  },
+  {
+    "type": "city",
+    "name": "Sant Rafel"
+  },
+  {
+    "type": "city",
+    "name": "Sant Vicent de sa Cala"
+  },
+  {
+    "type": "city",
+    "name": "Santa Eulalia Albufeira"
+  },
+  {
+    "type": "city",
+    "name": "Santa Eulalia del Rio"
+  },
+  {
+    "type": "city",
+    "name": "Santa Eularia des Riu"
+  },
+  {
+    "type": "city",
+    "name": "Santa Gertrudis de Fruitera"
+  },
+  {
+    "type": "city",
+    "name": "Santa Maria degli Angeli"
+  },
+  {
+    "type": "city",
+    "name": "Santa Maria del Focallo"
+  },
+  {
+    "type": "city",
+    "name": "Santa Maria Nuova"
+  },
+  {
+    "type": "city",
+    "name": "Santa Maria Rezzonico"
+  },
+  {
+    "type": "city",
+    "name": "Santa Monica"
+  },
+  {
+    "type": "city",
+    "name": "Santa Vittoria in Matenano"
+  },
+  {
+    "type": "city",
+    "name": "Santiago do Cacem"
+  },
+  {
+    "type": "city",
+    "name": "Santorini"
+  },
+  {
+    "type": "city",
+    "name": "Sao Francisco da Serra"
+  },
+  {
+    "type": "city",
+    "name": "Sao Tome de Covelas"
+  },
+  {
+    "type": "city",
+    "name": "Saragano PG"
+  },
+  {
+    "type": "city",
+    "name": "Sari-Solenzara"
+  },
+  {
+    "type": "city",
+    "name": "SariÄ‡i"
+  },
+  {
+    "type": "city",
+    "name": "Sarnen"
+  },
+  {
+    "type": "city",
+    "name": "Sarteano"
+  },
+  {
+    "type": "city",
+    "name": "Sarzana"
+  },
+  {
+    "type": "city",
+    "name": "Saundersfoot"
+  },
+  {
+    "type": "city",
+    "name": "Savoie"
+  },
+  {
+    "type": "city",
+    "name": "Sayulita"
+  },
+  {
+    "type": "city",
+    "name": "Scandicci"
+  },
+  {
+    "type": "city",
+    "name": "Schisma Elountas"
+  },
+  {
+    "type": "city",
+    "name": "Schonried"
+  },
+  {
+    "type": "city",
+    "name": "Scicli"
+  },
+  {
+    "type": "city",
+    "name": "Scottsdale"
+  },
+  {
+    "type": "city",
+    "name": "Sde Warburg"
+  },
+  {
+    "type": "city",
+    "name": "Seattle"
+  },
+  {
+    "type": "city",
+    "name": "Seawave villa"
+  },
+  {
+    "type": "city",
+    "name": "Seget Vranjica"
+  },
+  {
+    "type": "city",
+    "name": "Selca"
+  },
+  {
+    "type": "city",
+    "name": "Selca, Brac"
+  },
+  {
+    "type": "city",
+    "name": "Seravezza"
+  },
+  {
+    "type": "city",
+    "name": "Serifos"
+  },
+  {
+    "type": "city",
+    "name": "ses Illetes"
+  },
+  {
+    "type": "city",
+    "name": "Sevierville"
+  },
+  {
+    "type": "city",
+    "name": "Seychelles"
+  },
+  {
+    "type": "city",
+    "name": "Sezze"
+  },
+  {
+    "type": "city",
+    "name": "Sfakaki"
+  },
+  {
+    "type": "city",
+    "name": "Sfakiotes"
+  },
+  {
+    "type": "city",
+    "name": "Sgourou"
+  },
+  {
+    "type": "city",
+    "name": "Shell Beach"
+  },
+  {
+    "type": "city",
+    "name": "Sicane"
+  },
+  {
+    "type": "city",
+    "name": "Siena"
+  },
+  {
+    "type": "city",
+    "name": "Sifnos"
+  },
+  {
+    "type": "city",
+    "name": "Silver Sands"
+  },
+  {
+    "type": "city",
+    "name": "Sintra"
+  },
+  {
+    "type": "city",
+    "name": "Siracusa"
+  },
+  {
+    "type": "city",
+    "name": "Sirenuse"
+  },
+  {
+    "type": "city",
+    "name": "Å iSan"
+  },
+  {
+    "type": "city",
+    "name": "Sivota"
+  },
+  {
+    "type": "city",
+    "name": "Skala"
+  },
+  {
+    "type": "city",
+    "name": "Skiathos"
+  },
+  {
+    "type": "city",
+    "name": "Å krip"
+  },
+  {
+    "type": "city",
+    "name": "Slade Oxwich"
+  },
+  {
+    "type": "city",
+    "name": "Slivno Ravno"
+  },
+  {
+    "type": "city",
+    "name": "Smokvica"
+  },
+  {
+    "type": "city",
+    "name": "Soledad de Graciano Sanchez"
+  },
+  {
+    "type": "city",
+    "name": "Solfagnano"
+  },
+  {
+    "type": "city",
+    "name": "Solva"
+  },
+  {
+    "type": "city",
+    "name": "Son Coll"
+  },
+  {
+    "type": "city",
+    "name": "Sorrento"
+  },
+  {
+    "type": "city",
+    "name": "South Padre Island"
+  },
+  {
+    "type": "city",
+    "name": "Southampton"
+  },
+  {
+    "type": "city",
+    "name": "Southold"
+  },
+  {
+    "type": "city",
+    "name": "Speightstown"
+  },
+  {
+    "type": "city",
+    "name": "Spetses"
+  },
+  {
+    "type": "city",
+    "name": "Split"
+  },
+  {
+    "type": "city",
+    "name": "Splitska"
+  },
+  {
+    "type": "city",
+    "name": "Sporades"
+  },
+  {
+    "type": "city",
+    "name": "Spormaggiore"
+  },
+  {
+    "type": "city",
+    "name": "St Barthelemy"
+  },
+  {
+    "type": "city",
+    "name": "St James"
+  },
+  {
+    "type": "city",
+    "name": "St-Jean"
+  },
+  {
+    "type": "city",
+    "name": "St. Peter Speightstown"
+  },
+  {
+    "type": "city",
+    "name": "Stafa"
+  },
+  {
+    "type": "city",
+    "name": "Stalos"
+  },
+  {
+    "type": "city",
+    "name": "StaniÄ‡i"
+  },
+  {
+    "type": "city",
+    "name": "Stari Grad"
+  },
+  {
+    "type": "city",
+    "name": "Steamboat Springs"
+  },
+  {
+    "type": "city",
+    "name": "Stepaside"
+  },
+  {
+    "type": "city",
+    "name": "Sternes"
+  },
+  {
+    "type": "city",
+    "name": "Å tikovica"
+  },
+  {
+    "type": "city",
+    "name": "stresa"
+  },
+  {
+    "type": "city",
+    "name": "Stuckgowan"
+  },
+  {
+    "type": "city",
+    "name": "Sugar Hill"
+  },
+  {
+    "type": "city",
+    "name": "Sumartin"
+  },
+  {
+    "type": "city",
+    "name": "Sumartin, Brac"
+  },
+  {
+    "type": "city",
+    "name": "Supetar"
+  },
+  {
+    "type": "city",
+    "name": "Surat Thani "
+  },
+  {
+    "type": "city",
+    "name": "Sutivan"
+  },
+  {
+    "type": "city",
+    "name": "Symi"
+  },
+  {
+    "type": "city",
+    "name": "Syros"
+  },
+  {
+    "type": "city",
+    "name": "Syvota"
+  },
+  {
+    "type": "city",
+    "name": "Talalla"
+  },
+  {
+    "type": "city",
+    "name": "Talava"
+  },
+  {
+    "type": "city",
+    "name": "Talek"
+  },
+  {
+    "type": "city",
+    "name": "Talpe"
+  },
+  {
+    "type": "city",
+    "name": "Tamariu"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Choeng Thale"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Kamala"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Karon"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Kathu"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Khok Kloi"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Pa Klok"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Patong"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Ratsada"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Si Sunthon"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Thep Krasatti"
+  },
+  {
+    "type": "city",
+    "name": "Tambon Wichit"
+  },
+  {
+    "type": "city",
+    "name": "Tango Mar"
+  },
+  {
+    "type": "city",
+    "name": "Taormina"
+  },
+  {
+    "type": "city",
+    "name": "Tarbet"
+  },
+  {
+    "type": "city",
+    "name": "Tavarnuzze"
+  },
+  {
+    "type": "city",
+    "name": "Tel Aviv-Yafo"
+  },
+  {
+    "type": "city",
+    "name": "Templeton"
+  },
+  {
+    "type": "city",
+    "name": "Tenby"
+  },
+  {
+    "type": "city",
+    "name": "Terre-Neuve"
+  },
+  {
+    "type": "city",
+    "name": "Tesero"
+  },
+  {
+    "type": "city",
+    "name": "Thakandhoo"
+  },
+  {
+    "type": "city",
+    "name": "The Garden"
+  },
+  {
+    "type": "city",
+    "name": "Thira"
+  },
+  {
+    "type": "city",
+    "name": "Tiberias"
+  },
+  {
+    "type": "city",
+    "name": "Tighnabruaich"
+  },
+  {
+    "type": "city",
+    "name": "Tinos"
+  },
+  {
+    "type": "city",
+    "name": "Todi"
+  },
+  {
+    "type": "city",
+    "name": "Toiny"
+  },
+  {
+    "type": "city",
+    "name": "Toronto"
+  },
+  {
+    "type": "city",
+    "name": "Torre Suda"
+  },
+  {
+    "type": "city",
+    "name": "Torricella Peligna"
+  },
+  {
+    "type": "city",
+    "name": "Toscolano Maderno"
+  },
+  {
+    "type": "city",
+    "name": "Trapani"
+  },
+  {
+    "type": "city",
+    "name": "Tredozio"
+  },
+  {
+    "type": "city",
+    "name": "Treia"
+  },
+  {
+    "type": "city",
+    "name": "Tremezzo"
+  },
+  {
+    "type": "city",
+    "name": "Tresana"
+  },
+  {
+    "type": "city",
+    "name": "Trestina PG"
+  },
+  {
+    "type": "city",
+    "name": "Tribalj"
+  },
+  {
+    "type": "city",
+    "name": "Trogir"
+  },
+  {
+    "type": "city",
+    "name": "Trouville-sur-Mer"
+  },
+  {
+    "type": "city",
+    "name": "Trsteno"
+  },
+  {
+    "type": "city",
+    "name": "Tsairi"
+  },
+  {
+    "type": "city",
+    "name": "Tsivaras"
+  },
+  {
+    "type": "city",
+    "name": "Tugare"
+  },
+  {
+    "type": "city",
+    "name": "Tulum"
+  },
+  {
+    "type": "city",
+    "name": "Ucciani"
+  },
+  {
+    "type": "city",
+    "name": "Umbertide"
+  },
+  {
+    "type": "city",
+    "name": "Utah"
+  },
+  {
+    "type": "city",
+    "name": "Vabriga"
+  },
+  {
+    "type": "city",
+    "name": "Vail"
+  },
+  {
+    "type": "city",
+    "name": "Val de Bagnes"
+  },
+  {
+    "type": "city",
+    "name": "Val-dIsere"
+  },
+  {
+    "type": "city",
+    "name": "Vale De Lobo"
+  },
+  {
+    "type": "city",
+    "name": "Vale do Lobo"
+  },
+  {
+    "type": "city",
+    "name": "Vallauris"
+  },
+  {
+    "type": "city",
+    "name": "Valle de Banderas"
+  },
+  {
+    "type": "city",
+    "name": "Valle de Bravo_"
+  },
+  {
+    "type": "city",
+    "name": "Vamos"
+  },
+  {
+    "type": "city",
+    "name": "Vamvakopoulo"
+  },
+  {
+    "type": "city",
+    "name": "Vasiliki"
+  },
+  {
+    "type": "city",
+    "name": "Vathi"
+  },
+  {
+    "type": "city",
+    "name": "Vathianos Kampos"
+  },
+  {
+    "type": "city",
+    "name": "Venasque"
+  },
+  {
+    "type": "city",
+    "name": "Verbania"
+  },
+  {
+    "type": "city",
+    "name": "Verpiana"
+  },
+  {
+    "type": "city",
+    "name": "Vico Equense"
+  },
+  {
+    "type": "city",
+    "name": "Vicopisano"
+  },
+  {
+    "type": "city",
+    "name": "Vidauban"
+  },
+  {
+    "type": "city",
+    "name": "Vignanello"
+  },
+  {
+    "type": "city",
+    "name": "Vila Nova de Cacela"
+  },
+  {
+    "type": "city",
+    "name": "Villa Anna Kalamitsi lefkada"
+  },
+  {
+    "type": "city",
+    "name": "ViniSÄ‡e"
+  },
+  {
+    "type": "city",
+    "name": "Vista Do Mar"
+  },
+  {
+    "type": "city",
+    "name": "Vitaljina"
+  },
+  {
+    "type": "city",
+    "name": "Vitet"
+  },
+  {
+    "type": "city",
+    "name": "Vitznau"
+  },
+  {
+    "type": "city",
+    "name": "VodovaÄ‘a"
+  },
+  {
+    "type": "city",
+    "name": "Vourvoulos"
+  },
+  {
+    "type": "city",
+    "name": "Vrises"
+  },
+  {
+    "type": "city",
+    "name": "Vrisia"
+  },
+  {
+    "type": "city",
+    "name": "Vrsar"
+  },
+  {
+    "type": "city",
+    "name": "Wading River"
+  },
+  {
+    "type": "city",
+    "name": "Washington"
+  },
+  {
+    "type": "city",
+    "name": "Weil am Rhein"
+  },
+  {
+    "type": "city",
+    "name": "Weligama"
+  },
+  {
+    "type": "city",
+    "name": "Wesley Chapel"
+  },
+  {
+    "type": "city",
+    "name": "Westlake Hills"
+  },
+  {
+    "type": "city",
+    "name": "Westmount"
+  },
+  {
+    "type": "city",
+    "name": "Weston"
+  },
+  {
+    "type": "city",
+    "name": "White Pearl Villas for rent Halkidiki"
+  },
+  {
+    "type": "city",
+    "name": "Whitland"
+  },
+  {
+    "type": "city",
+    "name": "Whittier"
+  },
+  {
+    "type": "city",
+    "name": "Xpu Ha"
+  },
+  {
+    "type": "city",
+    "name": "Zaboric"
+  },
+  {
+    "type": "city",
+    "name": "Zagorje ob Savi"
+  },
+  {
+    "type": "city",
+    "name": "Zakinthos"
+  },
+  {
+    "type": "city",
+    "name": "Zakynthos"
+  },
+  {
+    "type": "city",
+    "name": "Zaouiet Bouzarktoune"
+  },
+  {
+    "type": "city",
+    "name": "Zastrazisce"
+  },
+  {
+    "type": "city",
+    "name": "Zaton"
+  },
+  {
+    "type": "city",
+    "name": "Zavrelje"
+  },
+  {
+    "type": "city",
+    "name": "Zecevo Rogoznicko"
+  },
+  {
+    "type": "city",
+    "name": "Zedno"
+  },
+  {
+    "type": "city",
+    "name": "Zermatt"
+  },
+  {
+    "type": "city",
+    "name": "Zihuatanejo"
+  },
+  {
+    "type": "city",
+    "name": "Zonza"
+  },
+  {
+    "type": "city",
+    "name": "Zrnovo"
+  },
+  {
+    "type": "city",
+    "name": "Zupa"
+  } ,
+{
+    "type": "region",
+    "name": "Gstaad Region"
+  },
+  {
+    "type": "region",
+    "name": "Verbier Region"
+  },
+  {
+    "type": "region",
+    "name": "Zermatt"
+  },
+  {
+    "type": "region",
+    "name": "Crans Montana"
+  },
+  {
+    "type": "region",
+    "name": "Saint Moritz"
+  },
+  {
+    "type": "region",
+    "name": "Luzern and Lakes"
+  },
+  {
+    "type": "region",
+    "name": "Villars"
+  },
+  {
+    "type": "region",
+    "name": "Zurich"
+  },
+  {
+    "type": "region",
+    "name": "St Tropez"
+  },
+  {
+    "type": "region",
+    "name": "French Castles"
+  },
+  {
+    "type": "region",
+    "name": "Alx-En-Provence"
+  },
+  {
+    "type": "region",
+    "name": "Cannes"
+  },
+  {
+    "type": "region",
+    "name": "Antibes"
+  },
+  {
+    "type": "region",
+    "name": "Corsica"
+  },
+  {
+    "type": "region",
+    "name": "Chamonix"
+  },
+  {
+    "type": "region",
+    "name": "Courchevel"
+  },
+  {
+    "type": "region",
+    "name": "Morzine-Avoriaz"
+  },
+  {
+    "type": "region",
+    "name": "Val d-isere"
+  },
+  {
+    "type": "region",
+    "name": "Megeve"
+  },
+  {
+    "type": "region",
+    "name": "Meribel"
+  },
+  {
+    "type": "region",
+    "name": "Tuscany"
+  },
+  {
+    "type": "region",
+    "name": "Sardinia"
+  },
+  {
+    "type": "region",
+    "name": "Lake Como"
+  },
+  {
+    "type": "region",
+    "name": "Italian Castles"
+  },
+  {
+    "type": "region",
+    "name": "Sicily"
+  },
+  {
+    "type": "region",
+    "name": "Le Marche"
+  },
+  {
+    "type": "region",
+    "name": "Ancona"
+  },
+  {
+    "type": "region",
+    "name": "Puglia"
+  },
+  {
+    "type": "region",
+    "name": "Umbria"
+  },
+  {
+    "type": "region",
+    "name": "Cortina"
+  },
+  {
+    "type": "region",
+    "name": "Tel Aviv"
+  },
+  {
+    "type": "region",
+    "name": "Jerusalem"
+  },
+  {
+    "type": "region",
+    "name": "Eilat"
+  },
+  {
+    "type": "region",
+    "name": "Sea of Galilee"
+  },
+  {
+    "type": "region",
+    "name": "Coast Line"
+  },
+  {
+    "type": "region",
+    "name": "Mykonos"
+  },
+  {
+    "type": "region",
+    "name": "Crete"
+  },
+  {
+    "type": "region",
+    "name": "Paxos"
+  },
+  {
+    "type": "region",
+    "name": "Lefkada"
+  },
+  {
+    "type": "region",
+    "name": "Rhodes"
+  },
+  {
+    "type": "region",
+    "name": "Spetses"
+  },
+  {
+    "type": "region",
+    "name": "Corfu"
+  },
+  {
+    "type": "region",
+    "name": "Paros"
+  },
+  {
+    "type": "region",
+    "name": "Porto Cheli"
+  },
+  {
+    "type": "region",
+    "name": "Halkidiki"
+  },
+  {
+    "type": "region",
+    "name": "Marbella"
+  },
+  {
+    "type": "region",
+    "name": "Ibiza"
+  },
+  {
+    "type": "region",
+    "name": "Mallorca"
+  },
+  {
+    "type": "region",
+    "name": "Costa Brava"
+  },
+  {
+    "type": "region",
+    "name": "The Canary Island"
+  },
+  {
+    "type": "region",
+    "name": "Andalucia"
+  },
+  {
+    "type": "region",
+    "name": "Barcelona"
+  },
+  {
+    "type": "region",
+    "name": "Algarve Region"
+  },
+  {
+    "type": "region",
+    "name": "Porto Region"
+  },
+  {
+    "type": "region",
+    "name": "Douro Valley"
+  },
+  {
+    "type": "region",
+    "name": "Scotland"
+  },
+  {
+    "type": "region",
+    "name": "St Anton"
+  },
+  {
+    "type": "region",
+    "name": "Croatia"
+  },
+  {
+    "type": "region",
+    "name": "Cyprus"
+  },
+  {
+    "type": "region",
+    "name": "Germany"
+  },
+  {
+    "type": "region",
+    "name": "England"
+  },
+  {
+    "type": "region",
+    "name": "Phuket"
+  },
+  {
+    "type": "region",
+    "name": "Koh Samui"
+  },
+  {
+    "type": "region",
+    "name": "Ko Phangan"
+  },
+  {
+    "type": "region",
+    "name": "New Zealand"
+  },
+  {
+    "type": "region",
+    "name": "Dubai"
+  },
+  {
+    "type": "region",
+    "name": "Sri Lanka"
+  },
+  {
+    "type": "region",
+    "name": "Bali"
+  },
+  {
+    "type": "region",
+    "name": "Mindanao"
+  },
+  {
+    "type": "region",
+    "name": "Maldives"
+  },
+  {
+    "type": "region",
+    "name": "St. Barts"
+  },
+  {
+    "type": "region",
+    "name": "Disney Orlando"
+  },
+  {
+    "type": "region",
+    "name": "Arizona"
+  },
+  {
+    "type": "region",
+    "name": "Tulum"
+  },
+  {
+    "type": "region",
+    "name": "Punta Mita"
+  },
+  {
+    "type": "region",
+    "name": "Cancun"
+  },
+  {
+    "type": "region",
+    "name": "Colorado"
+  },
+  {
+    "type": "region",
+    "name": "Provence"
+  },
+  {
+    "type": "region",
+    "name": "Hvar"
+  },
+  {
+    "type": "region",
+    "name": "Dubrovnik"
+  },
+  {
+    "type": "region",
+    "name": "Split"
+  },
+  {
+    "type": "region",
+    "name": "Vis Island"
+  },
+  {
+    "type": "region",
+    "name": "San Jose del Cabo"
+  },
+  {
+    "type": "region",
+    "name": "Puerto Rico"
+  },
+  {
+    "type": "region",
+    "name": "Aruba-region"
+  },
+  {
+    "type": "region",
+    "name": "Seychelles"
+  },
+  {
+    "type": "region",
+    "name": "Brac"
+  },
+  {
+    "type": "region",
+    "name": "Korčula"
+  },
+  {
+    "type": "region",
+    "name": "Copenhagen"
+  },
+  {
+    "type": "region",
+    "name": "Čiovo Island"
+  },
+  {
+    "type": "region",
+    "name": "Alsace-Lorraine"
+  },
+  {
+    "type": "region",
+    "name": "Lyon"
+  },
+  {
+    "type": "region",
+    "name": "Combloux"
+  },
+  {
+    "type": "region",
+    "name": "Angers"
+  },
+  {
+    "type": "region",
+    "name": "Lesbos"
+  },
+  {
+    "type": "region",
+    "name": "Akrata"
+  },
+  {
+    "type": "region",
+    "name": "Athens"
+  },
+  {
+    "type": "region",
+    "name": "Pogonia"
+  },
+  {
+    "type": "region",
+    "name": "Zakynthos"
+  },
+  {
+    "type": "region",
+    "name": "Mismaloya"
+  },
+  {
+    "type": "region",
+    "name": "Piedmont"
+  },
+  {
+    "type": "region",
+    "name": "La Spezia"
+  },
+  {
+    "type": "region",
+    "name": "Lake Garda"
+  },
+  {
+    "type": "region",
+    "name": "Monaco"
+  },
+  {
+    "type": "region",
+    "name": "Brașov County"
+  },
+  {
+    "type": "region",
+    "name": "Lecce"
+  },
+  {
+    "type": "region",
+    "name": "Cape Town"
+  },
+  {
+    "type": "region",
+    "name": "Castile and León"
+  },
+  {
+    "type": "region",
+    "name": "Girona"
+  },
+  {
+    "type": "region",
+    "name": "Florida"
+  },
+  {
+    "type": "region",
+    "name": "California"
+  },
+  {
+    "type": "region",
+    "name": "Bern"
+  },
+  {
+    "type": "region",
+    "name": "Geneva"
+  },
+  {
+    "type": "region",
+    "name": "Liguria"
+  },
+  {
+    "type": "region",
+    "name": "Montreux"
+  },
+  {
+    "type": "region",
+    "name": "Općina"
+  },
+  {
+    "type": "region",
+    "name": "Dalmatia"
+  },
+  {
+    "type": "region",
+    "name": "Oresund"
+  },
+  {
+    "type": "region",
+    "name": "Marrakech"
+  },
+  {
+    "type": "region",
+    "name": "Lombardy"
+  },
+  {
+    "type": "region",
+    "name": "Campania"
+  },
+  {
+    "type": "region",
+    "name": "Siena"
+  },
+  {
+    "type": "region",
+    "name": "Apulia"
+  },
+  {
+    "type": "region",
+    "name": "Lazio"
+  },
+  {
+    "type": "region",
+    "name": "Cabo San Lucas"
+  },
+  {
+    "type": "region",
+    "name": "Bahamas"
+  },
+  {
+    "type": "region",
+    "name": "Sarandë"
+  },
+  {
+    "type": "region",
+    "name": "Curaçao"
+  },
+  {
+    "type": "region",
+    "name": "Israel"
+  },
+  {
+    "type": "region",
+    "name": "Comporta"
+  },
+  {
+    "type": "region",
+    "name": "Abruzzo"
+  },
+  {
+    "type": "region",
+    "name": "Emilia Romagna"
+  },
+  {
+    "type": "region",
+    "name": "Nyon"
+  },
+  {
+    "type": "region",
+    "name": "Vaud"
+  },
+  {
+    "type": "region",
+    "name": "Maloja"
+  },
+  {
+    "type": "region",
+    "name": "Franschhoek"
+  },
+  {
+    "type": "region",
+    "name": "Slovenia"
+  },
+  {
+    "type": "region",
+    "name": "Portugal"
+  },
+  {
+    "type": "region",
+    "name": "Morocco"
+  },
+  {
+    "type": "region",
+    "name": "Mexico"
+  },
+  {
+    "type": "region",
+    "name": "Kenya"
+  },
+  {
+    "type": "region",
+    "name": "Greece"
+  },
+  {
+    "type": "region",
+    "name": "Paris"
+  },
+  {
+    "type": "region",
+    "name": "France"
+  },
+  {
+    "type": "region",
+    "name": "Prague"
+  },
+  {
+    "type": "region",
+    "name": "British Virgin Islands"
+  },
+  {
+    "type": "region",
+    "name": "Finland"
+  },
+  {
+    "type": "region",
+    "name": "Gran Canaria"
+  },
+  {
+    "type": "region",
+    "name": "Tenerife"
+  },
+  {
+    "type": "region",
+    "name": "Bludenz"
+  },
+  {
+    "type": "region",
+    "name": "Liezen"
+  },
+  {
+    "type": "region",
+    "name": "Leizen"
+  },
+  {
+    "type": "region",
+    "name": "Naxos"
+  },
+  {
+    "type": "region",
+    "name": "Kea"
+  },
+  {
+    "type": "region",
+    "name": "Andros"
+  },
+  {
+    "type": "region",
+    "name": "Syros"
+  },
+  {
+    "type": "region",
+    "name": "Peloponese"
+  },
+  {
+    "type": "region",
+    "name": "Italy"
+  },
+  {
+    "type": "region",
+    "name": "Spain"
+  },
+  {
+    "type": "region",
+    "name": "Normandy"
+  },
+  {
+    "type": "region",
+    "name": "Lake Maggiore"
+  },
+  {
+    "type": "region",
+    "name": "Zadar"
+  },
+  {
+    "type": "region",
+    "name": "Santorini"
+  },
+  {
+    "type": "region",
+    "name": "Formentera"
+  },
+  {
+    "type": "region",
+    "name": "Lleida"
+  },
+  {
+    "type": "region",
+    "name": "Ticino"
+  },
+  {
+    "type": "region",
+    "name": "Dolomites"
+  },
+  {
+    "type": "region",
+    "name": "Slovakia"
+  },
+  {
+    "type": "region",
+    "name": "Saronic Island"
+  },
+  {
+    "type": "region",
+    "name": "Gdańsk"
+  },
+  {
+    "type": "region",
+    "name": "Castle Carrock"
+  },
+  {
+    "type": "region",
+    "name": "Venezia"
+  },
+  {
+    "type": "region",
+    "name": "Veneto"
+  },
+  {
+    "type": "region",
+    "name": "Croyde"
+  },
+  {
+    "type": "region",
+    "name": "Heacham"
+  },
+  {
+    "type": "region",
+    "name": "Minnesota"
+  },
+  {
+    "type": "region",
+    "name": "Los Cabos"
+  },
+  {
+    "type": "region",
+    "name": "Hawaii"
+  },
+  {
+    "type": "region",
+    "name": "Carbis Bay"
+  },
+  {
+    "type": "region",
+    "name": "Antalya"
+  },
+  {
+    "type": "region",
+    "name": "Utah"
+  },
+  {
+    "type": "region",
+    "name": "Costa Rica"
+  },
+  {
+    "type": "region",
+    "name": "Milos"
+  },
+  {
+    "type": "region",
+    "name": "Skopelos"
+  },
+  {
+    "type": "region",
+    "name": "Sporades"
+  },
+  {
+    "type": "region",
+    "name": "Lisbon"
+  },
+  {
+    "type": "region",
+    "name": "Montenegro"
+  },
+  {
+    "type": "region",
+    "name": "Slovenia"
+  },
+  {
+    "type": "region",
+    "name": "Epirus"
+  },
+  {
+    "type": "region",
+    "name": "Grenada"
+  },
+  {
+    "type": "region",
+    "name": "Haifa"
+  },
+  {
+    "type": "region",
+    "name": "Sacramento"
+  },
+  {
+    "type": "region",
+    "name": "IledeFrance"
+  },
+  {
+    "type": "region",
+    "name": "Šibenik"
+  },
+  {
+    "type": "region",
+    "name": "Western Cape"
+  },
+  {
+    "type": "region",
+    "name": "Guadeloupe"
+  },
+  {
+    "type": "region",
+    "name": "Mexico City"
+  },
+  {
+    "type": "region",
+    "name": "Punta Cana"
+  },
+  {
+    "type": "region",
+    "name": "La Romana"
+  },
+  {
+    "type": "region",
+    "name": "Benahavís"
+  },
+  {
+    "type": "region",
+    "name": "Tennessee"
+  },
+  {
+    "type": "region",
+    "name": "New York"
+  },
+  {
+    "type": "region",
+    "name": "Mississippi"
+  },
+  {
+    "type": "region",
+    "name": "Costa del Sol"
+  },
+  {
+    "type": "region",
+    "name": "Northern Portugal"
+  },
+  {
+    "type": "region",
+    "name": "Mugla"
+  },
+  {
+    "type": "region",
+    "name": "Alentejo"
+  },
+  {
+    "type": "region",
+    "name": "Centro Region"
+  },
+  {
+    "type": "region",
+    "name": "British Columbia"
+  },
+  {
+    "type": "region",
+    "name": "Ajijic"
+  },
+  {
+    "type": "region",
+    "name": "Quebec"
+  },
+  {
+    "type": "region",
+    "name": "North Vancouver"
+  },
+  {
+    "type": "region",
+    "name": "Montreal"
+  },
+  {
+    "type": "region",
+    "name": "San Antonio Tlayacapan"
+  },
+  {
+    "type": "region",
+    "name": "Richmond"
+  },
+  {
+    "type": "region",
+    "name": "West Vancouver"
+  },
+  {
+    "type": "region",
+    "name": "San Juan Cosalá"
+  },
+  {
+    "type": "region",
+    "name": "Coquitlam"
+  },
+  {
+    "type": "region",
+    "name": "Zapopan"
+  },
+  {
+    "type": "region",
+    "name": "Arequipa"
+  },
+  {
+    "type": "region",
+    "name": "Jalisco"
+  },
+  {
+    "type": "region",
+    "name": "Sayulita"
+  },
+  {
+    "type": "region",
+    "name": "Delta"
+  },
+  {
+    "type": "region",
+    "name": "Thessaly"
+  },
+  {
+    "type": "region",
+    "name": "Kalymnos"
+  },
+  {
+    "type": "region",
+    "name": "Nayarit"
+  },
+  {
+    "type": "region",
+    "name": "ProvenceAlpesCote dAzur"
+  },
+  {
+    "type": "region",
+    "name": "Texas"
+  },
+  {
+    "type": "region",
+    "name": "Wisconsin"
+  },
+  {
+    "type": "region",
+    "name": "Connecticut"
+  },
+  {
+    "type": "region",
+    "name": "Barbados"
+  },
+  {
+    "type": "region",
+    "name": "Eastern Cape"
+  },
+  {
+    "type": "region",
+    "name": "California Sur"
+  },
+  {
+    "type": "region",
+    "name": "Quintana Roo"
+  },
+  {
+    "type": "region",
+    "name": "Kefalonia"
+  },
+  {
+    "type": "region",
+    "name": "Sifnos"
+  },
+  {
+    "type": "region",
+    "name": "Samos"
+  },
+  {
+    "type": "region",
+    "name": "Cornellà del Terri"
+  },
+  {
+    "type": "region",
+    "name": "Riviera Nayarit"
+  },
+  {
+    "type": "region",
+    "name": "Puerto Vallarta"
+  }
+]

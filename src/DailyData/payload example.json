@@ -1,0 +1,188 @@
+
+{
+    "POS": { //point of sale
+        "Source": [
+            {
+                "RequestorID": {
+                    "Type": 0,
+                    "ID": "SHO"
+                },
+                "BookingChannel": {
+                    "CompanyName": {
+                        "Text": "SmilingHouse" // “VillaTracker”
+                    }
+                }
+            }
+        ]
+    },
+    "HotelReservations": {
+        "HotelReservation": {
+            "UniqueID": {
+                "Type": 266, // unique number = reservation ID
+                    "ID": "SmilingHouse_266" // “villaTracker_266” 
+            },
+            "RoomStays": {
+                "RoomStay": [
+                    {
+                        "RoomTypes": {
+                            "RoomType": {
+                                "RoomDescription": {
+                                    "Name": "Twin Room with Sea View"
+                                },
+                                "RoomTypeCode": "64073007241f7800339fe50d"
+                            }
+                        },
+                        "RatePlans": {
+                            "RatePlan": [
+                                {
+                                    "RatePlanCode": activeRatePlan,
+                                    "MealsIncluded": {
+                                        "Breakfast": false,
+                                        "Lunch": false,
+                                        "Dinner": false
+                                    }
+                                }
+                            ]
+                        },
+                        "RoomRates": {
+                            "RoomRate": [
+                                {
+                                    "Rates": {
+                                        "Rate": [{ "Base": { "AmountAfterTax": dailyData per date "800.00", "CurrencyCode": "" }, "UnitMultiplier": 0, "EffectiveDate": "2023-09-20", "ExpireDate": "2023-09-21" }, { "Base": { "AmountAfterTax": "800.00", "CurrencyCode": "" }, "UnitMultiplier": 0, "EffectiveDate": "2023-09-21", "ExpireDate": "2023-09-22" }, { "Base": { "AmountAfterTax": "800.00", "CurrencyCode": "" }, "UnitMultiplier": 0, "EffectiveDate": "2023-09-22", "ExpireDate": "2023-09-23" }, { "Base": { "AmountAfterTax": "800.00", "CurrencyCode": "" }, "UnitMultiplier": 0, "EffectiveDate": "2023-09-23", "ExpireDate": "2023-09-24" }, { "Base": { "AmountAfterTax": "800.00", "CurrencyCode": "" }, "UnitMultiplier": 0, "EffectiveDate": "2023-09-24", "ExpireDate": "2023-09-25" }, { "Base": { "AmountAfterTax": "800.00", "CurrencyCode": "" }, "UnitMultiplier": 0, "EffectiveDate": "2023-09-25", "ExpireDate": "2023-09-26" }, { "Base": { "AmountAfterTax": "800.00", "CurrencyCode": "" }, "UnitMultiplier": 0, "EffectiveDate": "2023-09-26", "ExpireDate": "2023-09-27" }]
+                                    },
+                                    "RoomTypeCode": "64073007241f7800339fe50d", // propertyId
+                                    "RatePlanCode": "", / activeRatePlan
+                                    "NumberOfUnits": 1
+                                }
+                            ]
+                        },
+                        "GuestCounts": {
+                            "GuestCount": [
+                                {
+                                    "AgeQualifyingCode": 10, /adults
+                                    "Count": "1"
+                                },
+                                {
+                                    "AgeQualifyingCode": 8, /childrens
+                                    "Count": 0
+                                }
+                            ]
+                        },
+                        "TimeSpan": {
+                            "Start": "2023-09-20",
+                            "End": "2023-09-27"
+                        },
+                        "BasicPropertyInfo": {
+                            "HotelCode": "640625ea0620e40031b8597d",
+                            "HotelName": "Twin Room with Sea View"
+                        },
+                        "tpa_Extensions": {
+                            "FinCollection": [{ "NormalType": "CF", "Amount": "20.00", "Description": "Cleaning Fee"
+                            , "CreatedBy": "SmilingHouse" }, 
+                            { "NormalType": "CT", "Amount": "7.00", "Description": "City Tax", "CreatedBy": "SmilingHouse" },
+                             { "NormalType": "VAT", "Amount": "1064.00", "Description": "VAT", "CreatedBy": "SmilingHouse" }, 
+                             { "NormalType": "AFE", "SecondaryType": "AIR_CONDITIONING", "Amount": "35.00", "Description": "Air conditioning", "CreatedBy": "SmilingHouse" },
+                             { "NormalType": "GST", "Amount": "5.00", "Description": "Goods and Services Tax", "CreatedBy": "SmilingHouse" },
+                              { "NormalType": "AFE", "SecondaryType": "ADDITIONAL_BED", "Amount": "45.00", "Description": "Additional bed", "CreatedBy": "SmilingHouse" },
+                               
+                              { "NormalType": "AFE", "SecondaryType": "BABY_BED", "Amount": "21.00", "Description": "Baby bed", "CreatedBy": "SmilingHouse" }, { "NormalType": "AFE", "SecondaryType": "COMMUNITY", "Amount": "140.00", "Description": "Community", "CreatedBy": "SmilingHouse" }, { "NormalType": "AFE", "SecondaryType": "INTERNET", "Amount": "35.00", "Description": "Internet", "CreatedBy": "SmilingHouse" }, { "NormalType": "AFE", "SecondaryType": "LATE_CHECK_IN", "Amount": "50.00", "Description": "Late check in", "CreatedBy": "SmilingHouse" }, { "NormalType": "AFE", "SecondaryType": "TOWELS", "Amount": "10.00", "Description": "Towels", "CreatedBy": "SmilingHouse" }, { "NormalType": "AF", "Amount": "5600.00", "Description": "Accommodation Fare", "CreatedBy": "SmilingHouse" }, { "NormalType": "PCM", "Amount": "-708.20", "Description": "Prededucted Host Channel Fee", "CreatedBy": "SmilingHouse" }]
+                        }
+                    }
+                ]
+            },
+            "ResGuests": {
+                "ResGuest": [
+                    {
+                        "Profiles": {
+                            "ProfileInfo": [
+                                {
+                                    "Profile": {
+                                        "Customer": {
+                                            "PersonName": {
+                                                "GivenName": "test",
+                                                "Surname": "testing"
+                                            },
+                                            "Telephone": {
+                                                "PhoneNumber": "0000 000 000"
+                                            }
+                                        },
+                                        "ProfileType": 1
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "ResGlobalInfo": {
+                "HotelReservationIDs": {
+                    "HotelReservationID": [
+                        {
+                            "ResID_Type": "266",
+                            "ResID_Value": "VillaTracker_266",
+                            "ResID_Source": "VillaTracker"
+                        }
+                    ]
+                },
+                "Total": {
+                    "Taxes": {
+                        "Tax": [
+                            {
+                                "Amount": 1482,
+                                "Code": 3
+                            }
+                        ]
+                    },
+                    "AmountBeforeTax": 4891.8,
+                        "AmountAfterTax": 6373.8,
+                            "CurrencyCode": ""
+                },
+                "depositPayments": {
+                    "AcceptedPayments": {
+                        "AcceptedPayment": {
+                            "PaymentCard": {
+                                "CardHolderName": "testtesting",
+                                    "CardNumber": "XXXX XXXX XXXX XXXX",
+                                        "ExpireDate": "XX/XXXX",
+                                            "SeriesCode": "TeykMqyK7ut60DFzo",
+                                                "CardCode": "VI"
+                            }
+                        }
+                    },
+                    "AmountPercent": {
+                        "Amount": "6373.8",
+                            "CurrencyCode": ""
+                    }
+                },
+                "Profiles": {
+                    "ProfileInfo": [
+                        {
+                            "Profile": {
+                                "Customer": {
+                                    "PersonName": {
+                                        "GivenName": "test",
+                                        "Surname": "testing"
+                                    },
+                                    "Email": "...@gmail.com"
+                                },
+                                "ProfileType": 21
+                            }
+                        }
+                    ]
+                },
+                "TimeSpan": {
+                    "Start": "2023-09-20",
+                        "End": "2023-09-27"
+                }
+            },
+            "CreateDateTime": "2023-08-27T20:31:49.000000+00:00"
+        }
+    },
+    "EchoToken": "2023-08-27T20:31:49.000000+00:00",
+        "ResStatus": "Commit",
+            "TimeStamp": "2023-08-27T20:31:49.000000+00:00"
+
+
+
+
+

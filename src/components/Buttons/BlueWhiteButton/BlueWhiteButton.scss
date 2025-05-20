@@ -1,0 +1,50 @@
+.blue-white-button-on {
+	width: 50%;
+	box-sizing: content-box;
+	display: flex;
+	align-items: center;
+	background-color: #0F2E4B;
+	border: 2px solid #0F2E4B;
+	color: #FFF;
+	font-size: 22px;
+	font-weight: 600;
+	border-radius: 6px;
+	cursor: pointer;
+	user-select: none;
+	padding: 10px;
+	margin-bottom: 15px;
+	height: 20px;
+}
+.blue-white-button-on-client {
+	// width: 50%;
+	box-sizing: content-box;
+	display: flex;
+	align-items: center;
+	background-color: #0F2E4B;
+	border: 2px solid #0F2E4B;
+	color: #FFF;
+	font-size: 22px;
+	font-weight: 600;
+	border-radius: 6px;
+	cursor: pointer;
+	user-select: none;
+	padding: 10px;
+	// margin-bottom: 15px;
+	height: 20px;
+}
+
+.blue-white-button {
+	box-sizing: content-box;
+	display: flex;
+	align-items: center;
+	background-color: #FFF;
+	border: 2px solid #0F2E4B;
+	color: #0F2E4B;
+	font-size: 22px;
+	font-weight: 600;
+	border-radius: 6px;
+	cursor: pointer;
+	user-select: none;
+	padding: 10px;
+	height: 20px;
+}

@@ -1,0 +1,48 @@
+.wrapper {
+	width: 100%;
+	display: block;
+
+	> .iwrp {
+		display: inline-block;
+		border-radius: 4px;
+		width: 100%;
+		min-width: 384px;
+		max-width: 100% !important;
+		font-family: "Quicksand", sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: #282a35;
+		padding: 5px;
+		position: relative;
+		box-sizing: border-box;
+
+		@media screen and (max-width: 498px) {
+			width: 100%;
+			min-width: 0;
+		}
+
+		svg {
+			position: relative;
+			top: 3px;
+			margin-right: 7px;
+			vertical-align: baseline;
+		}
+	}
+}
+
+.success {
+	background-color: #d9eee1;
+}
+
+.warning {
+	background-color: #FCF5C4;
+}
+
+.danger {
+	background-color: #ffc0c7;
+}
+
+.info {
+	background-color: #d9dfee;
+}

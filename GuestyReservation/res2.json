@@ -1,0 +1,224 @@
+{
+  "POS": {
+    "Source": [
+      {
+        "RequestorID": {
+          "Type": 0,
+          "ID": "SHO"
+        },
+        "BookingChannel": {
+          "CompanyName": {
+            "Text": "SmilingHouse"
+          }
+        }
+      }
+    ]
+  },
+  "HotelReservations": {
+    "HotelReservation": {
+      "UniqueID": {
+        "Type": 14,
+        "ID": 39626
+      },
+      "RoomStays": {
+        "RoomStay": [
+          {
+            "RoomTypes": {
+              "RoomType": {
+                "RoomDescription": {
+                  "Name": "Gstaad apartment"
+                },
+                "RoomTypeCode": null
+              }
+            },
+            "RatePlans": {
+              "RatePlan": [
+                {
+                  "RatePlanCode": "63d011c328fd3ba68a5ca477",
+                  "MealsIncluded": {
+                    "Breakfast": false,
+                    "Lunch": false,
+                    "Dinner": false
+                  }
+                }
+              ]
+            },
+            "RoomRates": {
+              "RoomRate": [
+                {
+                  "Rates": {
+                    "Rate": [
+                      {
+                        "Base": {
+                          "AmountAfterTax": "1,108",
+                          "CurrencyCode": "CHF"
+                        },
+                        "UnitMultiplier": 0,
+                        "EffectiveDate": "2023-05-16",
+                        "ExpireDate": "2023-05-23"
+                      }
+                    ]
+                  },
+                  "RoomTypeCode": "637e057f932637002e059708",
+                  "RatePlanCode": "63d011c328fd3ba68a5ca477",
+                  "NumberOfUnits": 1
+                }
+              ]
+            },
+            "GuestCounts": {
+              "GuestCount": [
+                {
+                  "AgeQualifyingCode": 10,
+                  "Count": "4"
+                }
+              ]
+            },
+            "TimeSpan": {
+              "Start": "2023-05-16",
+              "End": "2023-05-23"
+            },
+            "BasicPropertyInfo": {
+              "HotelCode": "640625ea0620e40031b8597d",
+              "HotelName": "Gstaad House"
+            },
+            "tpa_Extensions": {
+              "FinCollection": [
+                {
+                  "NormalType": "TAX_FEE",
+                  "Amount": 9,
+                  "Description": "CITY_TAX",
+                  "CreatedBy": "SmilingHouse"
+                },
+                {
+                  "NormalType": "TAX_FEE",
+                  "Amount": 155.96112,
+                  "Description": "VAT",
+                  "CreatedBy": "SmilingHouse"
+                },
+                {
+                  "NormalType": "CLEANING_FEE",
+                  "Amount": 24.43,
+                  "Description": "Cleaning Fee",
+                  "CreatedBy": "SmilingHouse"
+                },
+                {
+                  "NormalType": "STAY_FEE",
+                  "Amount": 820.848,
+                  "Description": "Price for the Stay",
+                  "CreatedBy": "SmilingHouse"
+                },
+                {
+                  "NormalType": "PERCENTAGE_FEE",
+                  "Amount": 0,
+                  "Description": "Percentage fee",
+                  "CreatedBy": "SmilingHouse"
+                },
+                {
+                  "NormalType": "PERDAY_FEE",
+                  "Amount": 0,
+                  "Description": "Flat per day fee",
+                  "CreatedBy": "SmilingHouse"
+                },
+                {
+                  "NormalType": "SECURITY_DEPOSITFEE",
+                  "Amount": 97.72,
+                  "Description": "Security deposit",
+                  "CreatedBy": "SmilingHouse"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "ResGuests": {
+        "ResGuest": [
+          {
+            "Profiles": {
+              "ProfileInfo": [
+                {
+                  "Profile": {
+                    "Customer": {
+                      "PersonName": {
+                        "GivenName": "Yair",
+                        "Surname": "Yair"
+                      },
+                      "Telephone": {
+                        "PhoneNumber": "1242"
+                      }
+                    },
+                    "ProfileType": 1
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "ResGlobalInfo": {
+        "HotelReservationIDs": {
+          "HotelReservationID": [
+            {
+              "ResID_Type": 14,
+              "ResID_Value": "WS3453454533",
+              "ResID_Source": "SmilingHouse"
+            }
+          ]
+        },
+        "Total": {
+          "Taxes": {
+            "Tax": [
+              {
+                "Amount": 1107.95912,
+                "Code": 3
+              }
+            ]
+          },
+          "AmountBeforeTax": -1106,
+          "AmountAfterTax": "1,108",
+          "CurrencyCode": "4"
+        },
+        "depositPayments": {
+          "AcceptedPayments": {
+            "AcceptedPayment": {
+              "PaymentCard": {
+                "CardHolderName": "testtset",
+                "CardNumber": "xxxx xxxx xxxx xxxx",
+                "ExpireDate": "5/2024",
+                "SeriesCode": "TeykMqyK7ut60DFzo",
+                "CardCode": "VI"
+              }
+            }
+          },
+          "AmountPercent": {
+            "Amount": "1,108",
+            "CurrencyCode": "4"
+          }
+        },
+        "Profiles": {
+          "ProfileInfo": [
+            {
+              "Profile": {
+                "Customer": {
+                  "PersonName": {
+                    "GivenName": "Yair",
+                    "Surname": "Yair"
+                  },
+                  "Email": "testing@gmail.com"
+                },
+                "ProfileType": 21
+              }
+            }
+          ]
+        },
+        "TimeSpan": {
+          "Start": "2023-05-16",
+          "End": "2023-05-23"
+        }
+      },
+      "CreateDateTime": "2023-02-08T20:00:18.062388+00:00"
+    }
+  },
+  "EchoToken": "2023-05-10T13:07:32.000000+00:00",
+  "ResStatus": "Commit",
+  "TimeStamp": "2023-05-10T13:07:32.000000+00:00"
+}

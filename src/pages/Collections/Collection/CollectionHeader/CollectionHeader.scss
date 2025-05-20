@@ -1,0 +1,21 @@
+.collection-header-container {
+	align-items: center;
+	padding: 30px 30px 0 30px;
+
+	.collection-header-title {
+		color: #284866;
+		font-size: 28px;
+	}
+
+	.collection-header-left {
+		display: grid;
+		grid-template-columns: 90px 1fr;
+	}
+}
+
+
+@media (max-width: 1378px) {
+	.selected {
+		width: 100%;
+	}
+}

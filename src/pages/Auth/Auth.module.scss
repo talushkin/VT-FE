@@ -1,0 +1,30 @@
+@import "./../../Style/form";
+
+.input_wrapper {
+  position: relative;
+  .input_field_wrapper {
+    position: relative;
+    svg {
+      position: absolute;
+      bottom: 25px;
+      right: 12px;
+    }
+    &.error {
+      svg {
+        bottom: 23px;
+      }
+    }
+    input {
+      width: 100%;
+    }
+  }
+}
+
+.footer-login {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background: white;
+  padding: 10px 0;
+}

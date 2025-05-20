@@ -1,0 +1,787 @@
+{
+    "results": [
+        {
+            "_id": "5ee27f4c0977250036354edf",
+            "SaaS": {
+                "autoRenew": true
+            },
+            "financials": {
+                "cleaningFee": {
+                    "value": {
+                        "_id": "62494377305e370035dc4794",
+                        "multiplier": "PER_STAY",
+                        "formula": 800,
+                        "valueType": "FIXED"
+                    },
+                    "lastUpdated": "2022-04-03T06:49:27.072Z"
+                }
+            },
+            "address": {
+                "full": "Hadar St 59, Caesarea, Israel",
+                "city": "Caesarea",
+                "state": "Haifa District",
+                "country": "Israel",
+                "street": "Hadar Street 59",
+                "lat": 32.5260006,
+                "lng": 34.904405,
+                "searchable": "Hadar Street 59, Caesarea, Haifa District, Israel",
+                "zipcode": null,
+                "apt": null
+            },
+            "instantBookable": {
+                "enabled": false,
+                "visibility": "off",
+                "leadTime": 2
+            },
+            "picture": {
+                "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1679306025/production/585a39dbe43900100017e9e8/buzb0pmw44dx2bydbkwg.jpg"
+            },
+            "terms": {
+                "minNights": 5,
+                "maxNights": 360,
+                "cancellation": "strict_14_with_grace_period"
+            },
+            "prices": {
+                "monthlyPriceFactor": 0.6,
+                "weeklyPriceFactor": 0.7,
+                "extraPersonFee": 200,
+                "basePrice": 2900,
+                "basePriceUSD": 1000,
+                "currency": "ILS",
+                "guestsIncludedInRegularFee": 4,
+                "cleaningFee": 800,
+                "weekendBasePrice": 3500,
+                "weekendDays": [
+                    5,
+                    6
+                ],
+                "securityDepositFee": 0
+            },
+            "publicDescription": {
+                "guestControls": {
+                    "allowsChildren": true,
+                    "allowsInfants": true,
+                    "allowsPets": true,
+                    "allowsSmoking": false,
+                    "allowsEvents": false
+                },
+                "space": "Just in front of the sand dunes and the wild beach of Caesarea, this lovely family house is offering a great sea and sun experience in one of the best places of Israel. Close to nature and to many interesting attractions that the touristic area is offering.\n\n- Ground floor, there is a room with en suite toilet and shower and a double sofa bed,  With exit to the balcony. On this floor there is a guest bathroom as well,\n\n- 2nd Floor:  The second floor has 3 double bedrooms -\nOne of them is a master bedroom with a 200cm Bed, a jacuzzi, shower and toilet\nThe other 2 bedrooms are with 180cm bed. \nChildren's room with Two single beds, one of which is a pull-out bed - (option for 3 beds).\nThis floor has a toilet and shower.\n\nThe house has parking, Ping Pong Table, Fenced pool lit by night lighting, Charcoal grill\nOutdoor furniture, Outdoor dining table, equipped Kitchen, piano and, TV screens with Netflix.\n\nThe house is a few minutes from the shopping center and café of Caesarea. You can drive there in 2 minutes or 10 minutes walking. Lots of parking spaces are waiting for you outside the door. It is a very calm and quiet area of Caesarea, with only one neighbor that cannot be felt.\n\nIn the village (2 minutes drive) you can get anything you want or need, and the train station of Binyamina is 10 minutes away, connecting you to any point in Israel.\n\nWelcome to the best place in Israel!",
+                "interactionWithGuests": "The house is few minutes from the shopping center and café of Caesarea. You can drive there in 2 minutes or 10 minutes walking.\n\nLots of parking spaces are waiting for you outside the door. It is a very calm and quiet area of Caesarea, with only one neighbor that cannot be felt..\n\nIn the village (2 minutes drive) you can get anything you want or need, and the train station of Binyamina is 10 minutes away, connecting you to any point in Israel.\n\nWelcome to the best place in Israel!",
+                "summary": "Spacious house with large garden and swimming pool.\n\n5 bedrooms. There are 6 beds + Cribs, a big trampoline fenced pool, a ping-pong table, a big ground floor terrace and a roof top terrace that gives an impressive panoramic view of the sea and dunes. Just minutes from the ancient Port Caesarea (Cesaria) and the wild beaches. Quiet area first line to the dunes and beach.",
+                "houseRules": "• No smoking\r\n• No parties or events\r\n• Check-in is flexible",
+                "access": null,
+                "neighborhood": null,
+                "transit": null,
+                "notes": "All Israeli citizens and holders of any other permit will be charged VAT at 17% (VAT rate may be changed without prior notice). Tourists (holders of diplomatic passport or foreign passport and a 3 month tourist visa - B2/3/4), are exempt from paying VAT on accommodations.\n\n \n\nIf applicable, the VAT will be collected separately by the Home Management Company after the booking."
+            },
+            "pms": {
+                "automation": {
+                    "answeringMachine": {
+                        "confirmedBeforeCheckIn": {
+                            "delayInMinutes": 45
+                        },
+                        "confirmedDayOfCheckIn": {
+                            "delayInMinutes": 45
+                        },
+                        "confirmedDayOfCheckOut": {
+                            "delayInMinutes": 45
+                        },
+                        "confirmedDuringStay": {
+                            "delayInMinutes": 45
+                        },
+                        "confirmedAfterCheckOut": {
+                            "delayInMinutes": 45
+                        },
+                        "unconfirmedFirstMessage": {
+                            "delayInMinutes": 1,
+                            "active": true,
+                            "message": "Hi there,\n\nThank you for your inquiry.\nI'll be right with you.\n\nCheers,\nMoriya"
+                        },
+                        "unconfirmedSubsequentMessage": {
+                            "delayInMinutes": 45
+                        },
+                        "active": true
+                    },
+                    "hooks": {
+                        "ignoredHooks": []
+                    },
+                    "calendarSmartRules": {
+                        "blockListings": []
+                    },
+                    "autoReviews": {
+                        "templates": []
+                    },
+                    "autoPricing": {
+                        "rules": []
+                    }
+                },
+                "tasks": {
+                    "defaultTasks": []
+                },
+                "autoPayments": {
+                    "policy": [
+                        {
+                            "scheduleTo": {
+                                "timeRelation": {
+                                    "relation": "AFTER",
+                                    "unit": "DAYS",
+                                    "amount": 2
+                                },
+                                "reservationEvent": "CONFIRMATION"
+                            },
+                            "_id": "5da9e1c2761c4b0023af4048",
+                            "chargeType": "PERCENTAGE",
+                            "amount": 50,
+                            "useGuestCard": true
+                        },
+                        {
+                            "scheduleTo": {
+                                "timeRelation": {
+                                    "relation": "BEFORE",
+                                    "unit": "DAYS",
+                                    "amount": 60
+                                },
+                                "reservationEvent": "CHECK_IN"
+                            },
+                            "_id": "6386260ebf6cb50040cee5be",
+                            "chargeType": "REST_OF_PAYMENT",
+                            "isAuthorizationHold": false,
+                            "useGuestCard": true
+                        }
+                    ]
+                },
+                "active": true
+            },
+            "sales": {
+                "salesService": {
+                    "atPhones": []
+                }
+            },
+            "receptionistsService": {
+                "receptionDesk": {
+                    "atPhones": [],
+                    "ittt": []
+                },
+                "screening": {
+                    "checklist": []
+                }
+            },
+            "calendarRules": {
+                "defaultAvailability": "AVAILABLE",
+                "advanceNotice": {
+                    "bookingCom": {
+                        "isCutOffHoursEnabled": false
+                    },
+                    "expedia": {
+                        "isCutOffHoursEnabled": false
+                    },
+                    "airbnb2": {
+                        "isCutOffHoursEnabled": true
+                    },
+                    "directBookings": {
+                        "isCutOffHoursEnabled": false
+                    },
+                    "updatedAt": "2023-01-11T05:46:08.572Z"
+                },
+                "bookingWindow": {
+                    "updatedAt": "2023-01-11T05:46:08.571Z"
+                },
+                "preparationTime": {
+                    "updatedAt": "2023-01-11T05:46:08.571Z"
+                },
+                "rentalPeriods": [],
+                "defaultAvailabilityUpdatedAt": "2023-01-11T05:46:08.576Z"
+            },
+            "type": "SINGLE",
+            "tags": [
+                "Israel",
+                "PriceRange3",
+                "familyCollection",
+                "petsCollection"
+            ],
+            "owners": [],
+            "amenities": [
+                "Shampoo",
+                "TV",
+                "BBQ grill",
+                "Hair dryer",
+                "Indoor fireplace",
+                "Washer",
+                "Essentials",
+                "Heating",
+                "Cable TV",
+                "Air conditioning",
+                "Free parking on street",
+                "Dishwasher",
+                "Swimming pool",
+                "Pocket wifi",
+                "Dryer",
+                "Baby bath",
+                "Extra pillows and blankets",
+                "Hangers",
+                "Iron",
+                "Hot water",
+                "Wireless Internet",
+                "Bed linens",
+                "Suitable for children (2-12 years)",
+                "Suitable for infants (under 2 years)",
+                "Pets allowed",
+                "Accessible-height bed",
+                "Refrigerator",
+                "Family/kid friendly",
+                "Dvd player",
+                "Children’s books and toys",
+                "Crib",
+                "First aid kit",
+                "Game console",
+                "Garden or backyard",
+                "Internet",
+                "Laptop friendly workspace",
+                "Long term stays allowed",
+                "Microwave",
+                "Oven",
+                "Outdoor pool",
+                "Patio or balcony",
+                "Private entrance",
+                "Private pool",
+                "Smoke detector",
+                "Stereo system",
+                "Toaster",
+                "Towels provided",
+                "Cleaning Disinfection",
+                "High touch surfaces disinfected",
+                "Enhanced cleaning practices",
+                "Accessible-height toilet",
+                "Beach",
+                "Water View",
+                "Sea view",
+                "Stove",
+                "Coffee maker",
+                "Cookware",
+                "Dishes and silverware",
+                "Kettle",
+                "Kitchen"
+            ],
+            "amenitiesNotIncluded": [
+                "Bathtub",
+                "Elevator",
+                "Free parking on premises",
+                "Grab-rails for shower and toilet",
+                "High chair",
+                "Hot tub",
+                "Stove",
+                "Baby monitor",
+                "Babysitter recommendations",
+                "Beach essentials",
+                "Breakfast",
+                "Carbon monoxide detector",
+                "Changing table",
+                "Children’s dinnerware",
+                "Cleaning before checkout",
+                "Disabled parking spot",
+                "Doorman",
+                "EV charger",
+                "Fire extinguisher",
+                "Fireplace guards",
+                "Flat smooth pathway to front door",
+                "Gym",
+                "Indoor pool",
+                "Luggage dropoff allowed",
+                "Outlet covers",
+                "Pack ’n Play/travel crib",
+                "Paid parking off premises",
+                "Path to entrance lit at night",
+                "Roll-in shower with shower bench or chair",
+                "Room-darkening shades",
+                "Single level home",
+                "Smoking allowed",
+                "Stair gates",
+                "Suitable for events",
+                "Table corner guards",
+                "Tub with shower bench",
+                "Wheelchair accessible",
+                "Wide clearance to bed",
+                "Wide clearance to shower and toilet",
+                "Wide doorway",
+                "Wide hallway clearance",
+                "Window guards",
+                "Step-free access",
+                "Beach View"
+            ],
+            "useAccountRevenueShare": true,
+            "netIncomeFormula": "host_payout",
+            "commissionFormula": "net_income",
+            "ownerRevenueFormula": "net_income - pm_commission",
+            "useAccountAdditionalFees": true,
+            "useAccountTaxes": true,
+            "markups": {
+                "airbnb2": {
+                    "amount": 20,
+                    "units": "PERCENTAGE",
+                    "status": null
+                },
+                "airbnb": null,
+                "default": {
+                    "amount": 0,
+                    "units": "PERCENTAGE"
+                },
+                "bookingCom": {
+                    "amount": 21.95,
+                    "units": "PERCENTAGE",
+                    "status": null
+                }
+            },
+            "useAccountMarkups": true,
+            "active": true,
+            "preBooking": [],
+            "createdAt": "2020-06-11T19:00:28.442Z",
+            "lastUpdatedAt": "2023-05-18T12:55:36.800Z",
+            "integrations": [
+                {
+                    "bookingCom": {
+                        "acceptedCreditCards": [],
+                        "errors": [],
+                        "initialComplexListing": false,
+                        "publishCompanyLogo": false,
+                        "isPublishedCompanyLogo": false,
+                        "publishCompanyInfo": false,
+                        "isPublishedCompanyInfo": false,
+                        "taxInfo": []
+                    },
+                    "airbnb2": {
+                        "daysOfWeekMinimumNights": [],
+                        "promotions": [],
+                        "id": "43749733",
+                        "cancellationPolicy": "super_strict_60",
+                        "instantBookingAllowedCategory": "off",
+                        "bookingLeadTime": {
+                            "hours": 0,
+                            "allowRequestToBook": true
+                        },
+                        "maxDaysNotice": {
+                            "days": -1,
+                            "allowRequestToBook": true
+                        },
+                        "turnoverDays": 0,
+                        "syncCategory": "sync_all",
+                        "status": "COMPLETED",
+                        "financials": {
+                            "_id": "5eeb36e614fe16002dcaff0f",
+                            "cleaningFee": {
+                                "channelSyncStatus": "IN_PROGRESS",
+                                "value": {
+                                    "_id": "62494377305e370035dc4797",
+                                    "multiplier": "PER_STAY",
+                                    "formula": 800,
+                                    "valueType": "FIXED"
+                                }
+                            },
+                            "guestsIncludedInRegularFee": {
+                                "channelSyncStatus": "IN_PROGRESS"
+                            },
+                            "extraPersonFee": {
+                                "channelSyncStatus": "IN_PROGRESS"
+                            },
+                            "basePrice": {
+                                "channelSyncStatus": "IN_PROGRESS"
+                            },
+                            "monthlyPriceFactor": {
+                                "channelSyncStatus": "IN_PROGRESS"
+                            },
+                            "weeklyPriceFactor": {
+                                "channelSyncStatus": "IN_PROGRESS"
+                            },
+                            "currency": {
+                                "channelSyncStatus": "IN_PROGRESS"
+                            }
+                        },
+                        "tier": "marketplace",
+                        "syncCategoryUpdatedAt": "2020-12-31T09:50:12.852Z"
+                    },
+                    "platform": "airbnb2",
+                    "_id": "585a39dbe43900100017e9ed",
+                    "externalUrl": "https://www.airbnb.com/rooms/43749733"
+                }
+            ],
+            "pendingTasks": [],
+            "listingRooms": [
+                {
+                    "_id": "5fed9ee97d0b6a002f13198c",
+                    "id": 96303944,
+                    "roomNumber": 6,
+                    "beds": [
+                        {
+                            "_id": "5fed9ee97d0b6a002f13198d",
+                            "quantity": 1,
+                            "type": "QUEEN_BED"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f13198a",
+                    "id": 96303946,
+                    "roomNumber": 3,
+                    "beds": [
+                        {
+                            "_id": "5fed9ee97d0b6a002f13198b",
+                            "quantity": 1,
+                            "type": "SOFA_BED"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f131988",
+                    "id": 96303948,
+                    "roomNumber": 5,
+                    "beds": [
+                        {
+                            "_id": "5fed9ee97d0b6a002f131989",
+                            "quantity": 1,
+                            "type": "SINGLE_BED"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f131986",
+                    "id": 96303947,
+                    "roomNumber": 1,
+                    "beds": [
+                        {
+                            "_id": "5fed9ee97d0b6a002f131987",
+                            "quantity": 1,
+                            "type": "KING_BED"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f131984",
+                    "id": 96303949,
+                    "roomNumber": 4,
+                    "beds": [
+                        {
+                            "_id": "5fed9ee97d0b6a002f131985",
+                            "quantity": 1,
+                            "type": "SOFA_BED"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f131982",
+                    "id": 96303945,
+                    "roomNumber": 2,
+                    "beds": [
+                        {
+                            "_id": "5fed9ee97d0b6a002f131983",
+                            "quantity": 1,
+                            "type": "DOUBLE_BED"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f131981",
+                    "id": 96304673,
+                    "roomNumber": 0,
+                    "beds": []
+                }
+            ],
+            "pictures": [
+                {
+                    "_id": "64183b2f1888a1002cf64035",
+                    "original": "https://assets.guesty.com/image/upload/v1679306025/production/585a39dbe43900100017e9e8/buzb0pmw44dx2bydbkwg.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1679306025/production/585a39dbe43900100017e9e8/buzb0pmw44dx2bydbkwg.jpg",
+                    "height": 1350,
+                    "width": 1800,
+                    "size": 221715,
+                    "id": "43749733_1610279844"
+                },
+                {
+                    "_id": "64183b2f1888a1002cf64034",
+                    "original": "https://assets.guesty.com/image/upload/v1679305785/production/585a39dbe43900100017e9e8/kk1vksevm8xp5ddxcw7u.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1679305785/production/585a39dbe43900100017e9e8/kk1vksevm8xp5ddxcw7u.jpg",
+                    "height": 768,
+                    "width": 1024,
+                    "size": 168746,
+                    "id": "43749733_1610279857"
+                },
+                {
+                    "_id": "64182a09e93af0002e7ee296",
+                    "original": "https://assets.guesty.com/image/upload/v1679305212/production/585a39dbe43900100017e9e8/inlpv7jf4mmepucukxyn.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1679305212/production/585a39dbe43900100017e9e8/inlpv7jf4mmepucukxyn.jpg",
+                    "height": 1273,
+                    "width": 1300,
+                    "size": 300833,
+                    "id": "43749733_1610247814"
+                },
+                {
+                    "_id": "624fe1574b6b0d00338b31d5",
+                    "original": "https://assets.guesty.com/image/upload/v1649401154/production/585a39dbe43900100017e9e8/e2la8sxv5ofcdx3juit0.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1649401154/production/585a39dbe43900100017e9e8/e2la8sxv5ofcdx3juit0.jpg",
+                    "height": 800,
+                    "width": 1191,
+                    "size": 101090,
+                    "id": "43749733_1376841675"
+                },
+                {
+                    "_id": "64183b2f1888a1002cf64031",
+                    "original": "https://assets.guesty.com/image/upload/v1679305785/production/585a39dbe43900100017e9e8/e9esxujdackhcszg0gv5.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1679305785/production/585a39dbe43900100017e9e8/e9esxujdackhcszg0gv5.jpg",
+                    "height": 768,
+                    "width": 1024,
+                    "size": 84121,
+                    "id": "43749733_1610279868"
+                },
+                {
+                    "_id": "64183b2f1888a1002cf64030",
+                    "original": "https://assets.guesty.com/image/upload/v1679305786/production/585a39dbe43900100017e9e8/gnypfrnd9lmn8j3vcm5i.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1679305786/production/585a39dbe43900100017e9e8/gnypfrnd9lmn8j3vcm5i.jpg",
+                    "height": 1024,
+                    "width": 768,
+                    "size": 108619,
+                    "id": "43749733_1610279878"
+                },
+                {
+                    "_id": "605302a26d1a830030671e3e",
+                    "original": "https://assets.guesty.com/image/upload/v1616051507/production/585a39dbe43900100017e9e8/eemym65spv1wgxlc54fj.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051507/production/585a39dbe43900100017e9e8/eemym65spv1wgxlc54fj.jpg",
+                    "id": "43749733_1376841224"
+                },
+                {
+                    "_id": "605302a26d1a830030671e3c",
+                    "original": "https://assets.guesty.com/image/upload/v1616051508/production/585a39dbe43900100017e9e8/a4h3mfrfe7nsxicf5axy.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051508/production/585a39dbe43900100017e9e8/a4h3mfrfe7nsxicf5axy.jpg",
+                    "id": "43749733_1376841215"
+                },
+                {
+                    "_id": "605302a26d1a830030671e41",
+                    "original": "https://assets.guesty.com/image/upload/v1616051507/production/585a39dbe43900100017e9e8/hnqi0wa5dnq7j3z7ompd.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051507/production/585a39dbe43900100017e9e8/hnqi0wa5dnq7j3z7ompd.jpg",
+                    "id": "43749733_1376841228"
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f131993",
+                    "thumbnail": "https://guesty-listing-images.s3.amazonaws.com/production/thumbnail_43749733_1020890310.jpg",
+                    "id": "43749733_1020890310",
+                    "regular": "https://guesty-listing-images.s3.amazonaws.com/production/regular_43749733_1020890310.jpg",
+                    "large": "https://guesty-listing-images.s3.amazonaws.com/production/large_43749733_1020890310.jpg",
+                    "original": "https://guesty-listing-images.s3.amazonaws.com/production/original_43749733_1020890310.jpg",
+                    "caption": "",
+                    "sort": 32
+                },
+                {
+                    "_id": "605302a26d1a830030671e20",
+                    "original": "https://assets.guesty.com/image/upload/v1616051507/production/585a39dbe43900100017e9e8/f00oa4bn3xtxay0injph.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051507/production/585a39dbe43900100017e9e8/f00oa4bn3xtxay0injph.jpg",
+                    "id": "43749733_1376841205"
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f1319ae",
+                    "thumbnail": "https://guesty-listing-images.s3.amazonaws.com/production/thumbnail_43749733_1020890264.jpg",
+                    "id": "43749733_1020890264",
+                    "regular": "https://guesty-listing-images.s3.amazonaws.com/production/regular_43749733_1020890264.jpg",
+                    "large": "https://guesty-listing-images.s3.amazonaws.com/production/large_43749733_1020890264.jpg",
+                    "original": "https://guesty-listing-images.s3.amazonaws.com/production/original_43749733_1020890264.jpg",
+                    "caption": "",
+                    "sort": 5
+                },
+                {
+                    "_id": "64183b2f1888a1002cf64029",
+                    "original": "https://assets.guesty.com/image/upload/v1679306463/production/585a39dbe43900100017e9e8/zo1ot5hrd4l9gqzxonsn.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1679306463/production/585a39dbe43900100017e9e8/zo1ot5hrd4l9gqzxonsn.jpg",
+                    "height": 1200,
+                    "width": 1600,
+                    "size": 98858,
+                    "id": "43749733_1610279897"
+                },
+                {
+                    "_id": "605302a26d1a830030671e32",
+                    "original": "https://assets.guesty.com/image/upload/v1616051508/production/585a39dbe43900100017e9e8/vcoeqqw7fmbyplcvnljd.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051508/production/585a39dbe43900100017e9e8/vcoeqqw7fmbyplcvnljd.jpg",
+                    "id": "43749733_1376841266"
+                },
+                {
+                    "_id": "605302a26d1a830030671e33",
+                    "original": "https://assets.guesty.com/image/upload/v1616051509/production/585a39dbe43900100017e9e8/j63syh8yuardx593ev9m.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051509/production/585a39dbe43900100017e9e8/j63syh8yuardx593ev9m.jpg",
+                    "id": "43749733_1376841271"
+                },
+                {
+                    "_id": "605302a26d1a830030671e31",
+                    "original": "https://assets.guesty.com/image/upload/v1616051509/production/585a39dbe43900100017e9e8/ekhtzw9rzzj4bfjstvin.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051509/production/585a39dbe43900100017e9e8/ekhtzw9rzzj4bfjstvin.jpg",
+                    "caption": "kids room",
+                    "id": "43749733_1376841278"
+                },
+                {
+                    "_id": "605302a26d1a830030671e30",
+                    "original": "https://assets.guesty.com/image/upload/v1616051510/production/585a39dbe43900100017e9e8/xzw0imbdwdjmjn56fmfr.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051510/production/585a39dbe43900100017e9e8/xzw0imbdwdjmjn56fmfr.jpg",
+                    "caption": "kids room",
+                    "id": "43749733_1376841284"
+                },
+                {
+                    "_id": "605302a26d1a830030671e2e",
+                    "original": "https://assets.guesty.com/image/upload/v1616051509/production/585a39dbe43900100017e9e8/cqwwwf5kjrvndlroy2ef.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051509/production/585a39dbe43900100017e9e8/cqwwwf5kjrvndlroy2ef.jpg",
+                    "id": "43749733_1376841287"
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f1319a0",
+                    "thumbnail": "https://guesty-listing-images.s3.amazonaws.com/production/thumbnail_43749733_1020883437.jpg",
+                    "id": "43749733_1020883437",
+                    "regular": "https://guesty-listing-images.s3.amazonaws.com/production/regular_43749733_1020883437.jpg",
+                    "large": "https://guesty-listing-images.s3.amazonaws.com/production/large_43749733_1020883437.jpg",
+                    "original": "https://guesty-listing-images.s3.amazonaws.com/production/original_43749733_1020883437.jpg",
+                    "caption": "",
+                    "sort": 19
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f1319a4",
+                    "thumbnail": "https://guesty-listing-images.s3.amazonaws.com/production/thumbnail_43749733_1020883261.jpg",
+                    "id": "43749733_1020883261",
+                    "regular": "https://guesty-listing-images.s3.amazonaws.com/production/regular_43749733_1020883261.jpg",
+                    "large": "https://guesty-listing-images.s3.amazonaws.com/production/large_43749733_1020883261.jpg",
+                    "original": "https://guesty-listing-images.s3.amazonaws.com/production/original_43749733_1020883261.jpg",
+                    "caption": "",
+                    "sort": 15
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f1319a3",
+                    "thumbnail": "https://guesty-listing-images.s3.amazonaws.com/production/thumbnail_43749733_1020883314.jpg",
+                    "id": "43749733_1020883314",
+                    "regular": "https://guesty-listing-images.s3.amazonaws.com/production/regular_43749733_1020883314.jpg",
+                    "large": "https://guesty-listing-images.s3.amazonaws.com/production/large_43749733_1020883314.jpg",
+                    "original": "https://guesty-listing-images.s3.amazonaws.com/production/original_43749733_1020883314.jpg",
+                    "caption": "",
+                    "sort": 16
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f1319ac",
+                    "thumbnail": "https://guesty-listing-images.s3.amazonaws.com/production/thumbnail_43749733_1020882748.jpg",
+                    "id": "43749733_1020882748",
+                    "regular": "https://guesty-listing-images.s3.amazonaws.com/production/regular_43749733_1020882748.jpg",
+                    "large": "https://guesty-listing-images.s3.amazonaws.com/production/large_43749733_1020882748.jpg",
+                    "original": "https://guesty-listing-images.s3.amazonaws.com/production/original_43749733_1020882748.jpg",
+                    "caption": "",
+                    "sort": 7
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f1319a6",
+                    "thumbnail": "https://guesty-listing-images.s3.amazonaws.com/production/thumbnail_43749733_1020883160.jpg",
+                    "id": "43749733_1020883160",
+                    "regular": "https://guesty-listing-images.s3.amazonaws.com/production/regular_43749733_1020883160.jpg",
+                    "large": "https://guesty-listing-images.s3.amazonaws.com/production/large_43749733_1020883160.jpg",
+                    "original": "https://guesty-listing-images.s3.amazonaws.com/production/original_43749733_1020883160.jpg",
+                    "caption": "",
+                    "sort": 13
+                },
+                {
+                    "_id": "605302a26d1a830030671e1a",
+                    "original": "https://assets.guesty.com/image/upload/v1616051506/production/585a39dbe43900100017e9e8/s29dq5iduazkzang3pth.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051506/production/585a39dbe43900100017e9e8/s29dq5iduazkzang3pth.jpg",
+                    "id": "43749733_1376841319"
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f1319a5",
+                    "thumbnail": "https://guesty-listing-images.s3.amazonaws.com/production/thumbnail_43749733_1020883207.jpg",
+                    "id": "43749733_1020883207",
+                    "regular": "https://guesty-listing-images.s3.amazonaws.com/production/regular_43749733_1020883207.jpg",
+                    "large": "https://guesty-listing-images.s3.amazonaws.com/production/large_43749733_1020883207.jpg",
+                    "original": "https://guesty-listing-images.s3.amazonaws.com/production/original_43749733_1020883207.jpg",
+                    "caption": "",
+                    "sort": 14
+                },
+                {
+                    "_id": "64183b2f1888a1002cf6401c",
+                    "original": "https://assets.guesty.com/image/upload/v1679305785/production/585a39dbe43900100017e9e8/fgu67mkutfkomemzw2s9.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1679305785/production/585a39dbe43900100017e9e8/fgu67mkutfkomemzw2s9.jpg",
+                    "height": 768,
+                    "width": 1024,
+                    "size": 140968,
+                    "id": "43749733_1610279909"
+                },
+                {
+                    "_id": "605302a26d1a830030671e2a",
+                    "original": "https://assets.guesty.com/image/upload/v1616051510/production/585a39dbe43900100017e9e8/ewegf9agjsylfsadlszx.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051510/production/585a39dbe43900100017e9e8/ewegf9agjsylfsadlszx.jpg",
+                    "id": "43749733_1376841248"
+                },
+                {
+                    "_id": "5fed9ee97d0b6a002f1319aa",
+                    "thumbnail": "https://guesty-listing-images.s3.amazonaws.com/production/thumbnail_43749733_1020882831.jpg",
+                    "id": "43749733_1020882831",
+                    "regular": "https://guesty-listing-images.s3.amazonaws.com/production/regular_43749733_1020882831.jpg",
+                    "large": "https://guesty-listing-images.s3.amazonaws.com/production/large_43749733_1020882831.jpg",
+                    "original": "https://guesty-listing-images.s3.amazonaws.com/production/original_43749733_1020882831.jpg",
+                    "caption": "",
+                    "sort": 9
+                },
+                {
+                    "_id": "605302a26d1a830030671e17",
+                    "original": "https://assets.guesty.com/image/upload/v1616051511/production/585a39dbe43900100017e9e8/beuahhyefsx9zmszgnkf.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051511/production/585a39dbe43900100017e9e8/beuahhyefsx9zmszgnkf.jpg",
+                    "id": "43749733_1376841306"
+                },
+                {
+                    "_id": "605302a26d1a830030671e2b",
+                    "original": "https://assets.guesty.com/image/upload/v1616051510/production/585a39dbe43900100017e9e8/d2nz513eaanyb82qiuvq.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1616051510/production/585a39dbe43900100017e9e8/d2nz513eaanyb82qiuvq.jpg",
+                    "id": "43749733_1376841258"
+                },
+                {
+                    "_id": "624fe1574b6b0d00338b31bc",
+                    "original": "https://assets.guesty.com/image/upload/v1649400013/production/585a39dbe43900100017e9e8/oyofwt9ebyavzh1funds.jpg",
+                    "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1649400013/production/585a39dbe43900100017e9e8/oyofwt9ebyavzh1funds.jpg",
+                    "height": 1600,
+                    "width": 1200,
+                    "size": 144483,
+                    "id": "43749733_1376841697"
+                }
+            ],
+            "taxes": [],
+            "customFields": [],
+            "offeredServices": [],
+            "importedAt": "2020-06-11T19:00:28.443Z",
+            "occupancyStats": [],
+            "accountId": "585a39dbe43900100017e9e8",
+            "importingPlatform": "airbnb",
+            "nickname": "CAE029 Ira Hadar",
+            "isListed": true,
+            "channelsListed": {
+                "airbnb": {
+                    "isListed": true
+                },
+                "_id": "5ee27f4c0977250036354ee4"
+            },
+            "defaultCheckInTime": "16:00",
+            "defaultCheckOutTime": "11:00",
+            "title": "Lovely Spacious House With Sea Views",
+            "timezone": "Asia/Jerusalem",
+            "bedrooms": 5,
+            "beds": 6,
+            "propertyType": "House",
+            "roomType": "Entire home/apt",
+            "bedType": "Real Bed",
+            "accommodates": 12,
+            "bathrooms": 3.5,
+            "lastSyncedAt": "2020-06-15T09:25:12.469Z",
+            "__v": 253,
+            "lastActivityAt": "2022-04-18T08:03:23.846Z",
+            "defaultCheckInEndTime": null,
+            "otaRoomType": null,
+            "privateDescription": {
+                "directions": ""
+            },
+            "cleaningStatus": {
+                "value": null,
+                "updatedAt": "2021-12-29T12:14:26.135Z"
+            },
+            "accountTaxes": [],
+            "source": "guesty_openapi"
+        }
+    ],
+    "title": "Listings Report",
+    "fields": "",
+    "limit": 1,
+    "skip": 0,
+    "count": 1
+}

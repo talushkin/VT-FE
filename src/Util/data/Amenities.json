@@ -1,0 +1,51 @@
+[
+  {
+	"name": "Garage",
+	"code": "AF"
+  },
+  {
+	"name": "Garden",
+	"code": "AF"
+  },
+  {
+	"name": "Home Gym",
+	"code": "AF"
+  },
+  {
+	"name": "Jaccuzi",
+	"code": "AF"
+  },
+  {
+	"name": "Outdoor Pool",
+	"code": "AF"
+  },
+  {
+	"name": "Parking Space",
+	"code": "AF"
+  },
+  {
+	"name": "Sauna",
+	"code": "AF"
+  },
+  {
+	"name": "Spa",
+	"code": "AF"
+  },
+  {
+	"name": "Summer Kitchen",
+	"code": "AF"
+  },
+  {
+	"name": "Terrace",
+	"code": "AF"
+  },
+  {
+	"name": "Theater Room",
+	"code": "AF"
+  },
+
+  {
+	"name": "Wine Bar",
+	"code": "AX"
+  }
+]

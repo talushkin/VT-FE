@@ -1,0 +1,10 @@
+.custom-table > div {
+  box-shadow: none !important;
+  border: 1px solid #eeeff1 !important;
+}
+.custom-table > div > div {
+  background-color: #f2f9fc !important;
+}
+.custom-table > div > div > table {
+  background-color: #69808a !important;
+}

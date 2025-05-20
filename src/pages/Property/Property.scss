@@ -1,0 +1,82 @@
+.property-page-body-top-price {
+  font-weight: 900 !important;
+  font-size: x-large !important;
+  display: flex;
+}
+
+.property-page-body-top-commission-price {
+  font-weight: 600;
+  display: flex;
+}
+
+.property-page-body-top-night {
+  font-weight: 700 !important;
+}
+.margin-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.curr-dropdown {
+  margin: 10px 0 10px 13px;
+  //max-width: 342px;
+  border-radius: 0.375rem
+}
+
+.form-select {
+  border-radius: 0.375rem !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  border-color: #dee2e6 !important;
+}
+
+.property-title {
+  font-size: 30px !important;
+}
+
+.currency-font {
+  font-size: 48px !important;
+}
+
+.commision {
+  font-size: 20 px;
+}
+
+.currency-style {
+  display: flex;
+}
+
+.loading-image-exprice {
+  width: 20px;
+  height: 20px;
+}
+
+
+@media screen and (max-width: 767px) {
+  .mobile-dots {
+      display: none !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .mobile-class {
+      display: ruby !important;
+  }
+}
+
+
+@media (max-width: 767px) {
+    .form-select {
+        width: 92.5% !important;
+        margin-left: 1.8% !important;
+    }
+    .curr-dropdown {
+      margin: 10px 0 10px 11px;
+    }
+}
+
+.position-icons{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

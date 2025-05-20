@@ -1,0 +1,43 @@
+.client-offer {
+    gap: 25px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.offer-container {
+    // display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.offer-inputs {
+    width: 106% !important;
+}
+
+.search-inputs {
+    width: 90% !important;
+}
+
+.offer-container {
+    gap: 25px;
+}
+
+.offer-heading {
+    margin: 10px 0px 20px 60px;
+}
+
+.header-test{
+    margin-top: 15px !important;
+    // margin: 20px 0px 15px -30px !important;
+}
+
+.gaps {
+    gap: 1px
+}
+.vertical-separator {
+    margin: 0 20px;
+    height: 20px;
+    width: 1px;
+    border-right: 1px solid black;
+}

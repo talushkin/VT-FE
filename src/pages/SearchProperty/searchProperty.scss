@@ -1,0 +1,202 @@
+* {
+  box-sizing: border-box;
+}
+
+.search-container {
+  // height: calc(100vh - 600px);
+  @media (max-width: 600px) {
+    .search-results {
+      width: 100%;
+    }
+  }
+
+  .search-results {
+    padding: 10px;
+    position: relative;
+    height: 200vh;
+
+    .search-left-box {
+      min-width: 150px;
+      max-width: 400px;
+    }
+
+    .search-results-buttons {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .search-top-panel {
+      display: flex;
+      justify-content: space-between;
+      //fill: #FFFFFF;
+      position: sticky;
+      top: 0px;
+      z-index: 99999;
+      margin-top: auto;
+      background-image: linear-gradient(to bottom, rgba(255,255,255,1), rgba(255,255,255,.8));
+    }
+
+    .search-top-panel-mobile {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .search-main-title {
+      color: #100857;
+      font-weight: 600;
+    }
+
+    .search-main-subtitle {
+      font-size: 30px;
+      color: #284866;
+    }
+
+    .search-main-selection-title {
+      font-size: 30px;
+      font-weight: 500;
+      color: #284866;
+      width: 300px;
+    }
+
+    .search-main-selection-icons {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding-top: 5px;
+      justify-items: center;
+      margin-left: -6px;
+    }
+
+    @media (max-width: 600px) {
+      .search-main-selection-icons {
+        grid-template-columns: 55px 55px 55px 55px 105px;
+      }
+    }
+
+    .search-boxes {
+      grid-row-gap: 10px;
+      width: 100%;
+      padding: 0 20px !important;
+      // padding-top: 30px;
+      // display: flex;
+      // justify-content: space-between;
+    }
+  }
+
+  .selected-prop {
+    margin-right: 123px !important;
+  }
+
+  .search-no-results-container {
+    background-size: cover;
+    backdrop-filter: blur(15px);
+    background-color: hsl(216deg 72% 27% / 50%);
+
+    .search-no-results-main {
+      padding-top: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      color: white;
+    }
+  }
+
+}
+
+.custom-top-destination-clicked-marker {
+  position: absolute;
+  border: 3px solid green;
+  height: 30px;
+  width: 30px;
+  color: #fff;
+  background: rgb(26, 195, 26);
+  border-radius: 50% 50% 50% 0;
+  cursor: pointer;
+}
+
+.custom-top-destination-clicked-marker::after {
+  display: flex;
+  position: absolute;
+  content: "";
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  top: 7px;
+  left: 7px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+
+
+.selected-custom-top-destination-clicked-marker {
+  position: absolute;
+  border: 3px solid green;
+  height: 30px;
+  width: 30px;
+  color: #fff;
+  background: rgb(7, 102, 7);
+  border-radius: 50% 50% 50% 0;
+  cursor: pointer;
+}
+
+.selected-custom-top-destination-clicked-marker::after {
+  display: flex;
+  position: absolute;
+  content: "";
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  top: 6px;
+  left: 6px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.row {
+  --bs-gutter-x: -0.10rem;
+}
+
+.custom-top-destination-clicked-marker {
+  position: absolute;
+  border: 3px solid green;
+  height: 20px;
+  width: 20px;
+  color: #fff;
+  background: green;
+  border-radius: 50% 50% 50% 0;
+  cursor: pointer;
+}
+
+.custom-top-destination-clicked-marker::after {
+  display: flex;
+  position: absolute;
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  top: 2px;
+  left: 4px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.selected-prop {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 10px; /* Adjust as needed to give some space from the top */
+  z-index: 1000; /* Ensure it stays above other elements */
+  background-color: #fff; /* Optional: to give it a background */
+  padding: 10px; /* Optional: to give some padding */
+}
+
+
+
+
+@media (max-width: 768px) {
+  .map {
+    height: 1000vh;
+  }
+}
+

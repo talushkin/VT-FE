@@ -1,0 +1,500 @@
+[{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec38393"
+  },
+  "id": 1,
+  "type": "VAT",
+  "initial": "VAT",
+  "description": "VAT",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec38394"
+  },
+  "id": 2,
+  "type": "GOODS_AND_SERVICES_TAX",
+  "initial": "GST",
+  "description": "Goods and Services Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec38395"
+  },
+  "id": 3,
+  "type": "CITY_TAX",
+  "initial": "CT",
+  "description": "City Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec38396"
+  },
+  "id": 4,
+  "type": "LOCAL_TAX",
+  "initial": "LT",
+  "description": "Local Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec38397"
+  },
+  "id": 5,
+  "type": "TOURISM_TAX",
+  "initial": "TT",
+  "description": "Tourism Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec38398"
+  },
+  "id": 6,
+  "type": "STATE_TAX",
+  "initial": "ST",
+  "description": "State Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec38399"
+  },
+  "id": 7,
+  "type": "COUNTY_TAX",
+  "initial": "COT",
+  "description": "County Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec3839a"
+  },
+  "id": 8,
+  "type": "OCCUPANCY_TAX",
+  "initial": "OCT",
+  "description": "Occupancy Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec3839b"
+  },
+  "id": 9,
+  "type": "TRANSIENT_OCCUPANCY_TAX",
+  "initial": "TOT",
+  "description": "Transient Occupancy Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec3839c"
+  },
+  "id": 10,
+  "type": "HOME_SHARING_TAX",
+  "initial": "HSHAT",
+  "description": "Home Sharing Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec3839d"
+  },
+  "id": 11,
+  "type": "HARMONIZED_SALES_TAX",
+  "initial": "HST",
+  "description": "Harmonized Sales Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec3839e"
+  },
+  "id": 12,
+  "type": "MINIMUM_ALTERNATE_TAX",
+  "initial": "MAT",
+  "description": "Minimum Alternate Tax",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec3839f"
+  },
+  "id": 13,
+  "type": "CLEANING_FEE",
+  "initial": "CF",
+  "description": "Cleaning Fee",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a0"
+  },
+  "id": 14,
+  "type": "ADDITIONAL_BED",
+  "initial": "ADDITIONAL_BED",
+  "description": "Additional bed",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a1"
+  },
+  "id": 15,
+  "type": "AIR_CONDITIONING",
+  "initial": "AIR_CONDITIONING",
+  "description": "Air conditioning",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a2"
+  },
+  "id": 16,
+  "type": "EARLY_CHECK_IN",
+  "initial": "EARLY_CHECK_IN",
+  "description": "Early check in",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a3"
+  },
+  "id": 17,
+  "type": "LATE_CHECK_IN",
+  "initial": "LATE_CHECK_IN",
+  "description": "Late check in",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a4"
+  },
+  "id": 18,
+  "type": "BABY_BED",
+  "initial": "BABY_BED",
+  "description": "Baby bed",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a5"
+  },
+  "id": 19,
+  "type": "CLEANING",
+  "initial": "CLEANING",
+  "description": "Cleaning",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a6"
+  },
+  "id": 20,
+  "type": "CLUB_CARD",
+  "initial": "CLUB_CARD",
+  "description": "Club card",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a7"
+  },
+  "id": 21,
+  "type": "CONCIERGE",
+  "initial": "CONCIERGE",
+  "description": "Concierge",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a8"
+  },
+  "id": 22,
+  "type": "EARLY_CHECKOUT",
+  "initial": "EARLY_CHECKOUT",
+  "description": "Early checkout",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383a9"
+  },
+  "id": 23,
+  "type": "LATE_CHECKOUT",
+  "initial": "LATE_CHECKOUT",
+  "description": "Late checkout",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383aa"
+  },
+  "id": 24,
+  "type": "DEPOSIT",
+  "initial": "DEPOSIT",
+  "description": "Deposit",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383ab"
+  },
+  "id": 25,
+  "type": "ELECTRICITY",
+  "initial": "ELECTRICITY",
+  "description": "Electricity",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383ac"
+  },
+  "id": 26,
+  "type": "FOOD",
+  "initial": "FOOD",
+  "description": "Food",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383ad"
+  },
+  "id": 27,
+  "type": "HEATING",
+  "initial": "HEATING",
+  "description": "Heating",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383ae"
+  },
+  "id": 28,
+  "type": "INTERNET",
+  "initial": "INTERNET",
+  "description": "Internet",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383af"
+  },
+  "id": 29,
+  "type": "LAUNDRY",
+  "initial": "LAUNDRY",
+  "description": "Laundry",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b0"
+  },
+  "id": 30,
+  "type": "LINENS",
+  "initial": "LINENS",
+  "description": "Linens",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b1"
+  },
+  "id": 31,
+  "type": "TOWELS",
+  "initial": "TOWELS",
+  "description": "Towels",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b2"
+  },
+  "id": 32,
+  "type": "MANAGEMENT",
+  "initial": "MANAGEMENT",
+  "description": "Managment",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b3"
+  },
+  "id": 33,
+  "type": "OIL",
+  "initial": "OIL",
+  "description": "Oil",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b4"
+  },
+  "id": 34,
+  "type": "PARKING",
+  "initial": "PARKING",
+  "description": "Parking",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b5"
+  },
+  "id": 35,
+  "type": "PET",
+  "initial": "PET",
+  "description": "Pet",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b6"
+  },
+  "id": 36,
+  "type": "POOL",
+  "initial": "POOL",
+  "description": "Pool",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b7"
+  },
+  "id": 37,
+  "type": "POOL_HEATING",
+  "initial": "POOL_HEATING",
+  "description": "Pool heating",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b8"
+  },
+  "id": 38,
+  "type": "RESORT",
+  "initial": "RESORT",
+  "description": "Resort",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383b9"
+  },
+  "id": 39,
+  "type": "SERVICE",
+  "initial": "SERVICE",
+  "description": "Service",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383ba"
+  },
+  "id": 40,
+  "type": "TOILETRIES",
+  "initial": "TOILETRIES",
+  "description": "Toiletries",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383bb"
+  },
+  "id": 41,
+  "type": "TOUR",
+  "initial": "TOUR",
+  "description": "Tour",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383bc"
+  },
+  "id": 42,
+  "type": "TRANSPORTATION",
+  "initial": "TRANSPORTATION",
+  "description": "Transportantion",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383bd"
+  },
+  "id": 43,
+  "type": "CAR_RENTAL",
+  "initial": "CAR_RENTAL",
+  "description": "Car rental",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383be"
+  },
+  "id": 44,
+  "type": "WATER",
+  "initial": "WATER",
+  "description": "Water",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383bf"
+  },
+  "id": 45,
+  "type": "WOOD",
+  "initial": "WOOD",
+  "description": "Wood",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383c0"
+  },
+  "id": 46,
+  "type": "TRANSFER",
+  "initial": "TRANSFER",
+  "description": "Transfer",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383c1"
+  },
+  "id": 47,
+  "type": "HOUSEKEEPING",
+  "initial": "HOUSEKEEPING",
+  "description": "Housekeeping",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383c2"
+  },
+  "id": 48,
+  "type": "INSURANCE",
+  "initial": "INSURANCE",
+  "description": "Insurance",
+  "is_mandatory": 0
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383c3"
+  },
+  "id": 49,
+  "type": "COMMUNITY",
+  "initial": "COMMUNITY",
+  "description": "Community",
+  "is_mandatory": 1
+},
+{
+  "_id": {
+    "$oid": "66cf5d86a851ca196ec383c4"
+  },
+  "id": 50,
+  "type": "CREDIT_CARD_PROCESSING_FEE",
+  "initial": "CREDIT_CARD_PROCESSING_FEE",
+  "description": "Credit Card Processing Fee",
+  "is_mandatory": 1
+}]

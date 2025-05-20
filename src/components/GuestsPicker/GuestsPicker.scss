@@ -1,0 +1,83 @@
+.guests-picker-wrapper {
+	.guests-picker-container {
+		
+		height: 42px;
+		background-color: white;
+		border-radius: 4px;
+		display: flex;
+		align-items: center;
+		// padding: 0 10px;
+		font-size: 25px;
+		color: #324d65;
+		font-weight: 600;
+		cursor: default;
+		user-select: none;
+		justify-content: space-between;
+	}
+
+	.guests-picker-text {
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.guests-picker-floater {
+		position: absolute;
+		z-index: 2;
+		background-color: white;
+		width: 300px;
+		height: 200px;
+		border-bottom-left-radius: 4px;
+		border-bottom-right-radius: 4px;
+		padding: 20px;
+		display: grid;
+		grid-template-rows: 1fr 1fr 1fr 1fr;
+		border-top: #A5A1A129 1px solid;
+	}
+
+	.guests-picker-title{
+		font-size: 25px;
+		font-weight: 500;
+	}
+
+	.guests-picker-sub-title{
+		font-size: 20px;		
+		color: '#B4B4B4';
+	}
+}
+
+.page-transparent-blocker {
+	position: absolute;
+	z-index: 1;
+	background-color: transparent;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.picker-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.selectors {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+	padding: 0 !important;
+}
+
+.picker-titles {
+	font-size: 18px;
+}
+
+.picker-subtitles {
+	font-size: 14px;
+}
+
+.picker-icon {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}

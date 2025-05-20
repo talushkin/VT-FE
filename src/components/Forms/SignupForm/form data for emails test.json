@@ -1,0 +1,48 @@
+{
+    "signup": false,
+    "pwdRules": [
+        {
+            "title": "One lowercase character",
+            "regexp": {},
+            "valid": false
+        },
+        {
+            "title": "One number",
+            "regexp": {},
+            "valid": true
+        },
+        {
+            "title": "Minimum 6 characters",
+            "regexp": {},
+            "valid": true
+        },
+        {
+            "title": "Uppercase and lowercase letters",
+            "regexp": {},
+            "valid": false
+        }
+    ],
+    "agency_name": "email-test1",
+    "agency_type": "Concierge company",
+    "web_site": "www.email-test1.com",
+    "first_name": "email-test1",
+    "last_name": "email-test1",
+    "country": "Australia",
+    "countryCode": "AU",
+    "address": "sdfjksldj",
+    "stateProvince": "sdfds",
+    "city": "sdfds",
+    "zipCode": "34235423",
+    "currency": "AZN",
+    "username": "",
+    "email": "email-test1@test.com",
+    "phone": "41235252353",
+    "organization": "CTO",
+    "password": "123456",
+    "confirmPassword": "123456",
+    "loading": false,
+    "emailConsent": true,
+    "error": {},
+    "verification_resend_status": "none",
+    "userData": {}
+}

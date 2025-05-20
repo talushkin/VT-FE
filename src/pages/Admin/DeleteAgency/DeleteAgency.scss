@@ -1,0 +1,48 @@
+.delete-agency-container {
+	border-radius: 10px;
+
+	.delete-agency-header {
+		display: flex;
+		justify-content: center;
+		background-color: #FDFDFD;
+		padding: 20px 0;
+		column-gap: 10px;
+		border-radius: 10px 10px 0 0;
+
+		.delete-agency-title {
+			font-size: 25px;
+			font-weight: bolder;
+			color: #133C73;
+		}
+	}
+
+	.delete-agency-main {
+		display: grid;
+		// grid-template-columns: 1fr 1fr;
+		padding: 20px;
+		border-top: 1px solid #E7E7E7;
+		border-bottom: 1px solid #E7E7E7;
+	}
+
+	.delete-agency-footer {
+		background-color: #FDFDFD;
+		height: 61px;
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+		margin-right: 10px;
+	}
+}
+
+.delete-title {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.hard-delete {
+	display: flex;
+	justify-content: flex-end;
+	padding: 10px;
+}

@@ -1,0 +1,140 @@
+.App {
+	text-align: center;
+}
+
+.App-logo {
+	height: 40vmin;
+	pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.App-logo {
+		animation: App-logo-spin infinite 20s linear;
+	}
+}
+
+::-webkit-input-placeholder {
+	color: #2C4861 !important;
+	opacity: 0.5 !important;
+}
+
+::-moz-placeholder {
+	color: #2C4861 !important;
+	opacity: 0.5 !important;
+}
+
+::-ms-placeholder {
+	color: #2C4861 !important;
+	opacity: 0.5 !important;
+}
+
+::placeholder {
+	color: #2C4861 !important;
+	opacity: 0.5 !important;
+}
+
+input {
+	// font-size: 20px !important;
+	font-size: 16px !important;
+}
+
+.App-header {
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.link18-date {
+	font-size: 20px;
+	font-weight: 500;
+	font-stretch: extra-condensed;
+	color: #284866;
+	cursor: pointer;
+	user-select: none;
+}
+
+.link {
+	color: #036AE1;
+	text-decoration: underline;
+	font-size: 20px;
+	user-select: none;
+	cursor: pointer;
+}
+
+.link18 {
+	@extend .link;
+	font-size: 25px;
+}
+
+.link18-bold {
+	@extend .link;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.link18-no-line {
+	font-size: 25px;
+	font-weight: 500;
+	color: #284866;
+	cursor: pointer;
+	user-select: none;
+}
+
+.link18-bold-no-line {
+	@extend .link;
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.small-link {
+	color: #036AE1;
+	text-decoration: underline;
+	font-size: 13px;
+	user-select: none;
+	cursor: pointer;
+}
+
+.App-link {
+	color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+	from {
+		transform: rotate(0deg);
+	}
+
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+
+@media screen and (max-width: 600px) {
+	.cst-cst-img {
+		text-align: center;
+	}
+	.image {
+		margin-top: 20px !important;
+		margin-left: 45px;
+	}
+}
+.currency{
+	font-size: 18px;
+}
+.homepage_section_cst {
+	background-image: url(assets/bk_pool.png);
+	background-size:auto;
+	height: 690px;
+	min-height: 100%;
+  }
+
+.modal-content-cst {
+	border: none;
+	border-radius: none;
+}

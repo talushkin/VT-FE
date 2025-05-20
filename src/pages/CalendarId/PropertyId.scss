@@ -1,0 +1,861 @@
+.property-page-wrapper {
+  // display: flex;
+  // flex-direction: column;
+  // align-items: center;
+
+  .property-page-container {
+    background-color: white;
+
+    .property-location {
+      width: 100%;
+      height: 600px;
+      padding: 15px 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      h1 {
+        display: flex;
+        padding: 15px 0;
+        font-weight: 600;
+      }
+    }
+    @media (max-width: 450px) {
+      width: 100%;
+    }
+  }
+
+  .property-main-top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+
+    .property-page-body-top-title {
+      font-size: 40px;
+      font-weight: 600;
+      text-align: start;
+      color: #284866;
+    }
+
+    .property-main-picture-container {
+      display: flex;
+      flex-direction: column;
+      grid-template-columns: 1fr 40px 700px 40px 1fr;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      padding: 15px 25px 0 25px;
+
+      .img-slider {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-width: 700px;
+      }
+
+      .property-main-picture {
+        width: 700px;
+        height: 470px;
+        position: relative;
+      }
+
+      .property-page-prev-next-pic {
+        padding: 8px;
+      }
+
+      .property-main-picture-bullets {
+        display: flex;
+        align-items: center;
+      }
+
+      .property-main-picture-icons {
+        display: flex;
+        align-self: flex-end;
+        justify-content: flex-end;
+
+        .property-main-picture-icon {
+          padding: 5px;
+          cursor: pointer;
+        }
+      }
+    }
+
+    @media (max-width: 450px) {
+      max-width: 100%;
+      padding: 10px;
+
+      .property-page-body-top-title {
+        font-size: 30px;
+        font-weight: 600;
+        text-align: start;
+        color: #284866;
+      }
+
+      .property-main-picture-container {
+        .property-main-picture {
+          width: 100% !important;
+          height: 270px;
+          position: relative;
+        }
+
+        .property-page-prev-next-pic {
+          padding: 5px;
+        }
+
+        .property-main-picture-icon {
+          padding: 3px;
+        }
+      }
+
+      .title-section {
+        padding: 10px 25px;
+      }
+    }
+  }
+
+  .property-page-body-top {
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    // grid-template-columns: 1fr 400px;
+
+    .property-page-body-top-left {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .property-page-body-top-left-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .property-page-body-top-left-info-amenities {
+          // display: grid;
+          // grid-template-columns: 1fr 1fr 1fr;
+
+          .property-page-body-top-left-info-amenity {
+            display: list-item;
+            margin: 5px 18px;
+          }
+        }
+
+        .property-page-body-feature-row {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding: 15px;
+        }
+
+        .property-page-body-top-left-info-amount {
+          display: flex;
+          color: #aaaaaa;
+          flex-direction: column;
+          width: 40px;
+          align-items: center;
+          margin-right: 60px;
+          font-size: 14px;
+          white-space: nowrap;
+        }
+
+        .amenities-section {
+          .property-page-body-top-left-info-amenity {
+            display: list-item;
+            margin: 5px 18px;
+          }
+        }
+
+        .property-rules {
+          text-align: start;
+
+          @media (min-width: 600px) {
+            text-align: center;
+          }
+        }
+      }
+
+      .property-page-body-top-left-info > * {
+        color: #284768;
+      }
+
+      .property-page-body-top-subtitle {
+        font-size: 25px;
+        text-align: start;
+        color: #284866;
+      }
+
+      .property-checkIn-checkOut {
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        // align-items: center;
+        justify-content: center;
+
+        .checkIn,
+        .checkOut {
+          gap: 15px;
+          width: 80%;
+          max-width: 600px;
+          display: flex;
+          align-items: center;
+
+          h1,
+          h3,
+          p {
+            font-size: 20px;
+            font-weight: 600;
+          }
+
+          .reservation-time {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-weight: 500;
+          }
+        }
+        @media (min-width: 600px) {
+          align-items: center;
+          .checkIn,
+          .checkOut {
+            align-items: center;
+            justify-content: center;
+          }
+        }
+      }
+    }
+
+    .property-page-body-top-right {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .property-page-body-top-dates {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+      }
+
+      .property-page-body-top-price {
+        font-size: 48px;
+        color: #284866;
+      }
+
+      .property-page-body-top-night {
+        font-size: 30px;
+        color: #284866;
+        padding: 10px;
+      }
+
+      .property-page-body-top-commission-price {
+        font-size: 28px;
+        font-weight: 600;
+        color: #284866;
+      }
+
+      .property-page-body-top-commission-title {
+        font-size: 28px !important;
+        color: #284866;
+      }
+
+      .property-page-body-top-date-title {
+        font-weight: bold;
+        font-size: 18px;
+        color: #284866;
+      }
+
+      .datePicker {
+        input {
+          font-weight: bold;
+        }
+      }
+
+      @media (max-width: 450px) {
+        .property-page-body-top-dates {
+          max-width: 75%;
+        }
+      }
+    }
+
+    @media (min-width: 450px) {
+      max-width: 90%;
+      padding: 0 5px;
+    }
+  }
+}
+.property-page-wrapper {
+  // display: flex;
+  // flex-direction: column;
+  // align-items: center;
+
+  .property-page-container {
+    background-color: white;
+
+    .property-location {
+      width: 100%;
+      height: 600px;
+      padding: 15px 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      h1 {
+        display: flex;
+        padding: 15px 0;
+        font-weight: 600;
+      }
+    }
+    @media (max-width: 450px) {
+      width: 100%;
+    }
+  }
+
+  .property-main-top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+
+    .property-page-body-top-title {
+      font-size: 40px;
+      font-weight: 600;
+      text-align: start;
+      color: #284866;
+    }
+
+    .property-main-picture-container {
+      display: flex;
+      flex-direction: column;
+      grid-template-columns: 1fr 40px 700px 40px 1fr;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      padding: 15px 25px 0 25px;
+
+      .img-slider {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-width: 700px;
+      }
+
+      .property-main-picture {
+        width: 700px;
+        height: 470px;
+        position: relative;
+      }
+
+      .property-page-prev-next-pic {
+        padding: 8px;
+      }
+
+      .property-main-picture-bullets {
+        display: flex;
+        align-items: center;
+      }
+
+      .property-main-picture-icons {
+        display: flex;
+        align-self: flex-end;
+        justify-content: flex-end;
+
+        .property-main-picture-icon {
+          padding: 5px;
+          cursor: pointer;
+        }
+      }
+    }
+
+    @media (max-width: 450px) {
+      max-width: 100%;
+      padding: 10px;
+
+      .property-page-body-top-title {
+        font-size: 30px;
+        font-weight: 600;
+        text-align: start;
+        color: #284866;
+      }
+
+      .property-main-picture-container {
+        .property-main-picture {
+          width: 100% !important;
+          height: 270px;
+          position: relative;
+        }
+
+        .property-page-prev-next-pic {
+          padding: 5px;
+        }
+
+        .property-main-picture-icon {
+          padding: 3px;
+        }
+      }
+
+      .title-section {
+        padding: 10px 25px;
+      }
+    }
+  }
+
+  .property-page-body-top {
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    // grid-template-columns: 1fr 400px;
+
+    .property-page-body-top-left {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .property-page-body-top-left-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .property-page-body-top-left-info-amenities {
+          // display: grid;
+          // grid-template-columns: 1fr 1fr 1fr;
+
+          .property-page-body-top-left-info-amenity {
+            display: list-item;
+            margin: 5px 18px;
+          }
+        }
+
+        .property-page-body-feature-row {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding: 15px;
+        }
+
+        .property-page-body-top-left-info-amount {
+          display: flex;
+          color: #aaaaaa;
+          flex-direction: column;
+          width: 40px;
+          align-items: center;
+          margin-right: 60px;
+          font-size: 14px;
+          white-space: nowrap;
+        }
+
+        .amenities-section {
+          .property-page-body-top-left-info-amenity {
+            display: list-item;
+            margin: 5px 18px;
+          }
+        }
+
+        .property-rules {
+          text-align: start;
+
+          @media (min-width: 600px) {
+            text-align: center;
+          }
+        }
+      }
+
+      .property-page-body-top-left-info > * {
+        color: #284768;
+      }
+
+      .property-page-body-top-subtitle {
+        font-size: 25px;
+        text-align: start;
+        color: #284866;
+      }
+
+      .property-checkIn-checkOut {
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        // align-items: center;
+        justify-content: center;
+
+        .checkIn,
+        .checkOut {
+          gap: 15px;
+          width: 80%;
+          max-width: 600px;
+          display: flex;
+          align-items: center;
+
+          h1,
+          h3,
+          p {
+            font-size: 20px;
+            font-weight: 600;
+          }
+
+          .reservation-time {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-weight: 500;
+          }
+        }
+        @media (min-width: 600px) {
+          align-items: center;
+          .checkIn,
+          .checkOut {
+            align-items: center;
+            justify-content: center;
+          }
+        }
+      }
+    }
+
+    .property-page-body-top-right {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .property-page-body-top-dates {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+      }
+
+      .property-page-body-top-price {
+        font-size: 48px;
+        color: #284866;
+      }
+
+      .property-page-body-top-night {
+        font-size: 30px;
+        color: #284866;
+        padding: 10px;
+      }
+
+      .property-page-body-top-commission-price {
+        font-size: 28px;
+        font-weight: 600;
+        color: #284866;
+      }
+
+      .property-page-body-top-commission-title {
+        font-size: 28px !important;
+        color: #284866;
+      }
+
+      .property-page-body-top-date-title {
+        font-weight: bold;
+        font-size: 18px;
+        color: #284866;
+      }
+
+      .datePicker {
+        input {
+          font-weight: bold;
+        }
+      }
+
+      @media (max-width: 450px) {
+        .property-page-body-top-dates {
+          max-width: 75%;
+        }
+      }
+    }
+
+    @media (min-width: 450px) {
+      max-width: 90%;
+      padding: 0 5px;
+    }
+  }
+}
+.property-page-wrapper {
+  // display: flex;
+  // flex-direction: column;
+  // align-items: center;
+
+  .property-page-container {
+    background-color: white;
+
+    .property-location {
+      width: 100%;
+      height: 600px;
+      padding: 15px 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      h1 {
+        display: flex;
+        padding: 15px 0;
+        font-weight: 600;
+      }
+    }
+    @media (max-width: 450px) {
+      width: 100%;
+    }
+  }
+
+  .property-main-top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+
+    .property-page-body-top-title {
+      font-size: 40px;
+      font-weight: 600;
+      text-align: start;
+      color: #284866;
+    }
+
+    .property-main-picture-container {
+      display: flex;
+      flex-direction: column;
+      grid-template-columns: 1fr 40px 700px 40px 1fr;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+      padding: 15px 25px 0 25px;
+
+      .img-slider {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-width: 700px;
+      }
+
+      .property-main-picture {
+        width: 700px;
+        height: 470px;
+        position: relative;
+      }
+
+      .property-page-prev-next-pic {
+        padding: 8px;
+      }
+
+      .property-main-picture-bullets {
+        display: flex;
+        align-items: center;
+      }
+
+      .property-main-picture-icons {
+        display: flex;
+        align-self: flex-end;
+        justify-content: flex-end;
+
+        .property-main-picture-icon {
+          padding: 5px;
+          cursor: pointer;
+        }
+      }
+    }
+
+    @media (max-width: 450px) {
+      max-width: 100%;
+      padding: 10px;
+
+      .property-page-body-top-title {
+        font-size: 30px;
+        font-weight: 600;
+        text-align: start;
+        color: #284866;
+      }
+
+      .property-main-picture-container {
+        .property-main-picture {
+          width: 100% !important;
+          height: 270px;
+          position: relative;
+        }
+
+        .property-page-prev-next-pic {
+          padding: 5px;
+        }
+
+        .property-main-picture-icon {
+          padding: 3px;
+        }
+      }
+
+      .title-section {
+        padding: 10px 25px;
+      }
+    }
+  }
+
+  .property-page-body-top {
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    // grid-template-columns: 1fr 400px;
+
+    .property-page-body-top-left {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .property-page-body-top-left-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        .property-page-body-top-left-info-amenities {
+          // display: grid;
+          // grid-template-columns: 1fr 1fr 1fr;
+
+          .property-page-body-top-left-info-amenity {
+            display: list-item;
+            margin: 5px 18px;
+          }
+        }
+
+        .property-page-body-feature-row {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding: 15px;
+        }
+
+        .property-page-body-top-left-info-amount {
+          display: flex;
+          color: #aaaaaa;
+          flex-direction: column;
+          width: 40px;
+          align-items: center;
+          margin-right: 60px;
+          font-size: 14px;
+          white-space: nowrap;
+        }
+
+        .amenities-section {
+          .property-page-body-top-left-info-amenity {
+            display: list-item;
+            margin: 5px 18px;
+          }
+        }
+
+        .property-rules {
+          text-align: start;
+
+          @media (min-width: 600px) {
+            text-align: center;
+          }
+        }
+      }
+
+      .property-page-body-top-left-info > * {
+        color: #284768;
+      }
+
+      .property-page-body-top-subtitle {
+        font-size: 25px;
+        text-align: start;
+        color: #284866;
+      }
+
+      .property-checkIn-checkOut {
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        // align-items: center;
+        justify-content: center;
+
+        .checkIn,
+        .checkOut {
+          gap: 15px;
+          width: 80%;
+          max-width: 600px;
+          display: flex;
+          align-items: center;
+
+          h1,
+          h3,
+          p {
+            font-size: 20px;
+            font-weight: 600;
+          }
+
+          .reservation-time {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-weight: 500;
+          }
+        }
+        @media (min-width: 600px) {
+          align-items: center;
+          .checkIn,
+          .checkOut {
+            align-items: center;
+            justify-content: center;
+          }
+        }
+      }
+    }
+
+    .property-page-body-top-right {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .property-page-body-top-dates {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+      }
+
+      .property-page-body-top-price {
+        font-size: 48px;
+        color: #284866;
+      }
+
+      .property-page-body-top-night {
+        font-size: 30px;
+        color: #284866;
+        padding: 10px;
+      }
+
+      .property-page-body-top-commission-price {
+        font-size: 28px;
+        font-weight: 600;
+        color: #284866;
+      }
+
+      .property-page-body-top-commission-title {
+        font-size: 28px !important;
+        color: #284866;
+      }
+
+      .property-page-body-top-date-title {
+        font-weight: bold;
+        font-size: 18px;
+        color: #284866;
+      }
+
+      .datePicker {
+        input {
+          font-weight: bold;
+        }
+      }
+
+      @media (max-width: 450px) {
+        .property-page-body-top-dates {
+          max-width: 75%;
+        }
+      }
+    }
+
+    @media (min-width: 450px) {
+      max-width: 90%;
+      padding: 0 5px;
+    }
+  }
+}

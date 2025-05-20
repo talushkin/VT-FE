@@ -1,0 +1,36 @@
+.paging-container {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	user-select: none;
+	
+
+	.paging-prev-next {
+		font-size: 18px;
+		color: #1E3E5D;
+		font-weight: 500;
+		padding: 10px;
+		cursor: pointer;
+	}
+
+	.paging-number {
+		font-size: 18px;
+		color: #555555;
+		padding: 10px;
+		cursor: pointer;
+	}
+
+	.paging-number-selected {
+		@extend .paging-number;
+		color: #555555;
+		font-weight: bold;
+		background-color: #F5F5F2;
+		width: 34px;
+		height: 34px;
+		border-radius: 50%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		cursor: default;
+	}
+}

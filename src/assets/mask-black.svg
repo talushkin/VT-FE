@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1659" height="1015" viewBox="0 0 1659 1015">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-160" y="118" width="1659" height="1015" fill="black"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect y="97" width="1659" height="1022" fill="black"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.414" y1="-0.101" x2="0.362" y2="0.397" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004981" stop-opacity="0.761"/>
+      <stop offset="1" stop-color="#1c2d3d"/>
+    </linearGradient>
+  </defs>
+  <g id="Scroll_Group_20" data-name="Scroll Group 20" transform="translate(160 -118)" opacity="0.61" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Scroll_Group_22" data-name="Scroll Group 22" transform="translate(-160 14)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+      <rect id="Rectangle_229" data-name="Rectangle 229" width="1659" height="1435" transform="translate(0 -219)" opacity="0.7" fill="url(#linear-gradient)" style="mix-blend-mode: color;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+.box-shadow-remover > .css-80pr5n-MuiPaper-root {
+  box-shadow: none !important;
+}
+
+.r-m-t > div > div:first-child {
+  display: none !important;
+}
+
+.MuiBox-root .css-1habcj5 {
+  display: none !important;
+}

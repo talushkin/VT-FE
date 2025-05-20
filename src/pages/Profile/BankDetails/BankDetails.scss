@@ -1,0 +1,47 @@
+.bank-details-container {
+	border-radius: 10px;
+
+	.bank-details-header {
+		display: flex;
+		justify-content: center;
+		background-color: #FDFDFD;
+		padding: 10px 0;
+		column-gap: 30px;
+		border-radius: 10px 10px 0 0 ;
+
+		.bank-details-title {
+			font-size: 35px;
+			font-weight: 500;
+			color: #133C73;
+		}
+	}
+
+	.bank-details-main {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		padding: 20px;
+		border: 1px solid #E7E7E7;
+		border-width: 1px 0;
+	}
+
+	.bank-details-footer {
+		background-color: #FDFDFD;
+		height: 100px;
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+		margin-right: 20px;
+	}
+}
+@media screen and (max-width: 767px) {
+	.mobile-bank {
+	  padding-left: 2.5rem !important;
+	//   height: 258px !important;
+	}
+  }
+  @media screen and (max-width: 767px) {
+	.mobile-bank-width {
+	  width: 80% !important;
+	  margin-left: 10% !important;
+	}
+  }

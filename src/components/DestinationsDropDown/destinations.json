@@ -1,0 +1,3717 @@
+{
+    "destinations": {
+        "Albania": {
+            "regions": {
+                "Qarku i Vlorës": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 39.873054,
+                            "lng": 20.004453
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 39.873054,
+                    "lng": 20.004453
+                }
+            },
+            "cnt": 1,
+            "lat": 39.873054,
+            "lng": 20.004453
+        },
+        "Anguilla": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 18.2336857,
+                            "lng": -63.0698269
+                        },
+                        "the Caribbean": {
+                            "cnt": 1,
+                            "lat": 18.1751281,
+                            "lng": -63.15212340000001
+                        },
+                        "the Caribbeans": {
+                            "cnt": 1,
+                            "lat": 18.1877777,
+                            "lng": -63.13105179999999
+                        },
+                        "the caribbeans": {
+                            "cnt": 1,
+                            "lat": 18.1877777,
+                            "lng": -63.13105179999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 18.1877777,
+                    "lng": -63.13105179999999
+                }
+            },
+            "cnt": 1,
+            "lat": 18.1877777,
+            "lng": -63.13105179999999
+        },
+        "Aruba": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 12.6007781,
+                            "lng": -70.046571
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 12.6007781,
+                    "lng": -70.046571
+                }
+            },
+            "cnt": 1,
+            "lat": 12.6007781,
+            "lng": -70.046571
+        },
+        "Austria": {
+            "regions": {
+                "Styria": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 47.516231,
+                            "lng": 14.550072
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 47.516231,
+                    "lng": 14.550072
+                },
+                "Tirol": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.9153932,
+                            "lng": 12.3248353
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.9153932,
+                    "lng": 12.3248353
+                },
+                "Vorarlberg": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Lech": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 47.0206806,
+                            "lng": 9.974086699999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 47.0206806,
+                    "lng": 9.974086699999999
+                }
+            },
+            "cnt": 1,
+            "lat": 47.0206806,
+            "lng": 9.974086699999999
+        },
+        "Barbados": {
+            "regions": {
+                "Saint James": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 13.141569,
+                            "lng": -59.63690090000001
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 13.141569,
+                    "lng": -59.63690090000001
+                }
+            },
+            "cnt": 1,
+            "lat": 13.141569,
+            "lng": -59.63690090000001
+        },
+        "Botswana": {
+            "regions": {
+                "North-West District": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -19.6510095,
+                            "lng": 22.9058802
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -19.6510095,
+                    "lng": 22.9058802
+                }
+            },
+            "cnt": 1,
+            "lat": -19.6510095,
+            "lng": 22.9058802
+        },
+        "British Virgin Islands": {
+            "regions": {
+                "Virgin Gorda": {
+                    "counties": {
+                        "Caribbean": {
+                            "cities": {
+                                "Spanish Town": {
+                                    "cnt": 16
+                                }
+                            },
+                            "cnt": 16,
+                            "lat": 18.5267666,
+                            "lng": -64.35862759999999
+                        }
+                    },
+                    "cnt": 16,
+                    "lat": 18.5267666,
+                    "lng": -64.35862759999999
+                }
+            },
+            "cnt": 16,
+            "lat": 18.5267666,
+            "lng": -64.35862759999999
+        },
+        "Cambodia": {
+            "regions": {
+                "Siem Reap Province": {
+                    "counties": {
+                        "": {
+                            "cnt": 3,
+                            "lat": 13.3485548,
+                            "lng": 103.8586668
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 13.3485548,
+                    "lng": 103.8586668
+                }
+            },
+            "cnt": 3,
+            "lat": 13.3485548,
+            "lng": 103.8586668
+        },
+        "Costa Rica": {
+            "regions": {
+                "Guanacaste Province": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 10.292147,
+                            "lng": -85.8492034
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 10.292147,
+                    "lng": -85.8492034
+                },
+                "Provincia de Guanacaste": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 10.6267031,
+                            "lng": -85.68201069999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 10.6267031,
+                    "lng": -85.68201069999999
+                },
+                "Provincia de Puntarenas": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 9.695140499999999,
+                            "lng": -85.01439250000001
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 9.695140499999999,
+                    "lng": -85.01439250000001
+                },
+                "Puntarenas Province": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": 9.4000205,
+                            "lng": -84.1593619
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 9.4000205,
+                    "lng": -84.1593619
+                }
+            },
+            "cnt": 2,
+            "lat": 9.4000205,
+            "lng": -84.1593619
+        },
+        "Croatia": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 43.3580935,
+                            "lng": 16.3668434
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 43.3580935,
+                    "lng": 16.3668434
+                },
+                "Brač": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 43.287196,
+                            "lng": 16.869177
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 43.287196,
+                    "lng": 16.869177
+                },
+                "Dubrovačko-neretvanska županija": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Dubrovnik": {
+                                    "cnt": 22
+                                },
+                                "Zaton": {
+                                    "cnt": 9
+                                },
+                                "Žrnovo": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 5,
+                            "lat": 42.9580518,
+                            "lng": 17.1105149
+                        },
+                        "Italy": {
+                            "cnt": 1,
+                            "lat": 42.97400630000001,
+                            "lng": 17.1765011
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 42.97400630000001,
+                    "lng": 17.1765011
+                },
+                "Dubrovnik-Neretva": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 42.701372617588476,
+                            "lng": 18.038845668883162
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 42.701372617588476,
+                    "lng": 18.038845668883162
+                },
+                "Dubrovnik-Neretva County": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 42.96323750000001,
+                            "lng": 17.0977969
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 42.96323750000001,
+                    "lng": 17.0977969
+                },
+                "Grad Zagreb": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.8116736,
+                            "lng": 15.9677472
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.8116736,
+                    "lng": 15.9677472
+                },
+                "Istarska županija": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Vabriga": {
+                                    "cnt": 12
+                                }
+                            },
+                            "cnt": 4,
+                            "lat": 45.2925423,
+                            "lng": 13.6119282
+                        }
+                    },
+                    "cnt": 4,
+                    "lat": 45.2925423,
+                    "lng": 13.6119282
+                },
+                "Istria County": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.1378625,
+                            "lng": 13.6295156
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.1378625,
+                    "lng": 13.6295156
+                },
+                "Lika-Senj County": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 44.6884375,
+                            "lng": 14.7446875
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 44.6884375,
+                    "lng": 14.7446875
+                },
+                "Ličko-senjska županija": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 44.4569645,
+                            "lng": 15.7893627
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 44.4569645,
+                    "lng": 15.7893627
+                },
+                "Primorsko-goranska županija": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.3020136,
+                            "lng": 14.4912424
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.3020136,
+                    "lng": 14.4912424
+                },
+                "Split-Dalmatia County": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 43.1640247,
+                            "lng": 16.5230542
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 43.1640247,
+                    "lng": 16.5230542
+                },
+                "Splitsko-dalmatinska županija": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Hvar": {
+                                    "cnt": 10
+                                },
+                                "Selca": {
+                                    "cnt": 16
+                                },
+                                "Sutivan": {
+                                    "cnt": 11
+                                },
+                                "Bol": {
+                                    "cnt": 5
+                                },
+                                "Milna": {
+                                    "cnt": 6
+                                },
+                                "Split": {
+                                    "cnt": 13
+                                },
+                                "Sumartin": {
+                                    "cnt": 7
+                                },
+                                "Supetar": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 43.323143,
+                            "lng": 17.134951
+                        },
+                        "Crotia": {
+                            "cnt": 1,
+                            "lat": 43.2787289,
+                            "lng": 16.8607221
+                        },
+                        "Switzerland": {
+                            "cnt": 1,
+                            "lat": 43.5754563,
+                            "lng": 16.3342868
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 43.5754563,
+                    "lng": 16.3342868
+                },
+                "Zadar County": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 44.2663125,
+                            "lng": 15.5948125
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 44.2663125,
+                    "lng": 15.5948125
+                },
+                "Zadarska županija": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 44.4674011,
+                            "lng": 15.0162303
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 44.4674011,
+                    "lng": 15.0162303
+                },
+                "Šibenik-Knin County": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 43.8316875,
+                            "lng": 15.9001875
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 43.8316875,
+                    "lng": 15.9001875
+                },
+                "Šibensko-kninska županija": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Primošten": {
+                                    "cnt": 13
+                                }
+                            },
+                            "cnt": 2,
+                            "lat": 43.6968494,
+                            "lng": 15.8881101
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 43.6968494,
+                    "lng": 15.8881101
+                }
+            },
+            "cnt": 2,
+            "lat": 43.6968494,
+            "lng": 15.8881101
+        },
+        "Curaçao": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 12.383333,
+                            "lng": -69.15
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 12.383333,
+                    "lng": -69.15
+                }
+            },
+            "cnt": 1,
+            "lat": 12.383333,
+            "lng": -69.15
+        },
+        "Cyprus": {
+            "regions": {
+                "Ammochostos": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Protaras": {
+                                    "cnt": 13
+                                }
+                            },
+                            "cnt": 8,
+                            "lat": 35.0043781,
+                            "lng": 34.0583687
+                        }
+                    },
+                    "cnt": 8,
+                    "lat": 35.0043781,
+                    "lng": 34.0583687
+                },
+                "Baf": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 34.8614602,
+                            "lng": 32.753589
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 34.8614602,
+                    "lng": 32.753589
+                },
+                "Famagusta": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 34.9863022,
+                            "lng": 34.0653771
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 34.9863022,
+                    "lng": 34.0653771
+                },
+                "Gazimağusa": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 35.00118,
+                            "lng": 34.047436
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 35.00118,
+                    "lng": 34.047436
+                },
+                "Girne": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 35.337725,
+                            "lng": 33.522213
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 35.337725,
+                    "lng": 33.522213
+                },
+                "Larnaca": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 34.8568642,
+                            "lng": 33.5995463
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 34.8568642,
+                    "lng": 33.5995463
+                },
+                "Limasol": {
+                    "counties": {
+                        "": {
+                            "cnt": 3,
+                            "lat": 34.6701466,
+                            "lng": 33.0404296
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 34.6701466,
+                    "lng": 33.0404296
+                },
+                "Limassol": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 34.7555488,
+                            "lng": 32.8140914
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 34.7555488,
+                    "lng": 32.8140914
+                },
+                "Paphos": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Peyia": {
+                                    "cnt": 7
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 34.8950317,
+                            "lng": 32.3786389
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 34.8950317,
+                    "lng": 32.3786389
+                }
+            },
+            "cnt": 1,
+            "lat": 34.8950317,
+            "lng": 32.3786389
+        },
+        "Denmark": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "København": {
+                                    "cnt": 43
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 55.836781,
+                            "lng": 12.265868
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 55.836781,
+                    "lng": 12.265868
+                }
+            },
+            "cnt": 1,
+            "lat": 55.836781,
+            "lng": 12.265868
+        },
+        "Dominican Republic": {
+            "regions": {
+                "La Altagracia": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 18.4824731,
+                            "lng": -68.40928629999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 18.4824731,
+                    "lng": -68.40928629999999
+                }
+            },
+            "cnt": 1,
+            "lat": 18.4824731,
+            "lng": -68.40928629999999
+        },
+        "Finland": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "Nordic": {
+                            "cnt": 1,
+                            "lat": 66.50403539999999,
+                            "lng": 25.7297106
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 66.50403539999999,
+                    "lng": 25.7297106
+                }
+            },
+            "cnt": 1,
+            "lat": 66.50403539999999,
+            "lng": 25.7297106
+        },
+        "France": {
+            "regions": {
+                "Auvergne-Rhône-Alpes": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Chamonix-Mont-Blanc": {
+                                    "cnt": 26
+                                },
+                                "Courchevel": {
+                                    "cnt": 89
+                                },
+                                "Les Allues": {
+                                    "cnt": 21
+                                },
+                                "Megève": {
+                                    "cnt": 104
+                                },
+                                "Val-d'Isère": {
+                                    "cnt": 31
+                                },
+                                "Demi-Quartier": {
+                                    "cnt": 6
+                                },
+                                "Saint-Gervais-les-Bains": {
+                                    "cnt": 7
+                                },
+                                "Savoie": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 19,
+                            "lat": 45.442258,
+                            "lng": 7.014155300000001
+                        },
+                        "French Alps": {
+                            "cities": {
+                                "Chamonix-Mont-Blanc": {
+                                    "cnt": 10
+                                },
+                                "Combloux": {
+                                    "cnt": 6
+                                },
+                                "Courchevel": {
+                                    "cnt": 19
+                                },
+                                "Megève": {
+                                    "cnt": 6
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 45.689819,
+                            "lng": 5.038445
+                        },
+                        "Greece": {
+                            "cnt": 2,
+                            "lat": 45.976013,
+                            "lng": 6.923727
+                        },
+                        "Italy": {
+                            "cnt": 1,
+                            "lat": 45.852462,
+                            "lng": 6.7236767
+                        },
+                        "Switzerland": {
+                            "cnt": 1,
+                            "lat": 45.8568179,
+                            "lng": 6.6178
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.8568179,
+                    "lng": 6.6178
+                },
+                "Bretagne": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 47.828865,
+                            "lng": -3.741393
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 47.828865,
+                    "lng": -3.741393
+                },
+                "Centre-Val de Loire": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 47.86541,
+                            "lng": 1.897565
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 47.86541,
+                    "lng": 1.897565
+                },
+                "Corse": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 41.657478,
+                            "lng": 9.3515297
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 41.657478,
+                    "lng": 9.3515297
+                },
+                "Corsica": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 41.8053399,
+                            "lng": 9.3562094
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 41.8053399,
+                    "lng": 9.3562094
+                },
+                "Grand Est": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 48.423344,
+                            "lng": 7.663052
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 48.423344,
+                    "lng": 7.663052
+                },
+                "Idaho": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 43.549264,
+                            "lng": 7.016954999999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 43.549264,
+                    "lng": 7.016954999999999
+                },
+                "Normandie": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 49.36628899999999,
+                            "lng": 0.08280799999999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 49.36628899999999,
+                    "lng": 0.08280799999999999
+                },
+                "Nouvelle-Aquitaine": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Courtabœuf Cedex": {
+                                    "cnt": 15
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 44.734344,
+                            "lng": 0.483424
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 44.734344,
+                    "lng": 0.483424
+                },
+                "Occitanie": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 44.0422889,
+                            "lng": 4.474676
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 44.0422889,
+                    "lng": 4.474676
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Cannes": {
+                                    "cnt": 35
+                                },
+                                "Pampelonne": {
+                                    "cnt": 5
+                                },
+                                "Ramatuelle": {
+                                    "cnt": 16
+                                },
+                                "Saint-Tropez": {
+                                    "cnt": 73
+                                },
+                                "Gassin": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 2,
+                            "lat": 43.7297731,
+                            "lng": 7.358382199999999
+                        },
+                        "Greece": {
+                            "cnt": 1,
+                            "lat": 43.577244,
+                            "lng": 7.055041
+                        },
+                        "france": {
+                            "cnt": 2,
+                            "lat": 43.254856,
+                            "lng": 6.6377888
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 43.254856,
+                    "lng": 6.6377888
+                },
+                "Saint Barthélemy": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 17.901913,
+                            "lng": -62.7957
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 17.901913,
+                    "lng": -62.7957
+                },
+                "Île-de-France": {
+                    "counties": {
+                        "": {
+                            "cnt": 3,
+                            "lat": 48.8564728,
+                            "lng": 2.3524505
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 48.8564728,
+                    "lng": 2.3524505
+                }
+            },
+            "cnt": 3,
+            "lat": 48.8564728,
+            "lng": 2.3524505
+        },
+        "Germany": {
+            "regions": {
+                "Baden-Württemberg": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 47.594067,
+                            "lng": 7.625886
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 47.594067,
+                    "lng": 7.625886
+                },
+                "Hamburg": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 53.590649,
+                            "lng": 9.98976
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 53.590649,
+                    "lng": 9.98976
+                },
+                "Hessen": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 50.1461499,
+                            "lng": 8.4985871
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 50.1461499,
+                    "lng": 8.4985871
+                },
+                "Niedersachsen": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 52.6178287,
+                            "lng": 10.0629012
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 52.6178287,
+                    "lng": 10.0629012
+                },
+                "Nordrhein-Westfalen": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 51.3386611,
+                            "lng": 6.5852824
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 51.3386611,
+                    "lng": 6.5852824
+                }
+            },
+            "cnt": 1,
+            "lat": 51.3386611,
+            "lng": 6.5852824
+        },
+        "Greece": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 206
+                                },
+                                "Agios Ioannis Diakoftis": {
+                                    "cnt": 18
+                                },
+                                "Ampelas": {
+                                    "cnt": 9
+                                },
+                                "Chania": {
+                                    "cnt": 15
+                                },
+                                "Elia": {
+                                    "cnt": 23
+                                },
+                                "Mikonos": {
+                                    "cnt": 115
+                                },
+                                "Agia Marina": {
+                                    "cnt": 6
+                                },
+                                "Ano Mera": {
+                                    "cnt": 8
+                                },
+                                "Kalafati": {
+                                    "cnt": 9
+                                },
+                                "Lefkada": {
+                                    "cnt": 5
+                                },
+                                "Ornos": {
+                                    "cnt": 9
+                                },
+                                "Schisma Elountas": {
+                                    "cnt": 9
+                                },
+                                "Vamos": {
+                                    "cnt": 5
+                                },
+                                "Faros Armenistis": {
+                                    "cnt": 10
+                                },
+                                "Naousa": {
+                                    "cnt": 10
+                                },
+                                "Paros": {
+                                    "cnt": 9
+                                },
+                                "Pirgos Kallistis": {
+                                    "cnt": 5
+                                },
+                                "Thira": {
+                                    "cnt": 7
+                                },
+                                "Tourlos": {
+                                    "cnt": 13
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 36.3739364,
+                            "lng": 28.1932306
+                        },
+                        "GREECE": {
+                            "cnt": 1,
+                            "lat": 37.4781183,
+                            "lng": 25.3610403
+                        },
+                        "Mykonos": {
+                            "cnt": 1,
+                            "lat": 37.4452472,
+                            "lng": 25.3283988
+                        },
+                        "greece": {
+                            "cnt": 1,
+                            "lat": 37.4524759,
+                            "lng": 25.3987988
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 37.4524759,
+                    "lng": 25.3987988
+                },
+                "Aegean": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": 37.483501,
+                            "lng": 25.326723
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 37.483501,
+                    "lng": 25.326723
+                },
+                "Attica": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 37.266079,
+                            "lng": 23.15612
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 37.266079,
+                    "lng": 23.15612
+                },
+                "Crete": {
+                    "counties": {
+                        "": {
+                            "cnt": 4,
+                            "lat": 35.55,
+                            "lng": 24.133333
+                        }
+                    },
+                    "cnt": 4,
+                    "lat": 35.55,
+                    "lng": 24.133333
+                },
+                "Mykonos": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 37.415532,
+                            "lng": 25.33318
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 37.415532,
+                    "lng": 25.33318
+                },
+                "Paros": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 37.132833,
+                            "lng": 25.274778
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 37.132833,
+                    "lng": 25.274778
+                },
+                "Peloponnisos Dytiki Ellada ke Ionio": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 38.599682,
+                            "lng": 20.633682
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 38.599682,
+                    "lng": 20.633682
+                }
+            },
+            "cnt": 1,
+            "lat": 38.599682,
+            "lng": 20.633682
+        },
+        "Grenada": {
+            "regions": {
+                "Saint George": {
+                    "counties": {
+                        "Greece": {
+                            "cnt": 1,
+                            "lat": 12.0005625,
+                            "lng": -61.7521875
+                        },
+                        "": {
+                            "cnt": 2,
+                            "lat": 12.0005625,
+                            "lng": -61.7521875
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 12.0005625,
+                    "lng": -61.7521875
+                }
+            },
+            "cnt": 2,
+            "lat": 12.0005625,
+            "lng": -61.7521875
+        },
+        "Guadeloupe": {
+            "regions": {
+                "Basse-Terre": {
+                    "counties": {
+                        "France": {
+                            "cnt": 1,
+                            "lat": 16.1832995,
+                            "lng": -61.6541531
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 16.1832995,
+                    "lng": -61.6541531
+                },
+                "Grande-Terre": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": 16.2171408,
+                            "lng": -61.5225789
+                        },
+                        "Caribbean": {
+                            "cnt": 1,
+                            "lat": 16.2483946,
+                            "lng": -61.18128729999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 16.2483946,
+                    "lng": -61.18128729999999
+                }
+            },
+            "cnt": 1,
+            "lat": 16.2483946,
+            "lng": -61.18128729999999
+        },
+        "Indonesia": {
+            "regions": {
+                "Bali": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 35
+                                }
+                            },
+                            "cnt": 2,
+                            "lat": -8.6445861,
+                            "lng": 115.1124261
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": -8.6445861,
+                    "lng": 115.1124261
+                }
+            },
+            "cnt": 2,
+            "lat": -8.6445861,
+            "lng": 115.1124261
+        },
+        "Israel": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 32.936787,
+                            "lng": 35.636974
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 32.936787,
+                    "lng": 35.636974
+                },
+                "Center District": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 32.3305893,
+                            "lng": 34.9770534
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 32.3305893,
+                    "lng": 34.9770534
+                },
+                "Haida District": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 32.525042,
+                            "lng": 34.946528
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 32.525042,
+                    "lng": 34.946528
+                },
+                "Haifa District": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Caesarea": {
+                                    "cnt": 55
+                                }
+                            },
+                            "cnt": 2,
+                            "lat": 32.509939,
+                            "lng": 34.92061899999999
+                        },
+                        "Caesarea": {
+                            "cnt": 1,
+                            "lat": 32.5205483,
+                            "lng": 34.9038789
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 32.509939,
+                    "lng": 34.92061899999999
+                },
+                "Jerusalem District": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Jerusalem": {
+                                    "cnt": 28
+                                }
+                            },
+                            "cnt": 2,
+                            "lat": 31.77334,
+                            "lng": 35.221771
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 31.77334,
+                    "lng": 35.221771
+                },
+                "North District": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Ben Ami": {
+                                    "cnt": 6
+                                },
+                                "Kinneret": {
+                                    "cnt": 7
+                                },
+                                "Migdal": {
+                                    "cnt": 9
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 33.053581,
+                            "lng": 35.589012
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 33.053581,
+                    "lng": 35.589012
+                },
+                "South District": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Eilat": {
+                                    "cnt": 13
+                                }
+                            },
+                            "cnt": 4,
+                            "lat": 29.5453179,
+                            "lng": 34.9409298
+                        }
+                    },
+                    "cnt": 4,
+                    "lat": 29.5453179,
+                    "lng": 34.9409298
+                },
+                "Tel Aviv District": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Herzliya": {
+                                    "cnt": 11
+                                },
+                                "Tel Aviv-Yafo": {
+                                    "cnt": 46
+                                }
+                            },
+                            "cnt": 16,
+                            "lat": 32.0698294,
+                            "lng": 34.7650168
+                        }
+                    },
+                    "cnt": 16,
+                    "lat": 32.0698294,
+                    "lng": 34.7650168
+                }
+            },
+            "cnt": 16,
+            "lat": 32.0698294,
+            "lng": 34.7650168
+        },
+        "Italy": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 41.028507,
+                            "lng": 9.541115
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 41.028507,
+                    "lng": 9.541115
+                },
+                "Abruzzo": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 42.0238012,
+                            "lng": 14.2602155
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 42.0238012,
+                    "lng": 14.2602155
+                },
+                "Apulia": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 40.7130625,
+                            "lng": 17.5873125
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 40.7130625,
+                    "lng": 17.5873125
+                },
+                "Campania": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 40.6099508,
+                            "lng": 14.3890572
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 40.6099508,
+                    "lng": 14.3890572
+                },
+                "Emilia-Romagna": {
+                    "counties": {
+                        "": {
+                            "cnt": 3,
+                            "lat": 44.0705625,
+                            "lng": 11.7226875
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 44.0705625,
+                    "lng": 11.7226875
+                },
+                "Lazio": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 42.383792,
+                            "lng": 12.278172
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 42.383792,
+                    "lng": 12.278172
+                },
+                "Liguria": {
+                    "counties": {
+                        "": {
+                            "cnt": 3,
+                            "lat": 44.0721771,
+                            "lng": 9.983462699999999
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 44.0721771,
+                    "lng": 9.983462699999999
+                },
+                "Lombardia": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Como": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 45.9813243,
+                            "lng": 9.2131869
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.9813243,
+                    "lng": 9.2131869
+                },
+                "Lombardy": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.9561875,
+                            "lng": 9.251453099999999
+                        },
+                        "ITALY": {
+                            "cnt": 1,
+                            "lat": 46.0160486,
+                            "lng": 9.257167599999999
+                        },
+                        "italy": {
+                            "cnt": 2,
+                            "lat": 46.0160486,
+                            "lng": 9.257167599999999
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 46.0160486,
+                    "lng": 9.257167599999999
+                },
+                "Marche": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": 43.0192167,
+                            "lng": 13.4951749
+                        },
+                        "Croatia": {
+                            "cnt": 1,
+                            "lat": 43.13256,
+                            "lng": 13.26634
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 43.0192167,
+                    "lng": 13.4951749
+                },
+                "Piedmont": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": 45.8148125,
+                            "lng": 8.554812499999999
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 45.8148125,
+                    "lng": 8.554812499999999
+                },
+                "Piemonte": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.884733,
+                            "lng": 8.526674
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.884733,
+                    "lng": 8.526674
+                },
+                "Puglia": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 7
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 40.4037118,
+                            "lng": 17.5573229
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 40.4037118,
+                    "lng": 17.5573229
+                },
+                "Sardegna": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Liscia di Vacca": {
+                                    "cnt": 7
+                                },
+                                "Capo Coda Cavallo": {
+                                    "cnt": 11
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 40.6818244,
+                            "lng": 9.635560000000002
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 40.6818244,
+                    "lng": 9.635560000000002
+                },
+                "Sardinia": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 40.0051875,
+                            "lng": 9.5784375
+                        },
+                        "italy": {
+                            "cnt": 1,
+                            "lat": 40.120878,
+                            "lng": 9.0128875
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 40.120878,
+                    "lng": 9.0128875
+                },
+                "Sicilia": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 10
+                                },
+                                "Cefalù": {
+                                    "cnt": 10
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 37.851637,
+                            "lng": 15.285313
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 37.851637,
+                    "lng": 15.285313
+                },
+                "Sicily": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 37.9185625,
+                            "lng": 12.2978125
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 37.9185625,
+                    "lng": 12.2978125
+                },
+                "Toscana": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 5
+                                },
+                                "Capannori": {
+                                    "cnt": 9
+                                },
+                                "Castiglion Fiorentino": {
+                                    "cnt": 5
+                                },
+                                "Lucca": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 43.399732,
+                            "lng": 10.86625
+                        },
+                        "ITALY": {
+                            "cnt": 2,
+                            "lat": 43.7710132,
+                            "lng": 11.2486176
+                        },
+                        "italy": {
+                            "cnt": 3,
+                            "lat": 43.76952,
+                            "lng": 11.25547
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 43.76952,
+                    "lng": 11.25547
+                },
+                "Trentino-Alto Adige": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.2189863,
+                            "lng": 11.0485139
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.2189863,
+                    "lng": 11.0485139
+                },
+                "Tuscany": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 43.2179375,
+                            "lng": 11.9788594
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 43.2179375,
+                    "lng": 11.9788594
+                },
+                "Umbria": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Bevagna": {
+                                    "cnt": 11
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 43.2338404,
+                            "lng": 12.4143724
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 43.2338404,
+                    "lng": 12.4143724
+                },
+                "Veneto": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.36643,
+                            "lng": 11.66236
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.36643,
+                    "lng": 11.66236
+                }
+            },
+            "cnt": 1,
+            "lat": 45.36643,
+            "lng": 11.66236
+        },
+        "Kenya": {
+            "regions": {
+                "Narok County": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -1.3458375,
+                            "lng": 35.2038594
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -1.3458375,
+                    "lng": 35.2038594
+                }
+            },
+            "cnt": 1,
+            "lat": -1.3458375,
+            "lng": 35.2038594
+        },
+        "Maldives": {
+            "regions": {
+                "North Province": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Meedhoo": {
+                                    "cnt": 7
+                                }
+                            },
+                            "cnt": 7,
+                            "lat": 5.447062499999999,
+                            "lng": 72.94118750000001
+                        }
+                    },
+                    "cnt": 7,
+                    "lat": 5.447062499999999,
+                    "lng": 72.94118750000001
+                },
+                "Thiladhunmathee Uthuruburi": {
+                    "counties": {
+                        "": {
+                            "cnt": 3,
+                            "lat": 6.8412491,
+                            "lng": 73.0515961
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 6.8412491,
+                    "lng": 73.0515961
+                }
+            },
+            "cnt": 3,
+            "lat": 6.8412491,
+            "lng": 73.0515961
+        },
+        "Mexico": {
+            "regions": {
+                "Baja California Sur": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 23.040597,
+                            "lng": -109.7040604
+                        },
+                        "mexico": {
+                            "cnt": 1,
+                            "lat": 22.8903414,
+                            "lng": -109.916905
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 22.8903414,
+                    "lng": -109.916905
+                },
+                "Estado de México": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 19.4775952,
+                            "lng": -99.2793136
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 19.4775952,
+                    "lng": -99.2793136
+                },
+                "Guerrero": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 17.61433,
+                            "lng": -101.5513676
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 17.61433,
+                    "lng": -101.5513676
+                },
+                "Jalisco": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 20.2900292,
+                            "lng": -103.1860742
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 20.2900292,
+                    "lng": -103.1860742
+                },
+                "Nayarit": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 20.7767971,
+                            "lng": -105.5153056
+                        },
+                        "mexico": {
+                            "cnt": 1,
+                            "lat": 20.7794845,
+                            "lng": -105.5269376
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 20.7794845,
+                    "lng": -105.5269376
+                },
+                "Quintana Roo": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Tulum": {
+                                    "cnt": 9
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 20.4772698,
+                            "lng": -87.261766
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 20.4772698,
+                    "lng": -87.261766
+                }
+            },
+            "cnt": 1,
+            "lat": 20.4772698,
+            "lng": -87.261766
+        },
+        "Monaco": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "France": {
+                            "cnt": 2,
+                            "lat": 43.73846959999999,
+                            "lng": 7.424515100000001
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 43.73846959999999,
+                    "lng": 7.424515100000001
+                }
+            },
+            "cnt": 2,
+            "lat": 43.73846959999999,
+            "lng": 7.424515100000001
+        },
+        "Montenegro": {
+            "regions": {
+                "Opština Tivat": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": 42.4463876,
+                            "lng": 18.6870872
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 42.4463876,
+                    "lng": 18.6870872
+                }
+            },
+            "cnt": 2,
+            "lat": 42.4463876,
+            "lng": 18.6870872
+        },
+        "Morocco": {
+            "regions": {
+                "Casablanca-Settat": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 33.5730271,
+                            "lng": -7.674271699999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 33.5730271,
+                    "lng": -7.674271699999999
+                },
+                "Drâa-Tafilalet": {
+                    "counties": {
+                        "Morroco": {
+                            "cnt": 1,
+                            "lat": 31.0726388,
+                            "lng": -6.577010599999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 31.0726388,
+                    "lng": -6.577010599999999
+                },
+                "Fès-Meknès": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 33.9030083,
+                            "lng": -5.576756
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 33.9030083,
+                    "lng": -5.576756
+                },
+                "Marrakech-Safi": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Marrakech": {
+                                    "cnt": 24
+                                }
+                            },
+                            "cnt": 2,
+                            "lat": 31.6487113,
+                            "lng": -9.6747245
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 31.6487113,
+                    "lng": -9.6747245
+                },
+                "Marrakesh-Safi": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Marrakesh": {
+                                    "cnt": 29
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 31.521168,
+                            "lng": -7.853115
+                        },
+                        "Morrocco": {
+                            "cnt": 1,
+                            "lat": 31.6583402,
+                            "lng": -7.9590735
+                        },
+                        "Morroco": {
+                            "cnt": 2,
+                            "lat": 31.620403,
+                            "lng": -7.992146
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 31.620403,
+                    "lng": -7.992146
+                }
+            },
+            "cnt": 2,
+            "lat": 31.620403,
+            "lng": -7.992146
+        },
+        "New Zealand": {
+            "regions": {
+                "Canterbury": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -44.3954623,
+                            "lng": 169.6497247
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -44.3954623,
+                    "lng": 169.6497247
+                },
+                "Northland": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -35.283272,
+                            "lng": 174.181771
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -35.283272,
+                    "lng": 174.181771
+                }
+            },
+            "cnt": 1,
+            "lat": -35.283272,
+            "lng": 174.181771
+        },
+        "Philippines": {
+            "regions": {
+                "Caraga": {
+                    "counties": {
+                        "": {
+                            "cnt": 4,
+                            "lat": 9.7579592,
+                            "lng": 126.1226511
+                        }
+                    },
+                    "cnt": 4,
+                    "lat": 9.7579592,
+                    "lng": 126.1226511
+                }
+            },
+            "cnt": 4,
+            "lat": 9.7579592,
+            "lng": 126.1226511
+        },
+        "Portugal": {
+            "regions": {
+                "Braga": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 41.5117109,
+                            "lng": -8.7779837
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 41.5117109,
+                    "lng": -8.7779837
+                },
+                "Faro": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 37.1176647,
+                            "lng": -8.0873729
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 37.1176647,
+                    "lng": -8.0873729
+                },
+                "Leiria": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 39.7360876,
+                            "lng": -8.7924783
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 39.7360876,
+                    "lng": -8.7924783
+                },
+                "Porto": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 41.26963569999999,
+                            "lng": -8.0826488
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 41.26963569999999,
+                    "lng": -8.0826488
+                },
+                "Setubal": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Comporta": {
+                                    "cnt": 7
+                                }
+                            },
+                            "cnt": 4,
+                            "lat": 38.2783375,
+                            "lng": -8.6560156
+                        },
+                        "Comporta": {
+                            "cnt": 1,
+                            "lat": 38.3147875,
+                            "lng": -8.749203099999999
+                        },
+                        "Potugal": {
+                            "cnt": 1,
+                            "lat": 38.3147875,
+                            "lng": -8.749203099999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 38.3147875,
+                    "lng": -8.749203099999999
+                },
+                "Setúbal": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Comporta": {
+                                    "cnt": 12
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 38.3300174,
+                            "lng": -8.752139399999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 38.3300174,
+                    "lng": -8.752139399999999
+                },
+                "Vila Real": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 41.1987984,
+                            "lng": -7.5328687
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 41.1987984,
+                    "lng": -7.5328687
+                }
+            },
+            "cnt": 1,
+            "lat": 41.1987984,
+            "lng": -7.5328687
+        },
+        "Puerto Rico": {
+            "regions": {
+                "Carolina": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 18.4356107,
+                            "lng": -65.9809185
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 18.4356107,
+                    "lng": -65.9809185
+                },
+                "Dorado": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 33
+                                }
+                            },
+                            "cnt": 6,
+                            "lat": 18.4611144,
+                            "lng": -66.2934686
+                        }
+                    },
+                    "cnt": 6,
+                    "lat": 18.4611144,
+                    "lng": -66.2934686
+                },
+                "Jayuya": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 18.2202088,
+                            "lng": -66.58968759999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 18.2202088,
+                    "lng": -66.58968759999999
+                },
+                "Vega Alta": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 18.4692738,
+                            "lng": -66.32184
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 18.4692738,
+                    "lng": -66.32184
+                },
+                "Vieques": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 18.1432969,
+                            "lng": -65.4677713
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 18.1432969,
+                    "lng": -65.4677713
+                }
+            },
+            "cnt": 1,
+            "lat": 18.1432969,
+            "lng": -65.4677713
+        },
+        "Romania": {
+            "regions": {
+                "Județul Brașov": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.6037606,
+                            "lng": 25.5437721
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.6037606,
+                    "lng": 25.5437721
+                }
+            },
+            "cnt": 1,
+            "lat": 45.6037606,
+            "lng": 25.5437721
+        },
+        "Saint Barthélemy": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 110
+                                },
+                                "Gustavia": {
+                                    "cnt": 98
+                                },
+                                "Vitet": {
+                                    "cnt": 36
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 17.9028726,
+                            "lng": -62.80645419999999
+                        },
+                        "Caribbean": {
+                            "cities": {
+                                "": {
+                                    "cnt": 10
+                                },
+                                "Gustavia": {
+                                    "cnt": 54
+                                },
+                                "Vitet": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 5,
+                            "lat": 17.9050477,
+                            "lng": -62.79897030000001
+                        },
+                        "Caribbeans": {
+                            "cnt": 1,
+                            "lat": 17.9041606,
+                            "lng": -62.8397938
+                        },
+                        "St. Barts": {
+                            "cnt": 1,
+                            "lat": 17.9080338,
+                            "lng": -62.81897899999999
+                        },
+                        "The Caribbeans": {
+                            "cities": {
+                                "Gustavia": {
+                                    "cnt": 15
+                                },
+                                "Vitet": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 5,
+                            "lat": 17.9031125,
+                            "lng": -62.7941406
+                        },
+                        "The Carribbeans": {
+                            "cnt": 1,
+                            "lat": 17.8953875,
+                            "lng": -62.8417344
+                        },
+                        "St Barts": {
+                            "cnt": 2,
+                            "lat": 17.9071625,
+                            "lng": -62.81957809999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 17.9080338,
+                    "lng": -62.81897899999999
+                },
+                "Auvergne-Rhône-Alpes": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 17.910478,
+                            "lng": -62.8445636
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 17.910478,
+                    "lng": -62.8445636
+                },
+                "Collectivity of Saint Martin": {
+                    "counties": {
+                        "St. Barts": {
+                            "cnt": 1,
+                            "lat": 17.9073375,
+                            "lng": -62.8072656
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 17.9073375,
+                    "lng": -62.8072656
+                },
+                "Normandie": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 17.9171625,
+                            "lng": -62.8160469
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 17.9171625,
+                    "lng": -62.8160469
+                },
+                "Pays de la Loire": {
+                    "counties": {
+                        "Caribbean": {
+                            "cnt": 1,
+                            "lat": 17.8988875,
+                            "lng": -62.83473439999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 17.8988875,
+                    "lng": -62.83473439999999
+                },
+                "St Barthélemy": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Gustavia": {
+                                    "cnt": 24
+                                },
+                                "Petit Cul-de-Sac": {
+                                    "cnt": 5
+                                },
+                                "Vitet": {
+                                    "cnt": 6
+                                }
+                            },
+                            "cnt": 2,
+                            "lat": 17.8987875,
+                            "lng": -62.8345469
+                        },
+                        "Caribbean": {
+                            "cities": {
+                                "Gustavia": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 17.9060888,
+                            "lng": -62.8244857
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 17.8987875,
+                    "lng": -62.8345469
+                },
+                "St. Barthélemy": {
+                    "counties": {
+                        "": {
+                            "cnt": 4,
+                            "lat": 17.8893625,
+                            "lng": -62.8384844
+                        }
+                    },
+                    "cnt": 4,
+                    "lat": 17.8893625,
+                    "lng": -62.8384844
+                },
+                "Île-de-France": {
+                    "counties": {
+                        "Caribbean": {
+                            "cnt": 1,
+                            "lat": 17.9124855,
+                            "lng": -62.854871
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 17.9124855,
+                    "lng": -62.854871
+                }
+            },
+            "cnt": 1,
+            "lat": 17.9124855,
+            "lng": -62.854871
+        },
+        "Saint Martin": {
+            "regions": {
+                "Collectivity of Saint Martin": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 18.0973128,
+                            "lng": -63.02506769999999
+                        },
+                        "Caribbean": {
+                            "cities": {
+                                "": {
+                                    "cnt": 7
+                                }
+                            },
+                            "cnt": 7,
+                            "lat": 18.0708298,
+                            "lng": -63.0500809
+                        },
+                        "Les Terres Basses": {
+                            "cnt": 1,
+                            "lat": 18.0654369,
+                            "lng": -63.1413594
+                        },
+                        "the caribbeans": {
+                            "cnt": 1,
+                            "lat": 18.0654369,
+                            "lng": -63.1413594
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 18.0654369,
+                    "lng": -63.1413594
+                }
+            },
+            "cnt": 1,
+            "lat": 18.0654369,
+            "lng": -63.1413594
+        },
+        "Seychelles": {
+            "regions": {
+                "Baie Sainte Anne": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -4.3325908,
+                            "lng": 55.74672589999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -4.3325908,
+                    "lng": 55.74672589999999
+                },
+                "Cascade": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -4.679574,
+                            "lng": 55.491977
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -4.679574,
+                    "lng": 55.491977
+                },
+                "Glacis": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Vista Do Mar": {
+                                    "cnt": 8
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": -4.5831929,
+                            "lng": 55.4331091
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -4.5831929,
+                    "lng": 55.4331091
+                },
+                "Grand Anse Praslin": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": -4.308479999999999,
+                            "lng": 55.683622
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": -4.308479999999999,
+                    "lng": 55.683622
+                },
+                "La Digue": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -4.3547531,
+                            "lng": 55.832089
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -4.3547531,
+                    "lng": 55.832089
+                },
+                "La Riviere Anglaise": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -4.6194474,
+                            "lng": 55.4549852
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -4.6194474,
+                    "lng": 55.4549852
+                }
+            },
+            "cnt": 1,
+            "lat": -4.6194474,
+            "lng": 55.4549852
+        },
+        "Slovakia": {
+            "regions": {
+                "Bratislavský kraj": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 48.1485736,
+                            "lng": 17.1080566
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 48.1485736,
+                    "lng": 17.1080566
+                }
+            },
+            "cnt": 1,
+            "lat": 48.1485736,
+            "lng": 17.1080566
+        },
+        "Slovenia": {
+            "regions": {
+                "Jesenice": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.4854261,
+                            "lng": 13.8453866
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.4854261,
+                    "lng": 13.8453866
+                },
+                "Koper": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.5799393,
+                            "lng": 13.7761747
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.5799393,
+                    "lng": 13.7761747
+                },
+                "Kočevje": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.5082803,
+                            "lng": 14.9081768
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.5082803,
+                    "lng": 14.9081768
+                },
+                "Nova Gorica": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.0118472,
+                            "lng": 13.5654118
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.0118472,
+                    "lng": 13.5654118
+                },
+                "Zagorje ob Savi": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.151241,
+                            "lng": 14.995463
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.151241,
+                    "lng": 14.995463
+                }
+            },
+            "cnt": 1,
+            "lat": 46.151241,
+            "lng": 14.995463
+        },
+        "South Africa": {
+            "regions": {
+                "Eastern Cape": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -33.352661,
+                            "lng": 27.3685
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -33.352661,
+                    "lng": 27.3685
+                },
+                "North West": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -26.84668,
+                            "lng": 26.66059
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -26.84668,
+                    "lng": 26.66059
+                },
+                "Western Cape": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Cape Town": {
+                                    "cnt": 60
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": -33.9062725,
+                            "lng": 19.1018267
+                        },
+                        "France": {
+                            "cnt": 1,
+                            "lat": -34.0977196,
+                            "lng": 18.3573475
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -33.9062725,
+                    "lng": 19.1018267
+                }
+            },
+            "cnt": 1,
+            "lat": -33.9062725,
+            "lng": 19.1018267
+        },
+        "Spain": {
+            "regions": {
+                "Andalucía": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Marbella": {
+                                    "cnt": 61
+                                },
+                                "Benahavís": {
+                                    "cnt": 14
+                                }
+                            },
+                            "cnt": 2,
+                            "lat": 36.466328,
+                            "lng": -5.000376
+                        },
+                        "Greece": {
+                            "cnt": 1,
+                            "lat": 36.512836,
+                            "lng": -4.936335
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 36.466328,
+                    "lng": -5.000376
+                },
+                "Andalusia": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Benahavís": {
+                                    "cnt": 5
+                                },
+                                "Marbella": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 37.384228,
+                            "lng": -5.990342
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 37.384228,
+                    "lng": -5.990342
+                },
+                "Balearic Islands": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 38.900063,
+                            "lng": 1.348586
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 38.900063,
+                    "lng": 1.348586
+                },
+                "Canarias": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 28.4168966,
+                            "lng": -16.5077522
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 28.4168966,
+                    "lng": -16.5077522
+                },
+                "Castile-La Mancha": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 38.537769,
+                            "lng": -3.277225
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 38.537769,
+                    "lng": -3.277225
+                },
+                "Catalonia": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 42.7245643,
+                            "lng": 0.7722973999999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 42.7245643,
+                    "lng": 0.7722973999999999
+                },
+                "Catalunya": {
+                    "counties": {
+                        "": {
+                            "cnt": 4,
+                            "lat": 41.9192863,
+                            "lng": 3.2088823
+                        }
+                    },
+                    "cnt": 4,
+                    "lat": 41.9192863,
+                    "lng": 3.2088823
+                },
+                "Cataluña": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 41.9206051,
+                            "lng": 2.9882207
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 41.9206051,
+                    "lng": 2.9882207
+                },
+                "Extremadura": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 40.103611,
+                            "lng": -5.727752
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 40.103611,
+                    "lng": -5.727752
+                },
+                "Illes Balears": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 22
+                                },
+                                "Sant Josep de sa Talaia": {
+                                    "cnt": 16
+                                },
+                                "Santa Eulalia del Río": {
+                                    "cnt": 9
+                                },
+                                "Can Negre": {
+                                    "cnt": 11
+                                },
+                                "Sant Joan de Labritja": {
+                                    "cnt": 5
+                                },
+                                "Santa Gertrudis de Fruitera": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 39.7140611,
+                            "lng": 2.6215685
+                        },
+                        "spain": {
+                            "cnt": 1,
+                            "lat": 38.9715018,
+                            "lng": 1.3061841
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 38.9715018,
+                    "lng": 1.3061841
+                },
+                "Islas Baleares": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Eivissa": {
+                                    "cnt": 25
+                                },
+                                "Santa Eulalia del Río": {
+                                    "cnt": 10
+                                }
+                            },
+                            "cnt": 10,
+                            "lat": 38.9827214,
+                            "lng": 1.5293328
+                        },
+                        "SPAIN": {
+                            "cnt": 2,
+                            "lat": 38.9036783,
+                            "lng": 1.4072267
+                        },
+                        "spain": {
+                            "cnt": 2,
+                            "lat": 38.9036783,
+                            "lng": 1.4072267
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 38.9036783,
+                    "lng": 1.4072267
+                }
+            },
+            "cnt": 2,
+            "lat": 38.9036783,
+            "lng": 1.4072267
+        },
+        "Sri Lanka": {
+            "regions": {
+                "Southern Province": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 5.9730503,
+                            "lng": 80.43940549999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 5.9730503,
+                    "lng": 80.43940549999999
+                }
+            },
+            "cnt": 1,
+            "lat": 5.9730503,
+            "lng": 80.43940549999999
+        },
+        "Switzerland": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.388508,
+                            "lng": 7.268398
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.388508,
+                    "lng": 7.268398
+                },
+                "BE": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.470638,
+                            "lng": 7.284343
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.470638,
+                    "lng": 7.284343
+                },
+                "Basel-Stadt": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 47.553135,
+                            "lng": 7.581835
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 47.553135,
+                    "lng": 7.581835
+                },
+                "Bern": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Gsteig": {
+                                    "cnt": 10
+                                },
+                                "Saanen": {
+                                    "cnt": 29
+                                },
+                                "Gstaad": {
+                                    "cnt": 13
+                                }
+                            },
+                            "cnt": 3,
+                            "lat": 46.503319,
+                            "lng": 7.290383
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 46.503319,
+                    "lng": 7.290383
+                },
+                "Genève": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.2040228,
+                            "lng": 6.143243
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.2040228,
+                    "lng": 6.143243
+                },
+                "Graubünden": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Sankt Moritz": {
+                                    "cnt": 14
+                                }
+                            },
+                            "cnt": 8,
+                            "lat": 46.4969884,
+                            "lng": 9.8424894
+                        }
+                    },
+                    "cnt": 8,
+                    "lat": 46.4969884,
+                    "lng": 9.8424894
+                },
+                "Grigioni": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.456959,
+                            "lng": 9.813992
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.456959,
+                    "lng": 9.813992
+                },
+                "Luzern": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": 47.0101691,
+                            "lng": 8.4832611
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 47.0101691,
+                    "lng": 8.4832611
+                },
+                "Obwalden": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.8200031,
+                            "lng": 8.406236999999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.8200031,
+                    "lng": 8.406236999999999
+                },
+                "Schwyz": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 47.06239859999999,
+                            "lng": 8.5226714
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 47.06239859999999,
+                    "lng": 8.5226714
+                },
+                "Swiss Alps": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 46.475212,
+                            "lng": 7.291427
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 46.475212,
+                    "lng": 7.291427
+                },
+                "Ticino": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 45.953401,
+                            "lng": 8.964831799999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 45.953401,
+                    "lng": 8.964831799999999
+                },
+                "Valais": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Bagnes": {
+                                    "cnt": 142
+                                },
+                                "Val de Bagnes": {
+                                    "cnt": 8
+                                },
+                                "Crans-Montana": {
+                                    "cnt": 7
+                                },
+                                "Zermatt": {
+                                    "cnt": 11
+                                }
+                            },
+                            "cnt": 11,
+                            "lat": 46.0040669,
+                            "lng": 7.747888
+                        }
+                    },
+                    "cnt": 11,
+                    "lat": 46.0040669,
+                    "lng": 7.747888
+                },
+                "Vaud": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Château-d’Œx": {
+                                    "cnt": 10
+                                },
+                                "Ollon": {
+                                    "cnt": 5
+                                },
+                                "Rougemont": {
+                                    "cnt": 9
+                                }
+                            },
+                            "cnt": 9,
+                            "lat": 46.4894493,
+                            "lng": 7.2130054
+                        }
+                    },
+                    "cnt": 9,
+                    "lat": 46.4894493,
+                    "lng": 7.2130054
+                },
+                "Wallis": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Zermatt": {
+                                    "cnt": 79
+                                }
+                            },
+                            "cnt": 67,
+                            "lat": 46.00233069999999,
+                            "lng": 7.748798600000001
+                        }
+                    },
+                    "cnt": 67,
+                    "lat": 46.00233069999999,
+                    "lng": 7.748798600000001
+                },
+                "Zürich": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 47.3769007,
+                            "lng": 8.541787
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 47.3769007,
+                    "lng": 8.541787
+                }
+            },
+            "cnt": 1,
+            "lat": 47.3769007,
+            "lng": 8.541787
+        },
+        "Thailand": {
+            "regions": {
+                "Chang Wat Phang-nga": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 8.2885007,
+                            "lng": 98.27428169999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 8.2885007,
+                    "lng": 98.27428169999999
+                },
+                "Chang Wat Phuket": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Tambon Kamala": {
+                                    "cnt": 7
+                                },
+                                "Tambon Wichit": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 7.9035781,
+                            "lng": 98.3032791
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 7.9035781,
+                    "lng": 98.3032791
+                },
+                "Chang Wat Surat Thani": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 11
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 9.7404716,
+                            "lng": 100.0021899
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 9.7404716,
+                    "lng": 100.0021899
+                },
+                "Phuket": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 8.0118765,
+                            "lng": 98.3033694
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 8.0118765,
+                    "lng": 98.3033694
+                },
+                "Surat Thani": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 15
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 9.7404837,
+                            "lng": 100.0021395
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 9.7404837,
+                    "lng": 100.0021395
+                }
+            },
+            "cnt": 1,
+            "lat": 9.7404837,
+            "lng": 100.0021395
+        },
+        "The Bahamas": {
+            "regions": {
+                "New Providence": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 25.003605,
+                            "lng": -77.508186
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 25.003605,
+                    "lng": -77.508186
+                }
+            },
+            "cnt": 1,
+            "lat": 25.003605,
+            "lng": -77.508186
+        },
+        "Turkey": {
+            "regions": {
+                "Muğla": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 37.1529375,
+                            "lng": 27.5211406
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 37.1529375,
+                    "lng": 27.5211406
+                }
+            },
+            "cnt": 1,
+            "lat": 37.1529375,
+            "lng": 27.5211406
+        },
+        "Turks and Caicos Islands": {
+            "regions": {
+                "Caicos Islands": {
+                    "counties": {
+                        "Turks & Caicos Islands": {
+                            "cnt": 4,
+                            "lat": 21.8127811,
+                            "lng": -72.1439687
+                        },
+                        "the Caribbean": {
+                            "cnt": 1,
+                            "lat": 21.7636399,
+                            "lng": -72.2162783
+                        },
+                        "the Caribbeans": {
+                            "cnt": 1,
+                            "lat": 21.7944365,
+                            "lng": -72.1906984
+                        },
+                        "the caribbean": {
+                            "cnt": 1,
+                            "lat": 21.7997149,
+                            "lng": -72.16826929999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 21.7997149,
+                    "lng": -72.16826929999999
+                }
+            },
+            "cnt": 1,
+            "lat": 21.7997149,
+            "lng": -72.16826929999999
+        },
+        "Türkiye": {
+            "regions": {
+                "İstanbul": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 12
+                                }
+                            },
+                            "cnt": 3,
+                            "lat": 41.04803,
+                            "lng": 28.9930759
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 41.04803,
+                    "lng": 28.9930759
+                }
+            },
+            "cnt": 3,
+            "lat": 41.04803,
+            "lng": 28.9930759
+        },
+        "United Arab Emirates": {
+            "regions": {
+                "": {
+                    "counties": {
+                        "": {
+                            "cnt": 4,
+                            "lat": 25.0794926,
+                            "lng": 55.12199589999999
+                        }
+                    },
+                    "cnt": 4,
+                    "lat": 25.0794926,
+                    "lng": 55.12199589999999
+                },
+                "Abu Dhabi": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 24.4929136,
+                            "lng": 54.6129455
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 24.4929136,
+                    "lng": 54.6129455
+                },
+                "Dubai": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 154
+                                }
+                            },
+                            "cnt": 6,
+                            "lat": 25.112294,
+                            "lng": 55.1390217
+                        }
+                    },
+                    "cnt": 6,
+                    "lat": 25.112294,
+                    "lng": 55.1390217
+                },
+                "دبي": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "": {
+                                    "cnt": 7
+                                }
+                            },
+                            "cnt": 7,
+                            "lat": 25.0776849,
+                            "lng": 55.1341701
+                        }
+                    },
+                    "cnt": 7,
+                    "lat": 25.0776849,
+                    "lng": 55.1341701
+                }
+            },
+            "cnt": 7,
+            "lat": 25.0776849,
+            "lng": 55.1341701
+        },
+        "United Kingdom": {
+            "regions": {
+                "England": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Poole": {
+                                    "cnt": 5
+                                }
+                            },
+                            "cnt": 2,
+                            "lat": 51.2440626,
+                            "lng": -2.4249529
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 51.2440626,
+                    "lng": -2.4249529
+                },
+                "Scotland": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 56.4718345,
+                            "lng": -2.9753511
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 56.4718345,
+                    "lng": -2.9753511
+                }
+            },
+            "cnt": 1,
+            "lat": 56.4718345,
+            "lng": -2.9753511
+        },
+        "United States": {
+            "regions": {
+                "Arizona": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 33.493099,
+                            "lng": -111.934074
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 33.493099,
+                    "lng": -111.934074
+                },
+                "CA": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 33.979534,
+                            "lng": -118.460098
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 33.979534,
+                    "lng": -118.460098
+                },
+                "California": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 34.9502646,
+                            "lng": -120.4353955
+                        },
+                        "Caribbean": {
+                            "cnt": 1,
+                            "lat": 33.9694666,
+                            "lng": -118.0494059
+                        },
+                        "USA": {
+                            "cities": {
+                                "Los Angeles": {
+                                    "cnt": 15
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 34.0951204,
+                            "lng": -118.3820132
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 34.0951204,
+                    "lng": -118.3820132
+                },
+                "Colorado": {
+                    "counties": {
+                        "": {
+                            "cnt": 4,
+                            "lat": 40.4678656,
+                            "lng": -106.7880299
+                        }
+                    },
+                    "cnt": 4,
+                    "lat": 40.4678656,
+                    "lng": -106.7880299
+                },
+                "District of Columbia": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": 38.946552,
+                            "lng": -77.021126
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 38.946552,
+                    "lng": -77.021126
+                },
+                "Florida": {
+                    "counties": {
+                        "": {
+                            "cities": {
+                                "Miami": {
+                                    "cnt": 9
+                                },
+                                "Miami Beach": {
+                                    "cnt": 10
+                                }
+                            },
+                            "cnt": 1,
+                            "lat": 28.5383191,
+                            "lng": -81.3793086
+                        },
+                        "USA": {
+                            "cnt": 3,
+                            "lat": 28.5383448,
+                            "lng": -81.3793242
+                        }
+                    },
+                    "cnt": 3,
+                    "lat": 28.5383448,
+                    "lng": -81.3793242
+                },
+                "Idaho": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 47.698088,
+                            "lng": -116.8615917
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 47.698088,
+                    "lng": -116.8615917
+                },
+                "New Hampshire": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 43.0594147,
+                            "lng": -70.72320599999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 43.0594147,
+                    "lng": -70.72320599999999
+                },
+                "Texas": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": 30.207129,
+                            "lng": -97.785332
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 30.207129,
+                    "lng": -97.785332
+                },
+                "Washington": {
+                    "counties": {
+                        "": {
+                            "cnt": 2,
+                            "lat": 47.613335,
+                            "lng": -122.296387
+                        }
+                    },
+                    "cnt": 2,
+                    "lat": 47.613335,
+                    "lng": -122.296387
+                }
+            },
+            "cnt": 2,
+            "lat": 47.613335,
+            "lng": -122.296387
+        },
+        "Zimbabwe": {
+            "regions": {
+                "Mashonaland West Province": {
+                    "counties": {
+                        "": {
+                            "cnt": 1,
+                            "lat": -15.6549177,
+                            "lng": 29.6847981
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": -15.6549177,
+                    "lng": 29.6847981
+                }
+            },
+            "cnt": 1,
+            "lat": -15.6549177,
+            "lng": 29.6847981
+        },
+        "": {
+            "regions": {
+                "Basse-Terre": {
+                    "counties": {
+                        "Guadaloupe": {
+                            "cnt": 1,
+                            "lat": 16.1839419,
+                            "lng": -61.65340999999999
+                        }
+                    },
+                    "cnt": 1,
+                    "lat": 16.1839419,
+                    "lng": -61.65340999999999
+                }
+            },
+            "cnt": 1,
+            "lat": 16.1839419,
+            "lng": -61.65340999999999
+        }
+    }
+}

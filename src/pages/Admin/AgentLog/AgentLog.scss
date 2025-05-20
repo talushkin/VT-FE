@@ -1,0 +1,81 @@
+.offers-container {
+	border-radius: 10px;
+
+	.offer-datagrid-property {
+		display: flex;
+	}
+
+	.offers-title {
+		font-size: 35px;
+		font-weight: 500;
+		color: #133C73;
+		padding: 30px;
+		text-align: center;
+	}
+
+	.offers-header {
+		display: flex;
+		background-color: #F5F5F2;
+		padding: 30px 40px;
+		column-gap: 30px;
+		font-size:25px;
+
+		.offers-header-title {
+			padding: 5px;
+		}
+
+		.offers-header-value {
+			background-color: #FFFFFF;
+			border-radius: 6px;
+			width: 300px;
+			padding: 10px;
+		}
+	}
+
+	.offers-travel-details {
+		padding: 20px 40px;
+		display: flex;
+		column-gap: 30px;
+		color: #707070;
+		font-size:25px;
+	}
+
+	.offers-footer {
+		background-color: #FDFDFD;
+		height: 100px;
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+		margin-right: 20px;
+	}
+}
+
+.modal-center {
+	position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+	top: 120px;
+}
+
+.log-accordion-header {
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.log-accordion-header {
+	// color: blue;
+	font-weight: 500;
+}
+.log-accordion-header .active {
+	color: green;
+	font-weight: 500;
+}
+.log-accordion-body {
+	max-height: 200px;
+	overflow-y: auto;
+}
+.log-breakword {
+	word-wrap: break-word;
+}

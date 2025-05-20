@@ -1,0 +1,61 @@
+[
+  {
+	"name": "Beach Front",
+	"code": "AF"
+  },
+  {
+	"name": "Helipad",
+	"code": "AX"
+
+  },
+  {
+	"name": "Large Plot",
+	"code": "AX"
+
+  },
+  {
+	"name": "Mountain Views",
+	"code": "AX"
+
+  },
+  {
+	"name": "Natuaral surroundings",
+	"code": "AX"
+
+  },
+  {
+	"name": "Near Marina",
+	"code": "AX"
+
+  },
+  {
+	"name": "Nearby Country Club",
+	"code": "AX"
+
+  },
+  {
+	"name": "Nearby Shopping",
+	"code": "AX"
+
+  }, {
+  "name": "Pool",
+  "code": "AX"
+
+}, {
+  "name": "Private Beach",
+  "code": "AX"
+
+}, {
+  "name": "Sea View",
+  "code": "AX"
+
+}, {
+  "name": "Ski In/Out",
+  "code": "AX"
+
+},{
+  "name": "Skiing",
+  "code": "AX"
+
+}
+]

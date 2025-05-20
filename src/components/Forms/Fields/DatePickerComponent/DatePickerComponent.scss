@@ -1,0 +1,214 @@
+/* DatePickerComponent.scss */
+
+.DateRangePicker {
+  font-weight: 100;
+  display: inline !important;
+  justify-content: space-between;
+}
+
+.DateRangePickerInput_arrow {
+  display: none;
+}
+
+#arrivedate,
+#departdate {
+  border-radius: 7px;
+  font-weight: 500;
+  background-image: url('../../../../assets/icons/calendar.png');
+  background-size: 24px 24px;
+  background-position: left center;
+  background-repeat: no-repeat;
+  min-width: 142px;
+  padding-left: 30px;
+  padding: 8.2px 30px;
+}
+
+.DateRangePicker .DateRangePickerInput__withBorder {
+  border: none !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  gap: 2% !important;
+  background: transparent !important;
+  border-radius: 4px !important;
+  width: 100%;
+}
+
+.DateInput {
+  display: flex !important;
+  width: 100% !important;
+  border-radius: 4px !important;
+  padding: 0 10px;
+}
+
+.DateInput .calendar-icon {
+  background: url('https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678116-calendar-512.png') no-repeat;
+  background-size: 100% 100%;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.DateRangePickerInput_clearDates {
+  margin: 0px 0px !important;
+  font-size: -webkit-xxx-large;
+  right: 0px !important;
+  top: 20px !important;
+
+  @media (max-width: 1024px) {
+    margin: 0px 0px !important;
+  }
+
+  @media (max-width: 768px) {
+    margin: 0px -2px !important;
+  }
+}
+
+.DateRangePicker_picker {
+  left: -40.568px !important;
+
+  @media (max-width: 768px) {
+    top: 47px !important;
+    margin-left: 90px !important;
+    left: -74.568px !important;
+  }
+}
+
+.DateRangePickerInput__showClearDates {
+  padding: 0;
+}
+
+.DayPicker_transitionContainer {
+  @media (max-width: 768px) {
+    height: 645px !important;
+  }
+}
+
+.CalendarDay__selected,
+.CalendarDay__selected:active,
+.CalendarDay__selected:hover {
+  font-weight: 500 !important;
+  background: #2C4861 !important;
+  color: #fff !important;
+}
+
+.CalendarDay__selected_span {
+  font-weight: 500 !important;
+  background: #D3F4FF !important;
+  border: 1px double #E4E4E4 !important;
+  color: #595959 !important;
+}
+
+.CalendarDay__blocked_calendar,
+.CalendarDay__blocked_calendar:active {
+  background-color: white;
+  font-weight: 600 !important;
+  border: 1px solid #e4e7e7 !important;
+  color: #D3D3D3 !important;
+}
+
+.CalendarDay__selected_span:active,
+.CalendarDay__selected_span:hover {
+  background: #5a6261;
+  color: #fff;
+}
+
+.propertyDatePicker .DateRangePicker_picker {
+  top: 44px !important;
+  left: 10px !important;
+}
+
+.propertyDatePicker #property-arrivedate,
+#property-departdate {
+  border: 1px solid #d2d1d1;
+  border-radius: 7px;
+  font-weight: 500;
+  background-image: url('../../../../assets/icons/calendar.png');
+  background-size: 24px 24px;
+  background-position: left 2px center;
+  background-repeat: no-repeat;
+  padding: 8.2px 30px;
+}
+
+@media (max-width: 768px) {
+  .propertyDatePicker .DateRangePicker_picker {
+    top: 47px !important;
+    margin-left: 74px !important;
+    left: -74.568px !important;
+  }
+}
+
+.DayPickerKeyboardShortcuts_show__bottomRight,
+.DayPickerKeyboardShortcuts_show__topRight {
+  display: none;
+}
+
+.propertyDatePicker .CalendarMonth_table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.propertyDatePicker .DayPicker_weekHeader .DayPicker_weekHeader_1 .DayPicker_weekHeader__vertical .DayPicker_weekHeader__vertical_2 {
+  top: -6px;
+  margin-left: -226px;
+  padding: 0px 13px;
+}
+
+.propertyDatePicker .DayPicker_weekHeader {
+  color: #757575;
+  position: absolute;
+  top: 22px !important;
+  z-index: 2;
+  text-align: left;
+  padding-top: 20px !important;
+}
+
+.propertyDatePicker .DayPicker_transitionContainer__vertical {
+  height: 560px !important;
+  width: 100% !important;
+}
+
+.DateInput_fang {
+  display: none;
+}
+
+.CalendarDay__blocked_calendar:hover {
+  background-color: white !important;
+  border: 1px solid #e4e7e7 !important;
+  color: #D3D3D3 !important;
+}
+
+/* Custom styles to prevent overlapping */
+.DayPicker__vertical .DayPicker_weekHeader {
+  margin-top: 40px; /* Adjust margin as needed */
+}
+
+.DayPicker__vertical .DayPicker_weekHeader_ul {
+  margin-top: 10px; /* Adjust margin as needed */
+}
+
+/* DatePickerComponent.scss */
+.datepicker .DateInput_input {
+  border-radius: 0.375rem;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #dee2e6;
+}
+
+.datepicker .DateInput {
+  border: none; /* Remove the border from the parent container to avoid double border */
+}
+
+.datepicker .DateRangePickerInput {
+  display: flex;
+}
+
+.datepicker .DateRangePickerInput__withBorder {
+  border: none; /* Ensure the combined border is removed */
+}
+
+.datepicker .DateRangePickerInput__arrow {
+  display: none; /* Optionally hide the arrow between the inputs if desired */
+}

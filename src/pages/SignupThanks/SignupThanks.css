@@ -1,0 +1,55 @@
+.thanks-container {
+	display: grid;
+	grid-template-columns: 40% 60%;
+	height: 100vh;
+}
+
+.thanks-pic-left {
+	background-image: url("../../assets/desktop/signin-left-image.png");
+	background-size: cover;
+}
+
+.thanks-main {
+	display: grid;
+	grid-template-rows: 1fr 50px;
+}
+
+.thanks-titles {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+
+.thanks-title1 {
+	font-size: 50px;
+	color: #165093;
+}
+
+.thanks-title2 {
+	font-size: 40px;
+	font-weight: 500;
+	color: #165093;
+}
+
+.thanks-title3 {
+	font-size: 24px;
+	color: #165093;
+}
+
+.thanks-box-parent {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background: #FDFDFD;
+}
+
+.thanks-box-child {
+	box-sizing: border-box;
+	font-family: "Quicksand", sans-serif;
+	left: 0;
+	position: relative;
+	top: 0;
+	text-align: left;
+}

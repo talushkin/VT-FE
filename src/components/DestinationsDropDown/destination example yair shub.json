@@ -1,0 +1,36 @@
+{
+    "destinations": { 
+        "Israel": {
+            "regions": {
+                "Gush Dan": {
+                    "cities": {
+                        "Tel Aviv": {
+                            "cnt": 5,
+                            "lat": 12.123,
+                            "lng": 31.134 
+                        },
+                        "Rishon Le Zion": {
+                            "cnt": 3,
+                            "lat": 12.123,
+                            "lng": 31.134
+                        },
+                        "Herzelia": {
+                            "cnt": 8,
+                            "lat": 12.124,
+                            "lng": 31.137
+                        }
+                    },
+                    "cnt": 11,
+                    "lat": 12.11,
+                    "lng": 31.14
+                }
+            },
+            "cnt": 11,
+            "lat": 12.11,
+            "lng": 31.11
+        }
+    },
+    "cnt": 1,
+    "lat": 12.123,
+    "lng": 31.134
+}

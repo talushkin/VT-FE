@@ -1,0 +1,136 @@
+.property-page-wrapper {
+
+	.edit-property-page-container {
+		background-color: rgb(227, 252, 233);
+	}
+
+	.property-main-top {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+
+		.property-main-picture-container {
+			display: grid;
+			grid-template-columns: 1fr 40px 700px 40px 1fr;
+			width: 100%;
+			justify-content: center;
+			align-items: center;
+			padding: 15px 25px 0 25px;
+
+			.property-main-picture {
+				width: 700px;
+				height: 470px;
+				position: relative;
+			}
+
+			.property-page-prev-next-pic {
+				padding: 8px;
+			}
+
+			.property-main-picture-bullets {
+				display: flex;
+				align-items: center;
+			}
+
+			.property-main-picture-icons {
+				display:grid;
+				grid-template-columns: 50px 50px 50px 50px 50px;
+				align-self: flex-end;
+				justify-content: flex-end;
+
+				.property-main-picture-icon {
+					padding: 5px;
+					cursor: pointer;
+				}
+			}
+		}
+	}
+
+	.property-page-body-top {
+		padding: 0 40px;
+		display: grid;
+		grid-template-columns: 1fr 400px;
+
+		.property-page-body-top-left {
+
+			.property-page-body-top-left-info {
+
+				.property-page-body-top-left-info-amenities {
+					display: grid;
+					grid-template-columns: 1fr 1fr 1fr;
+
+					.property-page-body-top-left-info-amenity {
+						display: list-item;
+						margin: 5px 18px;
+					}
+				}
+
+				.property-page-body-top-left-info-amount {
+					display: flex;
+					color: #AAAAAA;
+					flex-direction: column;
+					width: 40px;
+					align-items: center;
+					margin-right: 60px;
+					font-size: 22px;
+					white-space: nowrap;
+				}
+			}
+
+			.property-page-body-top-left-info > * {
+				color: #284768;
+			}
+
+			.property-page-body-top-title {
+				font-size: 40px;
+				color: #284866;
+			}
+
+			.property-page-body-top-subtitle {
+				font-size: 30px;
+				color: #284866;
+			}
+		}
+
+		.property-page-body-top-right {
+
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+
+			.property-page-body-top-dates {
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				width: 100%;
+			}
+
+			.property-page-body-top-price {
+				font-size: 48px;
+				color: #284866;
+			}
+
+			.property-page-body-top-night {
+				font-size: 30px;
+				color: #284866;
+				padding: 10px;
+			}
+
+			.property-page-body-top-commission-price {
+				font-size: 28px;
+				color: #284866;
+			}
+
+			.property-page-body-top-commission-title {
+				font-size: 22px;
+				color: #284866;
+			}
+
+			.property-page-body-top-date-title {
+				font-size: 18px;
+				color: #284866;
+			}
+		}
+	}
+}

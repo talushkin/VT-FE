@@ -1,0 +1,36 @@
+// @import "./../../../../Style/base";
+@import "./../../../../Style/form";
+
+.where-to-form-field {
+	border-radius: 4px !important;
+	background-color: white;
+}
+
+.input_wrapper {
+	position: relative;
+	.input_field_wrapper {
+		position: relative;
+		svg {
+			position: absolute;
+			bottom: 25px;
+			right: 12px;
+		}
+		&.error {
+			svg {
+				bottom: 23px;
+			}
+		}
+		select {
+			width: 200%;
+		}
+		 
+	}
+}
+
+.email_error {
+	color: #d9212c;
+	font-family: "Quicksand", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+}

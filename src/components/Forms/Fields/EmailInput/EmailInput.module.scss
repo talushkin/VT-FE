@@ -1,0 +1,44 @@
+// @import "./../../../../Style/base";
+@import "./../../../../Style/form";
+
+.input_wrapper {
+  position: relative;
+  .input_field_wrapper {
+    position: relative;
+    svg {
+      position: absolute;
+      bottom: 25px;
+      right: 12px;
+    }
+    &.error {
+      svg {
+        bottom: 23px;
+      }
+    }
+    input {
+      width: 100%;
+    }
+  }
+}
+
+.email_error {
+	color: #EF4040;
+	font-family: "Quicksand", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 13px;
+	display: flex;
+	align-items: center;
+  background: #FEE7E7;
+	padding: 5px;
+	border-radius: 6px;
+  margin: 5px 0px;
+}
+.email_notice {
+  color: #282a35;
+  font-family: "Quicksand", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  margin: 5px 0px;
+}

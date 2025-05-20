@@ -1,0 +1,44 @@
+.collection-container {
+	background-color: white;
+	// margin-top: -164px;
+
+
+	#dog-events-sustain {
+		margin-top: -10%;
+		margin-right: -900px;
+	}
+
+	#family {
+		margin-top: -10%;
+		margin-right: -900px;
+	}
+
+	.collection-boxes {
+		grid-row-gap: 30px;
+		width: 100%;
+		// display: flex;
+		// justify-content: space-between;
+	}
+
+
+}
+
+.video-container {
+	height: 200px;
+	width: 100%;
+	overflow: hidden;
+	display: block;
+	// height: 300px;
+	margin-left: 0px;
+
+}
+
+.collection-lable-logo {
+	gap: 10px;
+	// width: 40%;
+	// justify-content: space-around;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
