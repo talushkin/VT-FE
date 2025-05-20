@@ -6,7 +6,6 @@ import ListSelectable from './ListSelectable';
 import constants from '../../../Util/constants';
 
 const TranslationPopup = ({ onClose, emailText, handleTranslatedEmailTemplate }) => {
-  const openaiApiKey = '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';
 
 
   const [targetLang, setTargetLang] = useState(null);
