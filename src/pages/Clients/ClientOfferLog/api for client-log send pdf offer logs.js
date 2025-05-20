@@ -1,4 +1,4 @@
-fetch("https://backend.villatracker.com/pdf/generate", {
+fetch("https://vt-be.vercel.app/pdf/generate", {
   "headers": {
     "accept": "application/json, text/plain, */*",
     "content-type": "application/json",
